@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "artifactType": {
+    "type": "PROCESSED_RES",
+    "kind": "Directory"
+  },
+  "applicationId": "org.blayboy.newpipe.debug",
+  "variantName": "processDebugResources",
+  "elements": [
+    {
+      "type": "SINGLE",
+      "filters": [],
+      "versionCode": 968,
+      "versionName": "0.21.2",
+      "outputFile": "resources-debug.ap_"
+    }
+  ]
+}

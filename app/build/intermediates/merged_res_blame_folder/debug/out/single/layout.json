@@ -1,0 +1,406 @@
+[
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/channel_header.xml",
+        "source": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/res/layout/channel_header.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/dialog_feed_group_reorder.xml",
+        "source": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/res/layout/dialog_feed_group_reorder.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/playlist_control.xml",
+        "source": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/res/layout/playlist_control.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_stream_segment.xml",
+        "source": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/res/layout/item_stream_segment.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_kiosk.xml",
+        "source": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/res/layout/fragment_kiosk.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/list_stream_item.xml",
+        "source": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/res/layout/list_stream_item.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_blank.xml",
+        "source": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/res/layout/fragment_blank.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/list_comments_mini_item.xml",
+        "source": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/res/layout/list_comments_mini_item.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/toolbar_layout.xml",
+        "source": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/res/layout/toolbar_layout.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_playlist.xml",
+        "source": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/res/layout/fragment_playlist.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/instance_spinner_item.xml",
+        "source": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/res/layout/instance_spinner_item.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/select_kiosk_fragment.xml",
+        "source": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/res/layout/select_kiosk_fragment.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/player_popup_close_overlay.xml",
+        "source": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/res/layout/player_popup_close_overlay.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/list_empty_view.xml",
+        "source": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/res/layout/list_empty_view.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/feed_group_reorder_item.xml",
+        "source": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/res/layout/feed_group_reorder_item.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/list_radio_icon_item.xml",
+        "source": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/res/layout/list_radio_icon_item.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_error.xml",
+        "source": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/res/layout/activity_error.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_main.xml",
+        "source": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/res/layout/fragment_main.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/dialog_playlists.xml",
+        "source": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/res/layout/dialog_playlists.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/dialog_bookmark.xml",
+        "source": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/res/layout/dialog_bookmark.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_instance_list.xml",
+        "source": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/res/layout/fragment_instance_list.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/list_stream_playlist_grid_item.xml",
+        "source": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/res/layout/list_stream_playlist_grid_item.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/subscription_import_export_item.xml",
+        "source": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/res/layout/subscription_import_export_item.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/list_channel_mini_item.xml",
+        "source": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/res/layout/list_channel_mini_item.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/stream_quality_item.xml",
+        "source": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/res/layout/stream_quality_item.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/dialog_playback_parameter.xml",
+        "source": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/res/layout/dialog_playback_parameter.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/download_dialog.xml",
+        "source": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/res/layout/download_dialog.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/settings_layout.xml",
+        "source": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/res/layout/settings_layout.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/dialog_playlist_name.xml",
+        "source": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/res/layout/dialog_playlist_name.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/missions_header.xml",
+        "source": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/res/layout/missions_header.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/playlist_header.xml",
+        "source": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/res/layout/playlist_header.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/list_playlist_item.xml",
+        "source": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/res/layout/list_playlist_item.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/select_channel_item.xml",
+        "source": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/res/layout/select_channel_item.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/list_playlist_grid_item.xml",
+        "source": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/res/layout/list_playlist_grid_item.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/feed_item_carousel.xml",
+        "source": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/res/layout/feed_item_carousel.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/player.xml",
+        "source": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/res/layout/player.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_player_queue_control.xml",
+        "source": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/res/layout/activity_player_queue_control.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/list_stream_grid_item.xml",
+        "source": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/res/layout/list_stream_grid_item.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_instance.xml",
+        "source": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/res/layout/item_instance.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_search_history.xml",
+        "source": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/res/layout/item_search_history.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/select_kiosk_item.xml",
+        "source": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/res/layout/select_kiosk_item.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/list_comments_item.xml",
+        "source": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/res/layout/list_comments_item.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/header_with_text_item.xml",
+        "source": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/res/layout/header_with_text_item.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_description.xml",
+        "source": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/res/layout/fragment_description.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/dialog_title.xml",
+        "source": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/res/layout/dialog_title.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_import.xml",
+        "source": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/res/layout/fragment_import.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/missions.xml",
+        "source": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/res/layout/missions.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/select_playlist_fragment.xml",
+        "source": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/res/layout/select_playlist_fragment.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_video_detail.xml",
+        "source": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/res/layout/fragment_video_detail.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/feed_group_add_new_item.xml",
+        "source": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/res/layout/feed_group_add_new_item.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_bookmarks.xml",
+        "source": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/res/layout/fragment_bookmarks.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_downloader.xml",
+        "source": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/res/layout/activity_downloader.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/mission_item.xml",
+        "source": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/res/layout/mission_item.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_comments.xml",
+        "source": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/res/layout/fragment_comments.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/list_stream_playlist_item.xml",
+        "source": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/res/layout/list_stream_playlist_item.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/statistic_playlist_control.xml",
+        "source": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/res/layout/statistic_playlist_control.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_software_component.xml",
+        "source": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/res/layout/item_software_component.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_licenses.xml",
+        "source": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/res/layout/fragment_licenses.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_about.xml",
+        "source": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/res/layout/fragment_about.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/settings_category_header_layout.xml",
+        "source": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/res/layout/settings_category_header_layout.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/settings_notification_action.xml",
+        "source": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/res/layout/settings_notification_action.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/drawer_layout.xml",
+        "source": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/res/layout/drawer_layout.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_search.xml",
+        "source": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/res/layout/fragment_search.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/history_disabled_view.xml",
+        "source": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/res/layout/history_disabled_view.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/picker_icon_item.xml",
+        "source": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/res/layout/picker_icon_item.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/main_bg.xml",
+        "source": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/res/layout/main_bg.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_recaptcha.xml",
+        "source": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/res/layout/activity_recaptcha.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/header_divider_item_layout.xml",
+        "source": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/res/layout/header_divider_item_layout.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/list_playlist_mini_item.xml",
+        "source": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/res/layout/list_playlist_mini_item.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_choose_tabs.xml",
+        "source": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/res/layout/fragment_choose_tabs.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/toolbar_search_layout.xml",
+        "source": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/res/layout/toolbar_search_layout.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/error_panel.xml",
+        "source": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/res/layout/error_panel.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/list_channel_item.xml",
+        "source": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/res/layout/list_channel_item.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/pignate_footer.xml",
+        "source": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/res/layout/pignate_footer.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/settings_category_header_title.xml",
+        "source": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/res/layout/settings_category_header_title.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/list_choose_tabs.xml",
+        "source": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/res/layout/list_choose_tabs.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/feed_import_export_group.xml",
+        "source": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/res/layout/feed_import_export_group.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/instance_spinner_layout.xml",
+        "source": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/res/layout/instance_spinner_layout.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_search_suggestion.xml",
+        "source": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/res/layout/item_search_suggestion.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/list_choose_tabs_dialog.xml",
+        "source": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/res/layout/list_choose_tabs_dialog.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/single_choice_dialog_view.xml",
+        "source": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/res/layout/single_choice_dialog_view.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_channel.xml",
+        "source": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/res/layout/fragment_channel.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/local_playlist_header.xml",
+        "source": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/res/layout/local_playlist_header.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/header_item.xml",
+        "source": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/res/layout/header_item.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/drawer_header.xml",
+        "source": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/res/layout/drawer_header.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/picker_subscription_item.xml",
+        "source": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/res/layout/picker_subscription_item.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/related_items_header.xml",
+        "source": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/res/layout/related_items_header.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/header_with_menu_item.xml",
+        "source": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/res/layout/header_with_menu_item.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/mission_item_linear.xml",
+        "source": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/res/layout/mission_item_linear.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/list_stream_mini_item.xml",
+        "source": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/res/layout/list_stream_mini_item.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/play_queue_item.xml",
+        "source": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/res/layout/play_queue_item.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/feed_group_card_item.xml",
+        "source": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/res/layout/feed_group_card_item.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/settings_notification.xml",
+        "source": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/res/layout/settings_notification.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/list_channel_grid_item.xml",
+        "source": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/res/layout/list_channel_grid_item.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/dialog_feed_group_create.xml",
+        "source": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/res/layout/dialog_feed_group_create.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/select_channel_fragment.xml",
+        "source": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/res/layout/select_channel_fragment.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_empty.xml",
+        "source": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/res/layout/fragment_empty.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_subscription.xml",
+        "source": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/res/layout/fragment_subscription.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_main.xml",
+        "source": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_related_items.xml",
+        "source": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/res/layout/fragment_related_items.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_feed.xml",
+        "source": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/res/layout/fragment_feed.xml"
+    }
+]

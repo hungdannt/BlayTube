@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v28/values-v28.xml",
+            "map": [
+                {
+                    "source": "/Users/macpro/.gradle/caches/transforms-3/f41cedf99a85f1391866f491c93e2366/transformed/material-1.2.1/res/values-v28/values-v28.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,143,231,319,407,494,581,668",
+                        "endColumns": "87,87,87,87,86,86,86,86",
+                        "endOffsets": "138,226,314,402,489,576,663,750"
+                    }
+                },
+                {
+                    "source": "/Users/macpro/.gradle/caches/transforms-3/f2c108998a1cbd284b910cb01fd0246a/transformed/appcompat-1.2.0/res/values-v28/values-v28.xml",
+                    "from": {
+                        "startLines": "2,3,4,8",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,130,217,447",
+                        "endLines": "2,3,7,11",
+                        "endColumns": "74,86,12,12",
+                        "endOffsets": "125,212,442,684"
+                    },
+                    "to": {
+                        "startLines": "10,11,12,16",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "755,830,917,1147",
+                        "endLines": "10,11,15,19",
+                        "endColumns": "74,86,12,12",
+                        "endOffsets": "825,912,1142,1384"
+                    }
+                }
+            ]
+        }
+    ]
+}

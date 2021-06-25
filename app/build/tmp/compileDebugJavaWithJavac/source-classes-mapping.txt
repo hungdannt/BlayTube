@@ -1,0 +1,1119 @@
+org/blayboy/newpipe/databinding/FragmentLicensesBinding.java
+ org.blayboy.newpipe.databinding.FragmentLicensesBinding
+org/blayboy/newpipe/database/playlist/dao/PlaylistDAO.java
+ org.blayboy.newpipe.database.playlist.dao.PlaylistDAO
+org/blayboy/newpipe/databinding/FragmentEmptyBinding.java
+ org.blayboy.newpipe.databinding.FragmentEmptyBinding
+org/blayboy/newpipe/databinding/ToolbarLayoutBinding.java
+ org.blayboy.newpipe.databinding.ToolbarLayoutBinding
+org/blayboy/newpipe/fragments/list/BaseListInfoFragment.java
+ org.blayboy.newpipe.fragments.list.BaseListInfoFragment
+org/blayboy/newpipe/error/AcraReportSender.java
+ org.blayboy.newpipe.error.AcraReportSender
+org/blayboy/newpipe/player/playback/PlayerMediaSession.java
+ org.blayboy.newpipe.player.playback.PlayerMediaSession
+org/blayboy/newpipe/player/resolver/Resolver.java
+ org.blayboy.newpipe.player.resolver.Resolver
+org/blayboy/newpipe/player/mediasession/MediaSessionCallback.java
+ org.blayboy.newpipe.player.mediasession.MediaSessionCallback
+org/blayboy/newpipe/App.java
+ org.blayboy.newpipe.App
+ org.blayboy.newpipe.App$1
+org/blayboy/newpipe/local/subscription/SubscriptionsImportFragment.java
+ org.blayboy.newpipe.local.subscription.SubscriptionsImportFragment
+org/blayboy/newpipe/database/history/model/SearchHistoryEntry.java
+ org.blayboy.newpipe.database.history.model.SearchHistoryEntry
+org/blayboy/newpipe/player/mediasource/ManagedMediaSourcePlaylist.java
+ org.blayboy.newpipe.player.mediasource.ManagedMediaSourcePlaylist
+org/blayboy/newpipe/fragments/list/kiosk/DefaultKioskFragment.java
+ org.blayboy.newpipe.fragments.list.kiosk.DefaultKioskFragment
+org/blayboy/newpipe/player/playqueue/SinglePlayQueue.java
+ org.blayboy.newpipe.player.playqueue.SinglePlayQueue
+org/blayboy/newpipe/player/mediasource/FailedMediaSource.java
+ org.blayboy.newpipe.player.mediasource.FailedMediaSource
+ org.blayboy.newpipe.player.mediasource.FailedMediaSource$FailedMediaSourceException
+ org.blayboy.newpipe.player.mediasource.FailedMediaSource$MediaSourceResolutionException
+ org.blayboy.newpipe.player.mediasource.FailedMediaSource$StreamInfoLoadException
+org/blayboy/newpipe/databinding/SettingsNotificationActionBinding.java
+ org.blayboy.newpipe.databinding.SettingsNotificationActionBinding
+org/blayboy/newpipe/player/mediasource/ManagedMediaSource.java
+ org.blayboy.newpipe.player.mediasource.ManagedMediaSource
+org/blayboy/newpipe/BaseFragment.java
+ org.blayboy.newpipe.BaseFragment
+us/shandian/giga/service/MissionState.java
+ us.shandian.giga.service.MissionState
+org/blayboy/newpipe/local/dialog/PlaylistCreationDialog.java
+ org.blayboy.newpipe.local.dialog.PlaylistCreationDialog
+org/blayboy/newpipe/streams/SrtFromTtmlWriter.java
+ org.blayboy.newpipe.streams.SrtFromTtmlWriter
+us/shandian/giga/io/FileStream.java
+ us.shandian.giga.io.FileStream
+org/blayboy/newpipe/databinding/ItemInstanceBinding.java
+ org.blayboy.newpipe.databinding.ItemInstanceBinding
+org/blayboy/newpipe/player/playqueue/events/PlayQueueEvent.java
+ org.blayboy.newpipe.player.playqueue.events.PlayQueueEvent
+org/blayboy/newpipe/local/holder/RemotePlaylistGridItemHolder.java
+ org.blayboy.newpipe.local.holder.RemotePlaylistGridItemHolder
+org/blayboy/newpipe/databinding/ListPlaylistGridItemBinding.java
+ org.blayboy.newpipe.databinding.ListPlaylistGridItemBinding
+org/blayboy/newpipe/databinding/DialogPlaylistNameBinding.java
+ org.blayboy.newpipe.databinding.DialogPlaylistNameBinding
+org/blayboy/newpipe/databinding/SingleChoiceDialogViewBinding.java
+ org.blayboy.newpipe.databinding.SingleChoiceDialogViewBinding
+org/blayboy/newpipe/settings/HistorySettingsFragment.java
+ org.blayboy.newpipe.settings.HistorySettingsFragment
+org/blayboy/newpipe/player/playqueue/PlayQueueItemHolder.java
+ org.blayboy.newpipe.player.playqueue.PlayQueueItemHolder
+org/blayboy/newpipe/player/helper/PlaybackParameterDialog.java
+ org.blayboy.newpipe.player.helper.PlaybackParameterDialog
+ org.blayboy.newpipe.player.helper.PlaybackParameterDialog$1
+ org.blayboy.newpipe.player.helper.PlaybackParameterDialog$2
+ org.blayboy.newpipe.player.helper.PlaybackParameterDialog$Callback
+org/blayboy/newpipe/databinding/InstanceSpinnerLayoutBinding.java
+ org.blayboy.newpipe.databinding.InstanceSpinnerLayoutBinding
+org/blayboy/newpipe/database/feed/dao/FeedGroupDAO_Impl.java
+ org.blayboy.newpipe.database.feed.dao.FeedGroupDAO_Impl
+ org.blayboy.newpipe.database.feed.dao.FeedGroupDAO_Impl$1
+ org.blayboy.newpipe.database.feed.dao.FeedGroupDAO_Impl$10
+ org.blayboy.newpipe.database.feed.dao.FeedGroupDAO_Impl$2
+ org.blayboy.newpipe.database.feed.dao.FeedGroupDAO_Impl$3
+ org.blayboy.newpipe.database.feed.dao.FeedGroupDAO_Impl$4
+ org.blayboy.newpipe.database.feed.dao.FeedGroupDAO_Impl$5
+ org.blayboy.newpipe.database.feed.dao.FeedGroupDAO_Impl$6
+ org.blayboy.newpipe.database.feed.dao.FeedGroupDAO_Impl$7
+ org.blayboy.newpipe.database.feed.dao.FeedGroupDAO_Impl$8
+ org.blayboy.newpipe.database.feed.dao.FeedGroupDAO_Impl$9
+org/blayboy/newpipe/settings/SettingsActivity.java
+ org.blayboy.newpipe.settings.SettingsActivity
+org/blayboy/newpipe/player/event/CustomBottomSheetBehavior.java
+ org.blayboy.newpipe.player.event.CustomBottomSheetBehavior
+org/blayboy/newpipe/settings/ContentSettingsFragment.java
+ org.blayboy.newpipe.settings.ContentSettingsFragment
+org/blayboy/newpipe/util/OnClickGesture.java
+ org.blayboy.newpipe.util.OnClickGesture
+org/blayboy/newpipe/util/FilenameUtils.java
+ org.blayboy.newpipe.util.FilenameUtils
+org/blayboy/newpipe/player/event/PlayerServiceExtendedEventListener.java
+ org.blayboy.newpipe.player.event.PlayerServiceExtendedEventListener
+us/shandian/giga/ui/common/Deleter.java
+ us.shandian.giga.ui.common.Deleter
+org/blayboy/newpipe/player/NotificationConstants.java
+ org.blayboy.newpipe.player.NotificationConstants
+ org.blayboy.newpipe.player.NotificationConstants$Action
+org/blayboy/newpipe/databinding/PlayerBinding.java
+ org.blayboy.newpipe.databinding.PlayerBinding
+us/shandian/giga/postprocessing/WebMMuxer.java
+ us.shandian.giga.postprocessing.WebMMuxer
+org/blayboy/newpipe/local/feed/FeedFragment$$Icepick.java
+ org.blayboy.newpipe.local.feed.FeedFragment$$Icepick
+org/blayboy/newpipe/databinding/ToolbarSearchLayoutBinding.java
+ org.blayboy.newpipe.databinding.ToolbarSearchLayoutBinding
+org/blayboy/newpipe/fragments/EmptyFragment.java
+ org.blayboy.newpipe.fragments.EmptyFragment
+org/blayboy/newpipe/databinding/PlayerPopupCloseOverlayBinding.java
+ org.blayboy.newpipe.databinding.PlayerPopupCloseOverlayBinding
+org/blayboy/newpipe/util/Localization.java
+ org.blayboy.newpipe.util.Localization
+org/blayboy/newpipe/databinding/SettingsCategoryHeaderLayoutBinding.java
+ org.blayboy.newpipe.databinding.SettingsCategoryHeaderLayoutBinding
+org/blayboy/newpipe/database/playlist/dao/PlaylistStreamDAO.java
+ org.blayboy.newpipe.database.playlist.dao.PlaylistStreamDAO
+org/blayboy/newpipe/local/subscription/services/BaseImportExportService.java
+ org.blayboy.newpipe.local.subscription.services.BaseImportExportService
+ org.blayboy.newpipe.local.subscription.services.BaseImportExportService$1
+org/blayboy/newpipe/util/KioskTranslator.java
+ org.blayboy.newpipe.util.KioskTranslator
+org/blayboy/newpipe/settings/tabs/TabsManager.java
+ org.blayboy.newpipe.settings.tabs.TabsManager
+ org.blayboy.newpipe.settings.tabs.TabsManager$SavedTabsChangeListener
+org/blayboy/newpipe/databinding/FeedGroupReorderItemBinding.java
+ org.blayboy.newpipe.databinding.FeedGroupReorderItemBinding
+org/blayboy/newpipe/local/bookmark/BookmarkFragment$$Icepick.java
+ org.blayboy.newpipe.local.bookmark.BookmarkFragment$$Icepick
+org/blayboy/newpipe/player/NotificationUtil.java
+ org.blayboy.newpipe.player.NotificationUtil
+us/shandian/giga/io/StoredFileHelper.java
+ us.shandian.giga.io.StoredFileHelper
+org/blayboy/newpipe/player/playback/CustomTrackSelector.java
+ org.blayboy.newpipe.player.playback.CustomTrackSelector
+org/blayboy/newpipe/databinding/HeaderDividerItemLayoutBinding.java
+ org.blayboy.newpipe.databinding.HeaderDividerItemLayoutBinding
+org/blayboy/newpipe/util/DeviceUtils.java
+ org.blayboy.newpipe.util.DeviceUtils
+org/blayboy/newpipe/player/PlayerState.java
+ org.blayboy.newpipe.player.PlayerState
+org/blayboy/newpipe/local/holder/LocalPlaylistGridItemHolder.java
+ org.blayboy.newpipe.local.holder.LocalPlaylistGridItemHolder
+org/blayboy/newpipe/util/SerializedCache.java
+ org.blayboy.newpipe.util.SerializedCache
+ org.blayboy.newpipe.util.SerializedCache$1
+ org.blayboy.newpipe.util.SerializedCache$CacheData
+org/blayboy/newpipe/databinding/SelectKioskFragmentBinding.java
+ org.blayboy.newpipe.databinding.SelectKioskFragmentBinding
+org/blayboy/newpipe/databinding/ListStreamGridItemBinding.java
+ org.blayboy.newpipe.databinding.ListStreamGridItemBinding
+org/blayboy/newpipe/local/playlist/LocalPlaylistFragment$$Icepick.java
+ org.blayboy.newpipe.local.playlist.LocalPlaylistFragment$$Icepick
+org/blayboy/newpipe/databinding/ItemSearchSuggestionBinding.java
+ org.blayboy.newpipe.databinding.ItemSearchSuggestionBinding
+org/blayboy/newpipe/database/stream/model/StreamStateEntity.java
+ org.blayboy.newpipe.database.stream.model.StreamStateEntity
+org/blayboy/newpipe/player/playqueue/events/RemoveEvent.java
+ org.blayboy.newpipe.player.playqueue.events.RemoveEvent
+org/blayboy/newpipe/database/history/dao/SearchHistoryDAO_Impl.java
+ org.blayboy.newpipe.database.history.dao.SearchHistoryDAO_Impl
+ org.blayboy.newpipe.database.history.dao.SearchHistoryDAO_Impl$1
+ org.blayboy.newpipe.database.history.dao.SearchHistoryDAO_Impl$2
+ org.blayboy.newpipe.database.history.dao.SearchHistoryDAO_Impl$3
+ org.blayboy.newpipe.database.history.dao.SearchHistoryDAO_Impl$4
+ org.blayboy.newpipe.database.history.dao.SearchHistoryDAO_Impl$5
+ org.blayboy.newpipe.database.history.dao.SearchHistoryDAO_Impl$6
+ org.blayboy.newpipe.database.history.dao.SearchHistoryDAO_Impl$7
+ org.blayboy.newpipe.database.history.dao.SearchHistoryDAO_Impl$8
+ org.blayboy.newpipe.database.history.dao.SearchHistoryDAO_Impl$9
+org/blayboy/newpipe/player/mediasession/PlayQueuePlaybackController.java
+ org.blayboy.newpipe.player.mediasession.PlayQueuePlaybackController
+org/blayboy/newpipe/ExitActivity.java
+ org.blayboy.newpipe.ExitActivity
+org/blayboy/newpipe/info_list/holder/ChannelGridInfoItemHolder.java
+ org.blayboy.newpipe.info_list.holder.ChannelGridInfoItemHolder
+org/blayboy/newpipe/local/holder/LocalPlaylistItemHolder.java
+ org.blayboy.newpipe.local.holder.LocalPlaylistItemHolder
+org/blayboy/newpipe/error/ErrorActivity.java
+ org.blayboy.newpipe.error.ErrorActivity
+org/blayboy/newpipe/streams/Mp4DashReader.java
+ org.blayboy.newpipe.streams.Mp4DashReader
+ org.blayboy.newpipe.streams.Mp4DashReader$Box
+ org.blayboy.newpipe.streams.Mp4DashReader$Elst
+ org.blayboy.newpipe.streams.Mp4DashReader$Hdlr
+ org.blayboy.newpipe.streams.Mp4DashReader$Mdia
+ org.blayboy.newpipe.streams.Mp4DashReader$Minf
+ org.blayboy.newpipe.streams.Mp4DashReader$Moof
+ org.blayboy.newpipe.streams.Mp4DashReader$Moov
+ org.blayboy.newpipe.streams.Mp4DashReader$Mp4DashChunk
+ org.blayboy.newpipe.streams.Mp4DashReader$Mp4DashSample
+ org.blayboy.newpipe.streams.Mp4DashReader$Mp4Track
+ org.blayboy.newpipe.streams.Mp4DashReader$Mvhd
+ org.blayboy.newpipe.streams.Mp4DashReader$Tfhd
+ org.blayboy.newpipe.streams.Mp4DashReader$Tkhd
+ org.blayboy.newpipe.streams.Mp4DashReader$TrackKind
+ org.blayboy.newpipe.streams.Mp4DashReader$Traf
+ org.blayboy.newpipe.streams.Mp4DashReader$Trak
+ org.blayboy.newpipe.streams.Mp4DashReader$Trex
+ org.blayboy.newpipe.streams.Mp4DashReader$Trun
+ org.blayboy.newpipe.streams.Mp4DashReader$TrunEntry
+org/blayboy/newpipe/download/DownloadDialog$$Icepick.java
+ org.blayboy.newpipe.download.DownloadDialog$$Icepick
+org/blayboy/newpipe/player/PlayerServiceBinder.java
+ org.blayboy.newpipe.player.PlayerServiceBinder
+org/blayboy/newpipe/database/LocalItem.java
+ org.blayboy.newpipe.database.LocalItem
+ org.blayboy.newpipe.database.LocalItem$LocalItemType
+org/blayboy/newpipe/util/ServiceHelper.java
+ org.blayboy.newpipe.util.ServiceHelper
+org/blayboy/newpipe/databinding/ItemStreamSegmentBinding.java
+ org.blayboy.newpipe.databinding.ItemStreamSegmentBinding
+us/shandian/giga/service/DownloadManager.java
+ us.shandian.giga.service.DownloadManager
+ us.shandian.giga.service.DownloadManager$1
+ us.shandian.giga.service.DownloadManager$MissionItem
+ us.shandian.giga.service.DownloadManager$MissionIterator
+ us.shandian.giga.service.DownloadManager$NetworkState
+org/blayboy/newpipe/databinding/LocalPlaylistHeaderBinding.java
+ org.blayboy.newpipe.databinding.LocalPlaylistHeaderBinding
+org/blayboy/newpipe/databinding/ListChooseTabsDialogBinding.java
+ org.blayboy.newpipe.databinding.ListChooseTabsDialogBinding
+org/blayboy/newpipe/local/holder/LocalItemHolder.java
+ org.blayboy.newpipe.local.holder.LocalItemHolder
+org/blayboy/newpipe/local/subscription/services/ImportExportJsonHelper.java
+ org.blayboy.newpipe.local.subscription.services.ImportExportJsonHelper
+org/blayboy/newpipe/databinding/ItemSoftwareComponentBinding.java
+ org.blayboy.newpipe.databinding.ItemSoftwareComponentBinding
+org/blayboy/newpipe/database/feed/dao/FeedDAO_Impl.java
+ org.blayboy.newpipe.database.feed.dao.FeedDAO_Impl
+ org.blayboy.newpipe.database.feed.dao.FeedDAO_Impl$1
+ org.blayboy.newpipe.database.feed.dao.FeedDAO_Impl$10
+ org.blayboy.newpipe.database.feed.dao.FeedDAO_Impl$11
+ org.blayboy.newpipe.database.feed.dao.FeedDAO_Impl$12
+ org.blayboy.newpipe.database.feed.dao.FeedDAO_Impl$13
+ org.blayboy.newpipe.database.feed.dao.FeedDAO_Impl$14
+ org.blayboy.newpipe.database.feed.dao.FeedDAO_Impl$2
+ org.blayboy.newpipe.database.feed.dao.FeedDAO_Impl$3
+ org.blayboy.newpipe.database.feed.dao.FeedDAO_Impl$4
+ org.blayboy.newpipe.database.feed.dao.FeedDAO_Impl$5
+ org.blayboy.newpipe.database.feed.dao.FeedDAO_Impl$6
+ org.blayboy.newpipe.database.feed.dao.FeedDAO_Impl$7
+ org.blayboy.newpipe.database.feed.dao.FeedDAO_Impl$8
+ org.blayboy.newpipe.database.feed.dao.FeedDAO_Impl$9
+org/blayboy/newpipe/settings/SettingMigrations.java
+ org.blayboy.newpipe.settings.SettingMigrations
+ org.blayboy.newpipe.settings.SettingMigrations$1
+ org.blayboy.newpipe.settings.SettingMigrations$2
+ org.blayboy.newpipe.settings.SettingMigrations$Migration
+org/blayboy/newpipe/local/subscription/services/ImportExportEventListener.java
+ org.blayboy.newpipe.local.subscription.services.ImportExportEventListener
+org/blayboy/newpipe/settings/custom/NotificationActionsPreference.java
+ org.blayboy.newpipe.settings.custom.NotificationActionsPreference
+ org.blayboy.newpipe.settings.custom.NotificationActionsPreference$NotificationSlot
+org/blayboy/newpipe/databinding/SelectKioskItemBinding.java
+ org.blayboy.newpipe.databinding.SelectKioskItemBinding
+org/blayboy/newpipe/player/AudioServiceLeakFix.java
+ org.blayboy.newpipe.player.AudioServiceLeakFix
+org/blayboy/newpipe/database/history/dao/StreamHistoryDAO.java
+ org.blayboy.newpipe.database.history.dao.StreamHistoryDAO
+us/shandian/giga/postprocessing/Mp4FromDashMuxer.java
+ us.shandian.giga.postprocessing.Mp4FromDashMuxer
+us/shandian/giga/postprocessing/Postprocessing.java
+ us.shandian.giga.postprocessing.Postprocessing
+org/blayboy/newpipe/util/StateSaver.java
+ org.blayboy.newpipe.util.StateSaver
+ org.blayboy.newpipe.util.StateSaver$WriteRead
+org/blayboy/newpipe/player/playqueue/PlayQueueItemTouchCallback.java
+ org.blayboy.newpipe.player.playqueue.PlayQueueItemTouchCallback
+org/blayboy/newpipe/player/helper/LockManager.java
+ org.blayboy.newpipe.player.helper.LockManager
+org/blayboy/newpipe/player/helper/PlayerHolder.java
+ org.blayboy.newpipe.player.helper.PlayerHolder
+ org.blayboy.newpipe.player.helper.PlayerHolder$1
+ org.blayboy.newpipe.player.helper.PlayerHolder$2
+org/blayboy/newpipe/databinding/SettingsNotificationBinding.java
+ org.blayboy.newpipe.databinding.SettingsNotificationBinding
+org/blayboy/newpipe/info_list/holder/PlaylistGridInfoItemHolder.java
+ org.blayboy.newpipe.info_list.holder.PlaylistGridInfoItemHolder
+org/blayboy/newpipe/streams/WebMReader.java
+ org.blayboy.newpipe.streams.WebMReader
+ org.blayboy.newpipe.streams.WebMReader$Cluster
+ org.blayboy.newpipe.streams.WebMReader$Element
+ org.blayboy.newpipe.streams.WebMReader$Info
+ org.blayboy.newpipe.streams.WebMReader$Segment
+ org.blayboy.newpipe.streams.WebMReader$SimpleBlock
+ org.blayboy.newpipe.streams.WebMReader$TrackKind
+ org.blayboy.newpipe.streams.WebMReader$WebMTrack
+org/blayboy/newpipe/database/playlist/dao/PlaylistDAO_Impl.java
+ org.blayboy.newpipe.database.playlist.dao.PlaylistDAO_Impl
+ org.blayboy.newpipe.database.playlist.dao.PlaylistDAO_Impl$1
+ org.blayboy.newpipe.database.playlist.dao.PlaylistDAO_Impl$2
+ org.blayboy.newpipe.database.playlist.dao.PlaylistDAO_Impl$3
+ org.blayboy.newpipe.database.playlist.dao.PlaylistDAO_Impl$4
+ org.blayboy.newpipe.database.playlist.dao.PlaylistDAO_Impl$5
+ org.blayboy.newpipe.database.playlist.dao.PlaylistDAO_Impl$6
+ org.blayboy.newpipe.database.playlist.dao.PlaylistDAO_Impl$7
+ org.blayboy.newpipe.database.playlist.dao.PlaylistDAO_Impl$8
+org/blayboy/newpipe/databinding/ItemSearchHistoryBinding.java
+ org.blayboy.newpipe.databinding.ItemSearchHistoryBinding
+org/blayboy/newpipe/settings/PeertubeInstanceListFragment.java
+ org.blayboy.newpipe.settings.PeertubeInstanceListFragment
+ org.blayboy.newpipe.settings.PeertubeInstanceListFragment$1
+ org.blayboy.newpipe.settings.PeertubeInstanceListFragment$InstanceListAdapter
+ org.blayboy.newpipe.settings.PeertubeInstanceListFragment$InstanceListAdapter$TabViewHolder
+org/blayboy/newpipe/local/BaseLocalListFragment.java
+ org.blayboy.newpipe.local.BaseLocalListFragment
+org/blayboy/newpipe/fragments/detail/DescriptionFragment$$Icepick.java
+ org.blayboy.newpipe.fragments.detail.DescriptionFragment$$Icepick
+org/blayboy/newpipe/databinding/FeedItemCarouselBinding.java
+ org.blayboy.newpipe.databinding.FeedItemCarouselBinding
+us/shandian/giga/get/DownloadMissionRecover.java
+ us.shandian.giga.get.DownloadMissionRecover
+us/shandian/giga/ui/fragment/MissionsFragment.java
+ us.shandian.giga.ui.fragment.MissionsFragment
+ us.shandian.giga.ui.fragment.MissionsFragment$1
+ us.shandian.giga.ui.fragment.MissionsFragment$2
+com/google/android/material/appbar/FlingBehavior.java
+ com.google.android.material.appbar.FlingBehavior
+org/blayboy/newpipe/fragments/OnScrollBelowItemsListener.java
+ org.blayboy.newpipe.fragments.OnScrollBelowItemsListener
+org/blayboy/newpipe/databinding/MainBgBinding.java
+ org.blayboy.newpipe.databinding.MainBgBinding
+org/blayboy/newpipe/views/FocusAwareSeekBar.java
+ org.blayboy.newpipe.views.FocusAwareSeekBar
+ org.blayboy.newpipe.views.FocusAwareSeekBar$1
+ org.blayboy.newpipe.views.FocusAwareSeekBar$NestedListener
+org/blayboy/newpipe/info_list/holder/CommentsMiniInfoItemHolder.java
+ org.blayboy.newpipe.info_list.holder.CommentsMiniInfoItemHolder
+ org.blayboy.newpipe.info_list.holder.CommentsMiniInfoItemHolder$1
+org/blayboy/newpipe/database/playlist/dao/PlaylistRemoteDAO.java
+ org.blayboy.newpipe.database.playlist.dao.PlaylistRemoteDAO
+us/shandian/giga/io/CircularFileWriter.java
+ us.shandian.giga.io.CircularFileWriter
+ us.shandian.giga.io.CircularFileWriter$BufferedFile
+ us.shandian.giga.io.CircularFileWriter$OffsetChecker
+ us.shandian.giga.io.CircularFileWriter$WriteErrorHandle
+org/blayboy/newpipe/databinding/StatisticPlaylistControlBinding.java
+ org.blayboy.newpipe.databinding.StatisticPlaylistControlBinding
+org/blayboy/newpipe/player/event/OnKeyDownListener.java
+ org.blayboy.newpipe.player.event.OnKeyDownListener
+org/blayboy/newpipe/local/LocalItemBuilder.java
+ org.blayboy.newpipe.local.LocalItemBuilder
+org/blayboy/newpipe/databinding/PickerSubscriptionItemBinding.java
+ org.blayboy.newpipe.databinding.PickerSubscriptionItemBinding
+org/blayboy/newpipe/views/CollapsibleView.java
+ org.blayboy.newpipe.views.CollapsibleView
+ org.blayboy.newpipe.views.CollapsibleView$StateListener
+ org.blayboy.newpipe.views.CollapsibleView$ViewMode
+us/shandian/giga/postprocessing/OggFromWebmDemuxer.java
+ us.shandian.giga.postprocessing.OggFromWebmDemuxer
+org/blayboy/newpipe/player/playqueue/PlayQueueAdapter.java
+ org.blayboy.newpipe.player.playqueue.PlayQueueAdapter
+ org.blayboy.newpipe.player.playqueue.PlayQueueAdapter$1
+ org.blayboy.newpipe.player.playqueue.PlayQueueAdapter$2
+ org.blayboy.newpipe.player.playqueue.PlayQueueAdapter$HFHolder
+org/blayboy/newpipe/databinding/DialogFeedGroupCreateBinding.java
+ org.blayboy.newpipe.databinding.DialogFeedGroupCreateBinding
+org/blayboy/newpipe/views/AnimatedProgressBar.java
+ org.blayboy.newpipe.views.AnimatedProgressBar
+ org.blayboy.newpipe.views.AnimatedProgressBar$ProgressBarAnimation
+org/blayboy/newpipe/databinding/ListEmptyViewBinding.java
+ org.blayboy.newpipe.databinding.ListEmptyViewBinding
+org/blayboy/newpipe/local/dialog/PlaylistDialog.java
+ org.blayboy.newpipe.local.dialog.PlaylistDialog
+org/blayboy/newpipe/player/playqueue/events/ReorderEvent.java
+ org.blayboy.newpipe.player.playqueue.events.ReorderEvent
+org/blayboy/newpipe/database/history/model/StreamHistoryEntity.java
+ org.blayboy.newpipe.database.history.model.StreamHistoryEntity
+org/blayboy/newpipe/local/history/StatisticsPlaylistFragment$$Icepick.java
+ org.blayboy.newpipe.local.history.StatisticsPlaylistFragment$$Icepick
+org/blayboy/newpipe/databinding/FeedGroupCardItemBinding.java
+ org.blayboy.newpipe.databinding.FeedGroupCardItemBinding
+org/blayboy/newpipe/databinding/SettingsCategoryHeaderTitleBinding.java
+ org.blayboy.newpipe.databinding.SettingsCategoryHeaderTitleBinding
+org/blayboy/newpipe/info_list/holder/ChannelInfoItemHolder.java
+ org.blayboy.newpipe.info_list.holder.ChannelInfoItemHolder
+org/blayboy/newpipe/databinding/FeedImportExportGroupBinding.java
+ org.blayboy.newpipe.databinding.FeedImportExportGroupBinding
+androidx/fragment/app/FragmentStatePagerAdapterMenuWorkaround.java
+ androidx.fragment.app.FragmentStatePagerAdapterMenuWorkaround
+ androidx.fragment.app.FragmentStatePagerAdapterMenuWorkaround$Behavior
+org/blayboy/newpipe/player/PlayQueueActivity.java
+ org.blayboy.newpipe.player.PlayQueueActivity
+ org.blayboy.newpipe.player.PlayQueueActivity$1
+ org.blayboy.newpipe.player.PlayQueueActivity$2
+ org.blayboy.newpipe.player.PlayQueueActivity$3
+ org.blayboy.newpipe.player.PlayQueueActivity$4
+ org.blayboy.newpipe.player.PlayQueueActivity$5
+org/blayboy/newpipe/settings/tabs/ChooseTabsFragment.java
+ org.blayboy.newpipe.settings.tabs.ChooseTabsFragment
+ org.blayboy.newpipe.settings.tabs.ChooseTabsFragment$1
+ org.blayboy.newpipe.settings.tabs.ChooseTabsFragment$2
+ org.blayboy.newpipe.settings.tabs.ChooseTabsFragment$3
+ org.blayboy.newpipe.settings.tabs.ChooseTabsFragment$SelectedTabsAdapter
+ org.blayboy.newpipe.settings.tabs.ChooseTabsFragment$SelectedTabsAdapter$TabViewHolder
+org/blayboy/newpipe/databinding/ListRadioIconItemBinding.java
+ org.blayboy.newpipe.databinding.ListRadioIconItemBinding
+org/blayboy/newpipe/util/CommentTextOnTouchListener.java
+ org.blayboy.newpipe.util.CommentTextOnTouchListener
+us/shandian/giga/postprocessing/M4aNoDash.java
+ us.shandian.giga.postprocessing.M4aNoDash
+org/blayboy/newpipe/fragments/list/search/SuggestionItem.java
+ org.blayboy.newpipe.fragments.list.search.SuggestionItem
+org/blayboy/newpipe/local/history/HistoryRecordManager.java
+ org.blayboy.newpipe.local.history.HistoryRecordManager
+org/blayboy/newpipe/database/subscription/SubscriptionEntity.java
+ org.blayboy.newpipe.database.subscription.SubscriptionEntity
+org/blayboy/newpipe/databinding/ActivityDownloaderBinding.java
+ org.blayboy.newpipe.databinding.ActivityDownloaderBinding
+org/blayboy/newpipe/util/ImageDisplayConstants.java
+ org.blayboy.newpipe.util.ImageDisplayConstants
+org/blayboy/newpipe/views/CustomCollapsingToolbarLayout.java
+ org.blayboy.newpipe.views.CustomCollapsingToolbarLayout
+org/blayboy/newpipe/PanicResponderActivity.java
+ org.blayboy.newpipe.PanicResponderActivity
+org/blayboy/newpipe/views/FocusOverlayView.java
+ org.blayboy.newpipe.views.FocusOverlayView
+ org.blayboy.newpipe.views.FocusOverlayView$1
+ org.blayboy.newpipe.views.FocusOverlayView$2
+org/blayboy/newpipe/database/playlist/model/PlaylistEntity.java
+ org.blayboy.newpipe.database.playlist.model.PlaylistEntity
+org/blayboy/newpipe/BuildConfig.java
+ org.blayboy.newpipe.BuildConfig
+org/blayboy/newpipe/local/playlist/RemotePlaylistManager.java
+ org.blayboy.newpipe.local.playlist.RemotePlaylistManager
+org/blayboy/newpipe/download/DownloadActivity.java
+ org.blayboy.newpipe.download.DownloadActivity
+ org.blayboy.newpipe.download.DownloadActivity$1
+org/blayboy/newpipe/databinding/InstanceSpinnerItemBinding.java
+ org.blayboy.newpipe.databinding.InstanceSpinnerItemBinding
+org/blayboy/newpipe/databinding/MissionsHeaderBinding.java
+ org.blayboy.newpipe.databinding.MissionsHeaderBinding
+org/blayboy/newpipe/info_list/InfoListAdapter.java
+ org.blayboy.newpipe.info_list.InfoListAdapter
+ org.blayboy.newpipe.info_list.InfoListAdapter$1
+ org.blayboy.newpipe.info_list.InfoListAdapter$2
+ org.blayboy.newpipe.info_list.InfoListAdapter$HFHolder
+org/blayboy/newpipe/settings/tabs/Tab.java
+ org.blayboy.newpipe.settings.tabs.Tab
+ org.blayboy.newpipe.settings.tabs.Tab$1
+ org.blayboy.newpipe.settings.tabs.Tab$BlankTab
+ org.blayboy.newpipe.settings.tabs.Tab$ChannelTab
+ org.blayboy.newpipe.settings.tabs.Tab$DefaultKioskTab
+ org.blayboy.newpipe.settings.tabs.Tab$HistoryTab
+ org.blayboy.newpipe.settings.tabs.Tab$KioskTab
+ org.blayboy.newpipe.settings.tabs.Tab$PlaylistTab
+ org.blayboy.newpipe.settings.tabs.Tab$Type
+org/blayboy/newpipe/databinding/HeaderWithMenuItemBinding.java
+ org.blayboy.newpipe.databinding.HeaderWithMenuItemBinding
+us/shandian/giga/util/Utility.java
+ us.shandian.giga.util.Utility
+ us.shandian.giga.util.Utility$1
+ us.shandian.giga.util.Utility$FileType
+org/blayboy/newpipe/fragments/BaseStateFragment$$Icepick.java
+ org.blayboy.newpipe.fragments.BaseStateFragment$$Icepick
+org/blayboy/newpipe/BaseFragment$$Icepick.java
+ org.blayboy.newpipe.BaseFragment$$Icepick
+org/blayboy/newpipe/database/stream/dao/StreamStateDAO.java
+ org.blayboy.newpipe.database.stream.dao.StreamStateDAO
+org/blayboy/newpipe/database/stream/dao/StreamDAO_Impl.java
+ org.blayboy.newpipe.database.stream.dao.StreamDAO_Impl
+ org.blayboy.newpipe.database.stream.dao.StreamDAO_Impl$1
+ org.blayboy.newpipe.database.stream.dao.StreamDAO_Impl$2
+ org.blayboy.newpipe.database.stream.dao.StreamDAO_Impl$3
+ org.blayboy.newpipe.database.stream.dao.StreamDAO_Impl$4
+ org.blayboy.newpipe.database.stream.dao.StreamDAO_Impl$5
+ org.blayboy.newpipe.database.stream.dao.StreamDAO_Impl$6
+ org.blayboy.newpipe.database.stream.dao.StreamDAO_Impl$7
+ org.blayboy.newpipe.database.stream.dao.StreamDAO_Impl$8
+ org.blayboy.newpipe.database.stream.dao.StreamDAO_Impl$9
+org/blayboy/newpipe/player/playqueue/events/SelectEvent.java
+ org.blayboy.newpipe.player.playqueue.events.SelectEvent
+org/blayboy/newpipe/database/playlist/PlaylistMetadataEntry.java
+ org.blayboy.newpipe.database.playlist.PlaylistMetadataEntry
+org/blayboy/newpipe/databinding/SelectChannelFragmentBinding.java
+ org.blayboy.newpipe.databinding.SelectChannelFragmentBinding
+org/blayboy/newpipe/databinding/FragmentPlaylistBinding.java
+ org.blayboy.newpipe.databinding.FragmentPlaylistBinding
+org/blayboy/newpipe/util/urlfinder/PatternsCompat.java
+ org.blayboy.newpipe.util.urlfinder.PatternsCompat
+org/blayboy/newpipe/databinding/ActivityRecaptchaBinding.java
+ org.blayboy.newpipe.databinding.ActivityRecaptchaBinding
+org/blayboy/newpipe/databinding/SelectChannelItemBinding.java
+ org.blayboy.newpipe.databinding.SelectChannelItemBinding
+org/blayboy/newpipe/databinding/FragmentVideoDetailBinding.java
+ org.blayboy.newpipe.databinding.FragmentVideoDetailBinding
+org/blayboy/newpipe/local/subscription/ImportConfirmationDialog$$Icepick.java
+ org.blayboy.newpipe.local.subscription.ImportConfirmationDialog$$Icepick
+org/blayboy/newpipe/info_list/InfoItemDialog.java
+ org.blayboy.newpipe.info_list.InfoItemDialog
+org/blayboy/newpipe/views/NewPipeRecyclerView.java
+ org.blayboy.newpipe.views.NewPipeRecyclerView
+org/blayboy/newpipe/databinding/DialogBookmarkBinding.java
+ org.blayboy.newpipe.databinding.DialogBookmarkBinding
+org/blayboy/newpipe/databinding/FragmentSearchBinding.java
+ org.blayboy.newpipe.databinding.FragmentSearchBinding
+org/blayboy/newpipe/player/resolver/MediaSourceTag.java
+ org.blayboy.newpipe.player.resolver.MediaSourceTag
+org/blayboy/newpipe/fragments/detail/VideoDetailFragment$$Icepick.java
+ org.blayboy.newpipe.fragments.detail.VideoDetailFragment$$Icepick
+org/blayboy/newpipe/database/playlist/model/PlaylistStreamEntity.java
+ org.blayboy.newpipe.database.playlist.model.PlaylistStreamEntity
+org/blayboy/newpipe/util/TLSSocketFactoryCompat.java
+ org.blayboy.newpipe.util.TLSSocketFactoryCompat
+us/shandian/giga/get/sqlite/FinishedMissionStore.java
+ us.shandian.giga.get.sqlite.FinishedMissionStore
+org/blayboy/newpipe/fragments/list/kiosk/KioskFragment$$Icepick.java
+ org.blayboy.newpipe.fragments.list.kiosk.KioskFragment$$Icepick
+org/blayboy/newpipe/info_list/holder/StreamMiniInfoItemHolder.java
+ org.blayboy.newpipe.info_list.holder.StreamMiniInfoItemHolder
+ org.blayboy.newpipe.info_list.holder.StreamMiniInfoItemHolder$1
+org/blayboy/newpipe/info_list/holder/ChannelMiniInfoItemHolder.java
+ org.blayboy.newpipe.info_list.holder.ChannelMiniInfoItemHolder
+org/blayboy/newpipe/databinding/DownloadDialogBinding.java
+ org.blayboy.newpipe.databinding.DownloadDialogBinding
+org/blayboy/newpipe/local/subscription/SubscriptionFragment$$Icepick.java
+ org.blayboy.newpipe.local.subscription.SubscriptionFragment$$Icepick
+org/blayboy/newpipe/player/playqueue/PlaylistPlayQueue.java
+ org.blayboy.newpipe.player.playqueue.PlaylistPlayQueue
+org/blayboy/newpipe/RouterActivity$$Icepick.java
+ org.blayboy.newpipe.RouterActivity$$Icepick
+org/blayboy/newpipe/views/FocusAwareCoordinator.java
+ org.blayboy.newpipe.views.FocusAwareCoordinator
+org/blayboy/newpipe/databinding/FragmentCommentsBinding.java
+ org.blayboy.newpipe.databinding.FragmentCommentsBinding
+us/shandian/giga/ui/adapter/MissionAdapter.java
+ us.shandian.giga.ui.adapter.MissionAdapter
+ us.shandian.giga.ui.adapter.MissionAdapter$RecoverHelper
+ us.shandian.giga.ui.adapter.MissionAdapter$ViewHolderHeader
+ us.shandian.giga.ui.adapter.MissionAdapter$ViewHolderItem
+org/blayboy/newpipe/player/playqueue/events/InitEvent.java
+ org.blayboy.newpipe.player.playqueue.events.InitEvent
+org/blayboy/newpipe/RouterActivity.java
+ org.blayboy.newpipe.RouterActivity
+ org.blayboy.newpipe.RouterActivity$1
+ org.blayboy.newpipe.RouterActivity$AdapterChoiceItem
+ org.blayboy.newpipe.RouterActivity$Choice
+ org.blayboy.newpipe.RouterActivity$FetcherService
+org/blayboy/newpipe/databinding/HeaderItemBinding.java
+ org.blayboy.newpipe.databinding.HeaderItemBinding
+org/blayboy/newpipe/info_list/InfoItemBuilder.java
+ org.blayboy.newpipe.info_list.InfoItemBuilder
+ org.blayboy.newpipe.info_list.InfoItemBuilder$1
+org/blayboy/newpipe/databinding/MissionItemLinearBinding.java
+ org.blayboy.newpipe.databinding.MissionItemLinearBinding
+org/blayboy/newpipe/databinding/FragmentAboutBinding.java
+ org.blayboy.newpipe.databinding.FragmentAboutBinding
+org/blayboy/newpipe/databinding/RelatedItemsHeaderBinding.java
+ org.blayboy.newpipe.databinding.RelatedItemsHeaderBinding
+org/blayboy/newpipe/databinding/PlayQueueItemBinding.java
+ org.blayboy.newpipe.databinding.PlayQueueItemBinding
+org/blayboy/newpipe/databinding/ListStreamPlaylistGridItemBinding.java
+ org.blayboy.newpipe.databinding.ListStreamPlaylistGridItemBinding
+org/blayboy/newpipe/info_list/holder/PlaylistInfoItemHolder.java
+ org.blayboy.newpipe.info_list.holder.PlaylistInfoItemHolder
+org/blayboy/newpipe/databinding/DialogFeedGroupReorderBinding.java
+ org.blayboy.newpipe.databinding.DialogFeedGroupReorderBinding
+org/blayboy/newpipe/databinding/DialogTitleBinding.java
+ org.blayboy.newpipe.databinding.DialogTitleBinding
+org/blayboy/newpipe/databinding/FeedGroupAddNewItemBinding.java
+ org.blayboy.newpipe.databinding.FeedGroupAddNewItemBinding
+org/blayboy/newpipe/databinding/PlaylistHeaderBinding.java
+ org.blayboy.newpipe.databinding.PlaylistHeaderBinding
+org/blayboy/newpipe/util/FallbackViewHolder.java
+ org.blayboy.newpipe.util.FallbackViewHolder
+org/blayboy/newpipe/util/InfoCache.java
+ org.blayboy.newpipe.util.InfoCache
+ org.blayboy.newpipe.util.InfoCache$1
+ org.blayboy.newpipe.util.InfoCache$CacheData
+org/blayboy/newpipe/util/LayoutManagerSmoothScroller.java
+ org.blayboy.newpipe.util.LayoutManagerSmoothScroller
+ org.blayboy.newpipe.util.LayoutManagerSmoothScroller$TopSnappedSmoothScroller
+org/blayboy/newpipe/databinding/FragmentDescriptionBinding.java
+ org.blayboy.newpipe.databinding.FragmentDescriptionBinding
+org/blayboy/newpipe/databinding/FragmentRelatedItemsBinding.java
+ org.blayboy.newpipe.databinding.FragmentRelatedItemsBinding
+us/shandian/giga/io/SharpInputStream.java
+ us.shandian.giga.io.SharpInputStream
+org/blayboy/newpipe/database/playlist/dao/PlaylistRemoteDAO_Impl.java
+ org.blayboy.newpipe.database.playlist.dao.PlaylistRemoteDAO_Impl
+ org.blayboy.newpipe.database.playlist.dao.PlaylistRemoteDAO_Impl$1
+ org.blayboy.newpipe.database.playlist.dao.PlaylistRemoteDAO_Impl$2
+ org.blayboy.newpipe.database.playlist.dao.PlaylistRemoteDAO_Impl$3
+ org.blayboy.newpipe.database.playlist.dao.PlaylistRemoteDAO_Impl$4
+ org.blayboy.newpipe.database.playlist.dao.PlaylistRemoteDAO_Impl$5
+ org.blayboy.newpipe.database.playlist.dao.PlaylistRemoteDAO_Impl$6
+ org.blayboy.newpipe.database.playlist.dao.PlaylistRemoteDAO_Impl$7
+ org.blayboy.newpipe.database.playlist.dao.PlaylistRemoteDAO_Impl$8
+org/blayboy/newpipe/player/resolver/AudioPlaybackResolver.java
+ org.blayboy.newpipe.player.resolver.AudioPlaybackResolver
+org/blayboy/newpipe/fragments/BlankFragment.java
+ org.blayboy.newpipe.fragments.BlankFragment
+org/blayboy/newpipe/streams/Mp4FromDashWriter.java
+ org.blayboy.newpipe.streams.Mp4FromDashWriter
+ org.blayboy.newpipe.streams.Mp4FromDashWriter$TablesInfo
+us/shandian/giga/ui/common/ProgressDrawable.java
+ us.shandian.giga.ui.common.ProgressDrawable
+us/shandian/giga/ui/common/ToolbarActivity.java
+ us.shandian.giga.ui.common.ToolbarActivity
+org/blayboy/newpipe/databinding/DrawerHeaderBinding.java
+ org.blayboy.newpipe.databinding.DrawerHeaderBinding
+org/blayboy/newpipe/util/SliderStrategy.java
+ org.blayboy.newpipe.util.SliderStrategy
+ org.blayboy.newpipe.util.SliderStrategy$Quadratic
+org/blayboy/newpipe/info_list/holder/StreamInfoItemHolder.java
+ org.blayboy.newpipe.info_list.holder.StreamInfoItemHolder
+org/blayboy/newpipe/local/holder/LocalPlaylistStreamItemHolder.java
+ org.blayboy.newpipe.local.holder.LocalPlaylistStreamItemHolder
+org/blayboy/newpipe/util/ListHelper.java
+ org.blayboy.newpipe.util.ListHelper
+org/blayboy/newpipe/databinding/SubscriptionImportExportItemBinding.java
+ org.blayboy.newpipe.databinding.SubscriptionImportExportItemBinding
+org/blayboy/newpipe/settings/MainSettingsFragment.java
+ org.blayboy.newpipe.settings.MainSettingsFragment
+org/blayboy/newpipe/local/subscription/dialog/FeedGroupReorderDialog$$Icepick.java
+ org.blayboy.newpipe.local.subscription.dialog.FeedGroupReorderDialog$$Icepick
+org/blayboy/newpipe/player/event/PlayerEventListener.java
+ org.blayboy.newpipe.player.event.PlayerEventListener
+org/blayboy/newpipe/util/FilePickerActivityHelper.java
+ org.blayboy.newpipe.util.FilePickerActivityHelper
+ org.blayboy.newpipe.util.FilePickerActivityHelper$CustomFilePickerFragment
+org/blayboy/newpipe/error/AcraReportSenderFactory.java
+ org.blayboy.newpipe.error.AcraReportSenderFactory
+org/blayboy/newpipe/settings/SelectPlaylistFragment.java
+ org.blayboy.newpipe.settings.SelectPlaylistFragment
+ org.blayboy.newpipe.settings.SelectPlaylistFragment$1
+ org.blayboy.newpipe.settings.SelectPlaylistFragment$OnSelectedListener
+ org.blayboy.newpipe.settings.SelectPlaylistFragment$SelectPlaylistAdapter
+ org.blayboy.newpipe.settings.SelectPlaylistFragment$SelectPlaylistAdapter$SelectPlaylistItemHolder
+org/blayboy/newpipe/util/RelatedItemInfo.java
+ org.blayboy.newpipe.util.RelatedItemInfo
+org/blayboy/newpipe/database/playlist/PlaylistLocalItem.java
+ org.blayboy.newpipe.database.playlist.PlaylistLocalItem
+org/blayboy/newpipe/databinding/ListPlaylistMiniItemBinding.java
+ org.blayboy.newpipe.databinding.ListPlaylistMiniItemBinding
+org/blayboy/newpipe/settings/tabs/AddTabDialog.java
+ org.blayboy.newpipe.settings.tabs.AddTabDialog
+ org.blayboy.newpipe.settings.tabs.AddTabDialog$1
+ org.blayboy.newpipe.settings.tabs.AddTabDialog$ChooseTabListItem
+ org.blayboy.newpipe.settings.tabs.AddTabDialog$DialogListAdapter
+org/blayboy/newpipe/database/AppDatabase.java
+ org.blayboy.newpipe.database.AppDatabase
+org/blayboy/newpipe/databinding/ActivityErrorBinding.java
+ org.blayboy.newpipe.databinding.ActivityErrorBinding
+org/blayboy/newpipe/settings/AppearanceSettingsFragment.java
+ org.blayboy.newpipe.settings.AppearanceSettingsFragment
+org/blayboy/newpipe/player/mediasource/PlaceholderMediaSource.java
+ org.blayboy.newpipe.player.mediasource.PlaceholderMediaSource
+org/blayboy/newpipe/player/resolver/PlaybackResolver.java
+ org.blayboy.newpipe.player.resolver.PlaybackResolver
+org/blayboy/newpipe/info_list/holder/StreamGridInfoItemHolder.java
+ org.blayboy.newpipe.info_list.holder.StreamGridInfoItemHolder
+org/blayboy/newpipe/player/helper/CacheFactory.java
+ org.blayboy.newpipe.player.helper.CacheFactory
+org/blayboy/newpipe/util/SecondaryStreamHelper.java
+ org.blayboy.newpipe.util.SecondaryStreamHelper
+ org.blayboy.newpipe.util.SecondaryStreamHelper$1
+org/blayboy/newpipe/local/LocalItemListAdapter.java
+ org.blayboy.newpipe.local.LocalItemListAdapter
+ org.blayboy.newpipe.local.LocalItemListAdapter$1
+ org.blayboy.newpipe.local.LocalItemListAdapter$2
+org/blayboy/newpipe/fragments/MainFragment.java
+ org.blayboy.newpipe.fragments.MainFragment
+ org.blayboy.newpipe.fragments.MainFragment$1
+ org.blayboy.newpipe.fragments.MainFragment$SelectedTabsPagerAdapter
+org/blayboy/newpipe/local/subscription/services/SubscriptionsImportService.java
+ org.blayboy.newpipe.local.subscription.services.SubscriptionsImportService
+ org.blayboy.newpipe.local.subscription.services.SubscriptionsImportService$1
+org/blayboy/newpipe/player/playqueue/events/RecoveryEvent.java
+ org.blayboy.newpipe.player.playqueue.events.RecoveryEvent
+org/blayboy/newpipe/database/subscription/SubscriptionDAO_Impl.java
+ org.blayboy.newpipe.database.subscription.SubscriptionDAO_Impl
+ org.blayboy.newpipe.database.subscription.SubscriptionDAO_Impl$1
+ org.blayboy.newpipe.database.subscription.SubscriptionDAO_Impl$10
+ org.blayboy.newpipe.database.subscription.SubscriptionDAO_Impl$11
+ org.blayboy.newpipe.database.subscription.SubscriptionDAO_Impl$12
+ org.blayboy.newpipe.database.subscription.SubscriptionDAO_Impl$13
+ org.blayboy.newpipe.database.subscription.SubscriptionDAO_Impl$14
+ org.blayboy.newpipe.database.subscription.SubscriptionDAO_Impl$2
+ org.blayboy.newpipe.database.subscription.SubscriptionDAO_Impl$3
+ org.blayboy.newpipe.database.subscription.SubscriptionDAO_Impl$4
+ org.blayboy.newpipe.database.subscription.SubscriptionDAO_Impl$5
+ org.blayboy.newpipe.database.subscription.SubscriptionDAO_Impl$6
+ org.blayboy.newpipe.database.subscription.SubscriptionDAO_Impl$7
+ org.blayboy.newpipe.database.subscription.SubscriptionDAO_Impl$8
+ org.blayboy.newpipe.database.subscription.SubscriptionDAO_Impl$9
+org/blayboy/newpipe/database/AppDatabase_Impl.java
+ org.blayboy.newpipe.database.AppDatabase_Impl
+ org.blayboy.newpipe.database.AppDatabase_Impl$1
+org/blayboy/newpipe/local/dialog/PlaylistAppendDialog.java
+ org.blayboy.newpipe.local.dialog.PlaylistAppendDialog
+ org.blayboy.newpipe.local.dialog.PlaylistAppendDialog$1
+org/blayboy/newpipe/views/SuperScrollLayoutManager.java
+ org.blayboy.newpipe.views.SuperScrollLayoutManager
+org/blayboy/newpipe/databinding/FragmentChooseTabsBinding.java
+ org.blayboy.newpipe.databinding.FragmentChooseTabsBinding
+org/blayboy/newpipe/player/MainPlayer.java
+ org.blayboy.newpipe.player.MainPlayer
+ org.blayboy.newpipe.player.MainPlayer$LocalBinder
+ org.blayboy.newpipe.player.MainPlayer$PlayerType
+org/blayboy/newpipe/databinding/FragmentImportBinding.java
+ org.blayboy.newpipe.databinding.FragmentImportBinding
+org/blayboy/newpipe/fragments/BackPressable.java
+ org.blayboy.newpipe.fragments.BackPressable
+org/blayboy/newpipe/streams/DataReader.java
+ org.blayboy.newpipe.streams.DataReader
+ org.blayboy.newpipe.streams.DataReader$1
+org/blayboy/newpipe/util/BitmapUtils.java
+ org.blayboy.newpipe.util.BitmapUtils
+org/blayboy/newpipe/settings/SelectChannelFragment.java
+ org.blayboy.newpipe.settings.SelectChannelFragment
+ org.blayboy.newpipe.settings.SelectChannelFragment$1
+ org.blayboy.newpipe.settings.SelectChannelFragment$OnCancelListener
+ org.blayboy.newpipe.settings.SelectChannelFragment$OnSelectedListener
+ org.blayboy.newpipe.settings.SelectChannelFragment$SelectChannelAdapter
+ org.blayboy.newpipe.settings.SelectChannelFragment$SelectChannelAdapter$SelectChannelItemHolder
+org/blayboy/newpipe/settings/NewPipeSettings.java
+ org.blayboy.newpipe.settings.NewPipeSettings
+org/blayboy/newpipe/MainActivity.java
+ org.blayboy.newpipe.MainActivity
+ org.blayboy.newpipe.MainActivity$1
+ org.blayboy.newpipe.MainActivity$2
+ org.blayboy.newpipe.MainActivity$3
+org/blayboy/newpipe/util/ThemeHelper.java
+ org.blayboy.newpipe.util.ThemeHelper
+org/blayboy/newpipe/fragments/list/BaseListInfoFragment$$Icepick.java
+ org.blayboy.newpipe.fragments.list.BaseListInfoFragment$$Icepick
+org/blayboy/newpipe/database/playlist/dao/PlaylistStreamDAO_Impl.java
+ org.blayboy.newpipe.database.playlist.dao.PlaylistStreamDAO_Impl
+ org.blayboy.newpipe.database.playlist.dao.PlaylistStreamDAO_Impl$1
+ org.blayboy.newpipe.database.playlist.dao.PlaylistStreamDAO_Impl$2
+ org.blayboy.newpipe.database.playlist.dao.PlaylistStreamDAO_Impl$3
+ org.blayboy.newpipe.database.playlist.dao.PlaylistStreamDAO_Impl$4
+ org.blayboy.newpipe.database.playlist.dao.PlaylistStreamDAO_Impl$5
+ org.blayboy.newpipe.database.playlist.dao.PlaylistStreamDAO_Impl$6
+ org.blayboy.newpipe.database.playlist.dao.PlaylistStreamDAO_Impl$7
+ org.blayboy.newpipe.database.playlist.dao.PlaylistStreamDAO_Impl$8
+ org.blayboy.newpipe.database.playlist.dao.PlaylistStreamDAO_Impl$9
+org/blayboy/newpipe/database/playlist/model/PlaylistRemoteEntity.java
+ org.blayboy.newpipe.database.playlist.model.PlaylistRemoteEntity
+org/blayboy/newpipe/databinding/DrawerLayoutBinding.java
+ org.blayboy.newpipe.databinding.DrawerLayoutBinding
+org/blayboy/newpipe/databinding/HeaderWithTextItemBinding.java
+ org.blayboy.newpipe.databinding.HeaderWithTextItemBinding
+org/blayboy/newpipe/local/history/StatisticsPlaylistFragment.java
+ org.blayboy.newpipe.local.history.StatisticsPlaylistFragment
+ org.blayboy.newpipe.local.history.StatisticsPlaylistFragment$1
+ org.blayboy.newpipe.local.history.StatisticsPlaylistFragment$2
+ org.blayboy.newpipe.local.history.StatisticsPlaylistFragment$3
+ org.blayboy.newpipe.local.history.StatisticsPlaylistFragment$StatisticSortMode
+org/blayboy/newpipe/fragments/list/channel/ChannelFragment.java
+ org.blayboy.newpipe.fragments.list.channel.ChannelFragment
+org/blayboy/newpipe/databinding/PlaylistControlBinding.java
+ org.blayboy.newpipe.databinding.PlaylistControlBinding
+org/blayboy/newpipe/DownloaderImpl.java
+ org.blayboy.newpipe.DownloaderImpl
+org/blayboy/newpipe/util/TextLinkifier.java
+ org.blayboy.newpipe.util.TextLinkifier
+ org.blayboy.newpipe.util.TextLinkifier$1
+org/blayboy/newpipe/fragments/BaseStateFragment.java
+ org.blayboy.newpipe.fragments.BaseStateFragment
+org/blayboy/newpipe/NewPipeDatabase.java
+ org.blayboy.newpipe.NewPipeDatabase
+org/blayboy/newpipe/player/helper/PlayerDataSource.java
+ org.blayboy.newpipe.player.helper.PlayerDataSource
+org/blayboy/newpipe/databinding/MissionsBinding.java
+ org.blayboy.newpipe.databinding.MissionsBinding
+org/blayboy/newpipe/fragments/detail/DescriptionFragment.java
+ org.blayboy.newpipe.fragments.detail.DescriptionFragment
+org/blayboy/newpipe/settings/VideoAudioSettingsFragment.java
+ org.blayboy.newpipe.settings.VideoAudioSettingsFragment
+org/blayboy/newpipe/databinding/ActivityMainBinding.java
+ org.blayboy.newpipe.databinding.ActivityMainBinding
+org/blayboy/newpipe/databinding/ActivityPlayerQueueControlBinding.java
+ org.blayboy.newpipe.databinding.ActivityPlayerQueueControlBinding
+org/blayboy/newpipe/databinding/ListStreamMiniItemBinding.java
+ org.blayboy.newpipe.databinding.ListStreamMiniItemBinding
+org/blayboy/newpipe/views/ExpandableSurfaceView.java
+ org.blayboy.newpipe.views.ExpandableSurfaceView
+org/blayboy/newpipe/local/subscription/SubscriptionsImportFragment$$Icepick.java
+ org.blayboy.newpipe.local.subscription.SubscriptionsImportFragment$$Icepick
+org/blayboy/newpipe/player/mediasource/LoadedMediaSource.java
+ org.blayboy.newpipe.player.mediasource.LoadedMediaSource
+org/blayboy/newpipe/views/LargeTextMovementMethod.java
+ org.blayboy.newpipe.views.LargeTextMovementMethod
+org/blayboy/newpipe/databinding/PignateFooterBinding.java
+ org.blayboy.newpipe.databinding.PignateFooterBinding
+org/blayboy/newpipe/player/helper/AudioReactor.java
+ org.blayboy.newpipe.player.helper.AudioReactor
+ org.blayboy.newpipe.player.helper.AudioReactor$1
+org/blayboy/newpipe/databinding/SelectPlaylistFragmentBinding.java
+ org.blayboy.newpipe.databinding.SelectPlaylistFragmentBinding
+org/blayboy/newpipe/local/holder/LocalStatisticStreamItemHolder.java
+ org.blayboy.newpipe.local.holder.LocalStatisticStreamItemHolder
+us/shandian/giga/io/ChunkFileInputStream.java
+ us.shandian.giga.io.ChunkFileInputStream
+org/blayboy/newpipe/settings/tabs/TabsJsonHelper.java
+ org.blayboy.newpipe.settings.tabs.TabsJsonHelper
+ org.blayboy.newpipe.settings.tabs.TabsJsonHelper$1
+ org.blayboy.newpipe.settings.tabs.TabsJsonHelper$InvalidJsonException
+org/blayboy/newpipe/streams/io/SharpStream.java
+ org.blayboy.newpipe.streams.io.SharpStream
+org/blayboy/newpipe/fragments/list/search/SearchFragment$$Icepick.java
+ org.blayboy.newpipe.fragments.list.search.SearchFragment$$Icepick
+org/blayboy/newpipe/fragments/detail/TabAdapter.java
+ org.blayboy.newpipe.fragments.detail.TabAdapter
+org/blayboy/newpipe/database/stream/dao/StreamStateDAO_Impl.java
+ org.blayboy.newpipe.database.stream.dao.StreamStateDAO_Impl
+ org.blayboy.newpipe.database.stream.dao.StreamStateDAO_Impl$1
+ org.blayboy.newpipe.database.stream.dao.StreamStateDAO_Impl$2
+ org.blayboy.newpipe.database.stream.dao.StreamStateDAO_Impl$3
+ org.blayboy.newpipe.database.stream.dao.StreamStateDAO_Impl$4
+ org.blayboy.newpipe.database.stream.dao.StreamStateDAO_Impl$5
+ org.blayboy.newpipe.database.stream.dao.StreamStateDAO_Impl$6
+ org.blayboy.newpipe.database.stream.dao.StreamStateDAO_Impl$7
+ org.blayboy.newpipe.database.stream.dao.StreamStateDAO_Impl$8
+org/blayboy/newpipe/util/StreamItemAdapter.java
+ org.blayboy.newpipe.util.StreamItemAdapter
+ org.blayboy.newpipe.util.StreamItemAdapter$1
+ org.blayboy.newpipe.util.StreamItemAdapter$StreamSizeWrapper
+org/blayboy/newpipe/player/event/PlayerServiceEventListener.java
+ org.blayboy.newpipe.player.event.PlayerServiceEventListener
+org/blayboy/newpipe/local/subscription/dialog/FeedGroupDialog$$Icepick.java
+ org.blayboy.newpipe.local.subscription.dialog.FeedGroupDialog$$Icepick
+org/blayboy/newpipe/fragments/list/BaseListFragment.java
+ org.blayboy.newpipe.fragments.list.BaseListFragment
+ org.blayboy.newpipe.fragments.list.BaseListFragment$1
+ org.blayboy.newpipe.fragments.list.BaseListFragment$2
+ org.blayboy.newpipe.fragments.list.BaseListFragment$3
+ org.blayboy.newpipe.fragments.list.BaseListFragment$4
+ org.blayboy.newpipe.fragments.list.BaseListFragment$5
+us/shandian/giga/get/DownloadRunnable.java
+ us.shandian.giga.get.DownloadRunnable
+org/blayboy/newpipe/databinding/DialogPlaylistsBinding.java
+ org.blayboy.newpipe.databinding.DialogPlaylistsBinding
+org/blayboy/newpipe/databinding/ListStreamItemBinding.java
+ org.blayboy.newpipe.databinding.ListStreamItemBinding
+org/blayboy/newpipe/views/ScrollableTabLayout.java
+ org.blayboy.newpipe.views.ScrollableTabLayout
+us/shandian/giga/get/FinishedMission.java
+ us.shandian.giga.get.FinishedMission
+org/blayboy/newpipe/download/DownloadDialog.java
+ org.blayboy.newpipe.download.DownloadDialog
+ org.blayboy.newpipe.download.DownloadDialog$1
+ org.blayboy.newpipe.download.DownloadDialog$2
+ org.blayboy.newpipe.download.DownloadDialog$3
+us/shandian/giga/get/Mission.java
+ us.shandian.giga.get.Mission
+org/blayboy/newpipe/databinding/ErrorPanelBinding.java
+ org.blayboy.newpipe.databinding.ErrorPanelBinding
+org/blayboy/newpipe/databinding/MissionItemBinding.java
+ org.blayboy.newpipe.databinding.MissionItemBinding
+org/blayboy/newpipe/databinding/FragmentChannelBinding.java
+ org.blayboy.newpipe.databinding.FragmentChannelBinding
+us/shandian/giga/get/DownloadInitializer.java
+ us.shandian.giga.get.DownloadInitializer
+org/blayboy/newpipe/fragments/ViewContract.java
+ org.blayboy.newpipe.fragments.ViewContract
+org/blayboy/newpipe/fragments/list/ListViewContract.java
+ org.blayboy.newpipe.fragments.list.ListViewContract
+org/blayboy/newpipe/fragments/list/kiosk/KioskFragment.java
+ org.blayboy.newpipe.fragments.list.kiosk.KioskFragment
+us/shandian/giga/io/ProgressReport.java
+ us.shandian.giga.io.ProgressReport
+org/blayboy/newpipe/util/KoreUtil.java
+ org.blayboy.newpipe.util.KoreUtil
+org/blayboy/newpipe/fragments/list/videos/RelatedItemsFragment.java
+ org.blayboy.newpipe.fragments.list.videos.RelatedItemsFragment
+org/blayboy/newpipe/database/BasicDAO.java
+ org.blayboy.newpipe.database.BasicDAO
+org/blayboy/newpipe/local/playlist/LocalPlaylistManager.java
+ org.blayboy.newpipe.local.playlist.LocalPlaylistManager
+org/blayboy/newpipe/player/helper/PlayerHelper.java
+ org.blayboy.newpipe.player.helper.PlayerHelper
+ org.blayboy.newpipe.player.helper.PlayerHelper$1
+ org.blayboy.newpipe.player.helper.PlayerHelper$AutoplayType
+ org.blayboy.newpipe.player.helper.PlayerHelper$MinimizeMode
+org/blayboy/newpipe/player/helper/LoadController.java
+ org.blayboy.newpipe.player.helper.LoadController
+org/blayboy/newpipe/error/UserAction.java
+ org.blayboy.newpipe.error.UserAction
+org/blayboy/newpipe/player/playqueue/ChannelPlayQueue.java
+ org.blayboy.newpipe.player.playqueue.ChannelPlayQueue
+org/blayboy/newpipe/player/playqueue/events/ErrorEvent.java
+ org.blayboy.newpipe.player.playqueue.events.ErrorEvent
+org/blayboy/newpipe/databinding/ListCommentsItemBinding.java
+ org.blayboy.newpipe.databinding.ListCommentsItemBinding
+org/blayboy/newpipe/util/NavigationHelper.java
+ org.blayboy.newpipe.util.NavigationHelper
+ org.blayboy.newpipe.util.NavigationHelper$RunnableWithVideoDetailFragment
+org/blayboy/newpipe/views/CollapsibleView$$Icepick.java
+ org.blayboy.newpipe.views.CollapsibleView$$Icepick
+org/blayboy/newpipe/player/playback/MediaSourceManager.java
+ org.blayboy.newpipe.player.playback.MediaSourceManager
+ org.blayboy.newpipe.player.playback.MediaSourceManager$1
+ org.blayboy.newpipe.player.playback.MediaSourceManager$2
+ org.blayboy.newpipe.player.playback.MediaSourceManager$ItemsToLoad
+org/blayboy/newpipe/databinding/FragmentMainBinding.java
+ org.blayboy.newpipe.databinding.FragmentMainBinding
+org/blayboy/newpipe/streams/OggFromWebMWriter.java
+ org.blayboy.newpipe.streams.OggFromWebMWriter
+ org.blayboy.newpipe.streams.OggFromWebMWriter$1
+org/blayboy/newpipe/databinding/DialogPlaybackParameterBinding.java
+ org.blayboy.newpipe.databinding.DialogPlaybackParameterBinding
+us/shandian/giga/postprocessing/TtmlConverter.java
+ us.shandian.giga.postprocessing.TtmlConverter
+org/blayboy/newpipe/local/bookmark/BookmarkFragment.java
+ org.blayboy.newpipe.local.bookmark.BookmarkFragment
+ org.blayboy.newpipe.local.bookmark.BookmarkFragment$1
+ org.blayboy.newpipe.local.bookmark.BookmarkFragment$2
+org/blayboy/newpipe/settings/SelectKioskFragment.java
+ org.blayboy.newpipe.settings.SelectKioskFragment
+ org.blayboy.newpipe.settings.SelectKioskFragment$OnCancelListener
+ org.blayboy.newpipe.settings.SelectKioskFragment$OnSelectedListener
+ org.blayboy.newpipe.settings.SelectKioskFragment$SelectKioskAdapter
+ org.blayboy.newpipe.settings.SelectKioskFragment$SelectKioskAdapter$Entry
+ org.blayboy.newpipe.settings.SelectKioskFragment$SelectKioskAdapter$SelectKioskItemHolder
+org/blayboy/newpipe/util/PermissionHelper.java
+ org.blayboy.newpipe.util.PermissionHelper
+org/blayboy/newpipe/streams/WebMWriter.java
+ org.blayboy.newpipe.streams.WebMWriter
+ org.blayboy.newpipe.streams.WebMWriter$Block
+ org.blayboy.newpipe.streams.WebMWriter$ClusterInfo
+ org.blayboy.newpipe.streams.WebMWriter$KeyFrame
+org/blayboy/newpipe/player/playqueue/PlayQueueItemBuilder.java
+ org.blayboy.newpipe.player.playqueue.PlayQueueItemBuilder
+ org.blayboy.newpipe.player.playqueue.PlayQueueItemBuilder$OnSelectedListener
+org/blayboy/newpipe/databinding/ListChooseTabsBinding.java
+ org.blayboy.newpipe.databinding.ListChooseTabsBinding
+org/blayboy/newpipe/databinding/FragmentKioskBinding.java
+ org.blayboy.newpipe.databinding.FragmentKioskBinding
+org/blayboy/newpipe/error/ReCaptchaActivity.java
+ org.blayboy.newpipe.error.ReCaptchaActivity
+ org.blayboy.newpipe.error.ReCaptchaActivity$1
+org/blayboy/newpipe/settings/DownloadSettingsFragment.java
+ org.blayboy.newpipe.settings.DownloadSettingsFragment
+org/blayboy/newpipe/util/CookieUtils.java
+ org.blayboy.newpipe.util.CookieUtils
+org/blayboy/newpipe/player/resolver/VideoPlaybackResolver.java
+ org.blayboy.newpipe.player.resolver.VideoPlaybackResolver
+ org.blayboy.newpipe.player.resolver.VideoPlaybackResolver$QualityResolver
+org/blayboy/newpipe/util/ShareUtils.java
+ org.blayboy.newpipe.util.ShareUtils
+org/blayboy/newpipe/database/history/dao/HistoryDAO.java
+ org.blayboy.newpipe.database.history.dao.HistoryDAO
+org/blayboy/newpipe/databinding/FragmentSubscriptionBinding.java
+ org.blayboy.newpipe.databinding.FragmentSubscriptionBinding
+org/blayboy/newpipe/player/playqueue/events/PlayQueueEventType.java
+ org.blayboy.newpipe.player.playqueue.events.PlayQueueEventType
+org/blayboy/newpipe/player/event/PlayerGestureListener.java
+ org.blayboy.newpipe.player.event.PlayerGestureListener
+us/shandian/giga/get/DownloadRunnableFallback.java
+ us.shandian.giga.get.DownloadRunnableFallback
+org/blayboy/newpipe/player/mediasession/PlayQueueNavigator.java
+ org.blayboy.newpipe.player.mediasession.PlayQueueNavigator
+org/blayboy/newpipe/databinding/SettingsLayoutBinding.java
+ org.blayboy.newpipe.databinding.SettingsLayoutBinding
+org/blayboy/newpipe/fragments/detail/StackItem.java
+ org.blayboy.newpipe.fragments.detail.StackItem
+org/blayboy/newpipe/local/playlist/LocalPlaylistFragment.java
+ org.blayboy.newpipe.local.playlist.LocalPlaylistFragment
+ org.blayboy.newpipe.local.playlist.LocalPlaylistFragment$1
+ org.blayboy.newpipe.local.playlist.LocalPlaylistFragment$2
+ org.blayboy.newpipe.local.playlist.LocalPlaylistFragment$3
+org/blayboy/newpipe/database/Migrations.java
+ org.blayboy.newpipe.database.Migrations
+ org.blayboy.newpipe.database.Migrations$1
+ org.blayboy.newpipe.database.Migrations$2
+org/blayboy/newpipe/player/helper/MediaSessionManager.java
+ org.blayboy.newpipe.player.helper.MediaSessionManager
+org/blayboy/newpipe/database/history/dao/StreamHistoryDAO_Impl.java
+ org.blayboy.newpipe.database.history.dao.StreamHistoryDAO_Impl
+ org.blayboy.newpipe.database.history.dao.StreamHistoryDAO_Impl$1
+ org.blayboy.newpipe.database.history.dao.StreamHistoryDAO_Impl$2
+ org.blayboy.newpipe.database.history.dao.StreamHistoryDAO_Impl$3
+ org.blayboy.newpipe.database.history.dao.StreamHistoryDAO_Impl$4
+ org.blayboy.newpipe.database.history.dao.StreamHistoryDAO_Impl$5
+ org.blayboy.newpipe.database.history.dao.StreamHistoryDAO_Impl$6
+ org.blayboy.newpipe.database.history.dao.StreamHistoryDAO_Impl$7
+ org.blayboy.newpipe.database.history.dao.StreamHistoryDAO_Impl$8
+ org.blayboy.newpipe.database.history.dao.StreamHistoryDAO_Impl$9
+org/blayboy/newpipe/databinding/FragmentBookmarksBinding.java
+ org.blayboy.newpipe.databinding.FragmentBookmarksBinding
+org/blayboy/newpipe/databinding/ListChannelItemBinding.java
+ org.blayboy.newpipe.databinding.ListChannelItemBinding
+org/blayboy/newpipe/databinding/FragmentInstanceListBinding.java
+ org.blayboy.newpipe.databinding.FragmentInstanceListBinding
+org/blayboy/newpipe/info_list/holder/CommentsInfoItemHolder.java
+ org.blayboy.newpipe.info_list.holder.CommentsInfoItemHolder
+org/blayboy/newpipe/databinding/FragmentFeedBinding.java
+ org.blayboy.newpipe.databinding.FragmentFeedBinding
+org/blayboy/newpipe/fragments/detail/VideoDetailFragment.java
+ org.blayboy.newpipe.fragments.detail.VideoDetailFragment
+ org.blayboy.newpipe.fragments.detail.VideoDetailFragment$1
+ org.blayboy.newpipe.fragments.detail.VideoDetailFragment$2
+ org.blayboy.newpipe.fragments.detail.VideoDetailFragment$3
+ org.blayboy.newpipe.fragments.detail.VideoDetailFragment$4
+ org.blayboy.newpipe.fragments.detail.VideoDetailFragment$5
+org/blayboy/newpipe/local/subscription/ImportConfirmationDialog.java
+ org.blayboy.newpipe.local.subscription.ImportConfirmationDialog
+org/blayboy/newpipe/databinding/ListCommentsMiniItemBinding.java
+ org.blayboy.newpipe.databinding.ListCommentsMiniItemBinding
+org/blayboy/newpipe/database/Converters.java
+ org.blayboy.newpipe.database.Converters
+org/blayboy/newpipe/util/ExtractorHelper.java
+ org.blayboy.newpipe.util.ExtractorHelper
+org/blayboy/newpipe/fragments/list/comments/CommentsFragment.java
+ org.blayboy.newpipe.fragments.list.comments.CommentsFragment
+org/blayboy/newpipe/player/playqueue/PlayQueue.java
+ org.blayboy.newpipe.player.playqueue.PlayQueue
+org/blayboy/newpipe/local/holder/RemotePlaylistItemHolder.java
+ org.blayboy.newpipe.local.holder.RemotePlaylistItemHolder
+org/blayboy/newpipe/databinding/ListStreamPlaylistItemBinding.java
+ org.blayboy.newpipe.databinding.ListStreamPlaylistItemBinding
+us/shandian/giga/io/FileStreamSAF.java
+ us.shandian.giga.io.FileStreamSAF
+org/blayboy/newpipe/info_list/holder/InfoItemHolder.java
+ org.blayboy.newpipe.info_list.holder.InfoItemHolder
+org/blayboy/newpipe/player/playback/PlaybackListener.java
+ org.blayboy.newpipe.player.playback.PlaybackListener
+org/blayboy/newpipe/player/playqueue/AbstractInfoPlayQueue.java
+ org.blayboy.newpipe.player.playqueue.AbstractInfoPlayQueue
+ org.blayboy.newpipe.player.playqueue.AbstractInfoPlayQueue$1
+ org.blayboy.newpipe.player.playqueue.AbstractInfoPlayQueue$2
+org/blayboy/newpipe/settings/BasePreferenceFragment.java
+ org.blayboy.newpipe.settings.BasePreferenceFragment
+org/blayboy/newpipe/ImageDownloader.java
+ org.blayboy.newpipe.ImageDownloader
+org/blayboy/newpipe/player/Player.java
+ org.blayboy.newpipe.player.Player
+ org.blayboy.newpipe.player.Player$1
+ org.blayboy.newpipe.player.Player$10
+ org.blayboy.newpipe.player.Player$2
+ org.blayboy.newpipe.player.Player$3
+ org.blayboy.newpipe.player.Player$4
+ org.blayboy.newpipe.player.Player$5
+ org.blayboy.newpipe.player.Player$6
+ org.blayboy.newpipe.player.Player$7
+ org.blayboy.newpipe.player.Player$8
+ org.blayboy.newpipe.player.Player$9
+org/blayboy/newpipe/databinding/StreamQualityItemBinding.java
+ org.blayboy.newpipe.databinding.StreamQualityItemBinding
+org/blayboy/newpipe/local/HeaderFooterHolder.java
+ org.blayboy.newpipe.local.HeaderFooterHolder
+org/blayboy/newpipe/local/holder/PlaylistItemHolder.java
+ org.blayboy.newpipe.local.holder.PlaylistItemHolder
+org/blayboy/newpipe/databinding/PickerIconItemBinding.java
+ org.blayboy.newpipe.databinding.PickerIconItemBinding
+org/blayboy/newpipe/util/StreamDialogEntry.java
+ org.blayboy.newpipe.util.StreamDialogEntry
+ org.blayboy.newpipe.util.StreamDialogEntry$StreamDialogEntryAction
+org/blayboy/newpipe/views/FocusAwareDrawerLayout.java
+ org.blayboy.newpipe.views.FocusAwareDrawerLayout
+org/blayboy/newpipe/databinding/ChannelHeaderBinding.java
+ org.blayboy.newpipe.databinding.ChannelHeaderBinding
+org/blayboy/newpipe/local/subscription/services/SubscriptionsExportService.java
+ org.blayboy.newpipe.local.subscription.services.SubscriptionsExportService
+ org.blayboy.newpipe.local.subscription.services.SubscriptionsExportService$1
+org/blayboy/newpipe/local/holder/LocalPlaylistStreamGridItemHolder.java
+ org.blayboy.newpipe.local.holder.LocalPlaylistStreamGridItemHolder
+org/blayboy/newpipe/util/PeertubeHelper.java
+ org.blayboy.newpipe.util.PeertubeHelper
+org/blayboy/newpipe/databinding/FragmentBlankBinding.java
+ org.blayboy.newpipe.databinding.FragmentBlankBinding
+org/blayboy/newpipe/fragments/list/playlist/PlaylistFragment.java
+ org.blayboy.newpipe.fragments.list.playlist.PlaylistFragment
+ org.blayboy.newpipe.fragments.list.playlist.PlaylistFragment$1
+org/blayboy/newpipe/fragments/list/search/SuggestionListAdapter.java
+ org.blayboy.newpipe.fragments.list.search.SuggestionListAdapter
+ org.blayboy.newpipe.fragments.list.search.SuggestionListAdapter$1
+ org.blayboy.newpipe.fragments.list.search.SuggestionListAdapter$OnSuggestionItemSelected
+ org.blayboy.newpipe.fragments.list.search.SuggestionListAdapter$SuggestionItemHolder
+org/blayboy/newpipe/databinding/ListPlaylistItemBinding.java
+ org.blayboy.newpipe.databinding.ListPlaylistItemBinding
+org/blayboy/newpipe/player/playqueue/events/AppendEvent.java
+ org.blayboy.newpipe.player.playqueue.events.AppendEvent
+us/shandian/giga/io/StoredDirectoryHelper.java
+ us.shandian.giga.io.StoredDirectoryHelper
+org/blayboy/newpipe/info_list/holder/PlaylistMiniInfoItemHolder.java
+ org.blayboy.newpipe.info_list.holder.PlaylistMiniInfoItemHolder
+org/blayboy/newpipe/player/playqueue/events/MoveEvent.java
+ org.blayboy.newpipe.player.playqueue.events.MoveEvent
+us/shandian/giga/service/DownloadManagerService.java
+ us.shandian.giga.service.DownloadManagerService
+ us.shandian.giga.service.DownloadManagerService$1
+ us.shandian.giga.service.DownloadManagerService$2
+ us.shandian.giga.service.DownloadManagerService$DownloadManagerBinder
+us/shandian/giga/get/DownloadMission.java
+ us.shandian.giga.get.DownloadMission
+ us.shandian.giga.get.DownloadMission$1
+ us.shandian.giga.get.DownloadMission$Block
+ us.shandian.giga.get.DownloadMission$HttpError
+ us.shandian.giga.get.DownloadMission$Lock
+org/blayboy/newpipe/local/holder/LocalStatisticStreamGridItemHolder.java
+ org.blayboy.newpipe.local.holder.LocalStatisticStreamGridItemHolder
+org/blayboy/newpipe/database/history/dao/SearchHistoryDAO.java
+ org.blayboy.newpipe.database.history.dao.SearchHistoryDAO
+org/blayboy/newpipe/fragments/list/search/SearchFragment.java
+ org.blayboy.newpipe.fragments.list.search.SearchFragment
+ org.blayboy.newpipe.fragments.list.search.SearchFragment$1
+ org.blayboy.newpipe.fragments.list.search.SearchFragment$2
+ org.blayboy.newpipe.fragments.list.search.SearchFragment$3
+org/blayboy/newpipe/player/playqueue/PlayQueueItem.java
+ org.blayboy.newpipe.player.playqueue.PlayQueueItem
+org/blayboy/newpipe/databinding/ListChannelGridItemBinding.java
+ org.blayboy.newpipe.databinding.ListChannelGridItemBinding
+org/blayboy/newpipe/databinding/HistoryDisabledViewBinding.java
+ org.blayboy.newpipe.databinding.HistoryDisabledViewBinding
+org/blayboy/newpipe/util/ZipHelper.java
+ org.blayboy.newpipe.util.ZipHelper
+org/blayboy/newpipe/databinding/ListChannelMiniItemBinding.java
+ org.blayboy.newpipe.databinding.ListChannelMiniItemBinding
+org/blayboy/newpipe/local/history/HistoryEntryAdapter.java
+ org.blayboy.newpipe.local.history.HistoryEntryAdapter
+ org.blayboy.newpipe.local.history.HistoryEntryAdapter$OnHistoryItemClickListener

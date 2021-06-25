@@ -1,0 +1,23 @@
+package org.blayboy.newpipe.local.subscription.item
+
+import android.view.View
+import android.view.View.OnClickListener
+import com.xwray.groupie.viewbinding.BindableItem
+import org.blayboy.newpipe.R
+import org.blayboy.newpipe.databinding.HeaderItemBinding
+
+class HeaderItem(
+    val title: String,
+    private val onClickListener: (() -> Unit)? = null
+) : BindableItem<HeaderItemBinding>() {
+    override fun getLayout(): Int = R.layout.header_item
+
+    override fun bind(viewBinding: HeaderItemBinding, position: Int) {
+        viewBinding.headerTitle.text = title
+
+        val listener: OnClickListener? = if (onClickListener != null) OnClickListener { onClickListener.invoke() } else null
+        viewBinding.root.setOnClickListener(listener)
+    }
+
+    override fun initializeViewBinding(view: View) = HeaderItemBinding.bind(view)
+}

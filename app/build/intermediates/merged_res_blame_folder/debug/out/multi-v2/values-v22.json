@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v22/values-v22.xml",
+            "map": [
+                {
+                    "source": "/Users/macpro/.gradle/caches/transforms-3/f2c108998a1cbd284b910cb01fd0246a/transformed/appcompat-1.2.0/res/values-v22/values-v22.xml",
+                    "from": {
+                        "startLines": "2,3,4,9",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,130,217,553",
+                        "endLines": "2,3,8,13",
+                        "endColumns": "74,86,12,12",
+                        "endOffsets": "125,212,548,896"
+                    },
+                    "to": {
+                        "startLines": "4,5,6,11",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "165,240,327,663",
+                        "endLines": "4,5,10,15",
+                        "endColumns": "74,86,12,12",
+                        "endOffsets": "235,322,658,1006"
+                    }
+                },
+                {
+                    "source": "/Users/macpro/.gradle/caches/transforms-3/72eb56fce6add276700a55cee5378ca4/transformed/jetified-acra-core-5.7.0/res/values-v22/values-v22.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,108",
+                        "endColumns": "52,56",
+                        "endOffsets": "103,160"
+                    }
+                }
+            ]
+        }
+    ]
+}

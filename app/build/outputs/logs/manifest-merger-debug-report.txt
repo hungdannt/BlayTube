@@ -1,0 +1,676 @@
+-- Merging decision tree log ---
+provider#androidx.core.content.FileProvider
+INJECTED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:114:9-122:20
+MERGED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:114:9-122:20
+MERGED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:114:9-122:20
+	android:grantUriPermissions
+		ADDED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/debug/AndroidManifest.xml:118:13-47
+	android:authorities
+		INJECTED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml
+		ADDED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/debug/AndroidManifest.xml:116:13-60
+	android:exported
+		ADDED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/debug/AndroidManifest.xml:117:13-37
+	android:name
+		ADDED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/debug/AndroidManifest.xml:115:13-62
+manifest
+ADDED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:2:1-351:12
+INJECTED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:2:1-351:12
+INJECTED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:2:1-351:12
+INJECTED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:2:1-351:12
+MERGED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:2:1-351:12
+MERGED from [androidx.databinding:viewbinding:4.1.3] /Users/macpro/.gradle/caches/transforms-3/09d824d5205589f642ed2487f5177f76/transformed/jetified-viewbinding-4.1.3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.stetho:stetho-okhttp3:1.5.1] /Users/macpro/.gradle/caches/transforms-3/f3b713195325cb38700a47f51130baea/transformed/jetified-stetho-okhttp3-1.5.1/AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.stetho:stetho:1.5.1] /Users/macpro/.gradle/caches/transforms-3/069455800e540cf60b2eed2252798bf7/transformed/jetified-stetho-1.5.1/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.multidex:multidex:2.0.1] /Users/macpro/.gradle/caches/transforms-3/3d56a29c3a7b236b64b5b1d14640b896/transformed/multidex-2.0.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/macpro/.gradle/caches/transforms-3/9b1488e5d318a33b41325c24ed29c786/transformed/constraintlayout-2.0.4/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.preference:preference:1.1.1] /Users/macpro/.gradle/caches/transforms-3/52380d01540ea490bfa850d7c9df4eed/transformed/preference-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.2.1] /Users/macpro/.gradle/caches/transforms-3/f41cedf99a85f1391866f491c93e2366/transformed/material-1.2.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.nononsenseapps:filepicker:4.2.1] /Users/macpro/.gradle/caches/transforms-3/c91861cde97ae4b353431152380d0927/transformed/jetified-filepicker-4.2.1/AndroidManifest.xml:7:1-19:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/macpro/.gradle/caches/transforms-3/f2c108998a1cbd284b910cb01fd0246a/transformed/appcompat-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/macpro/.gradle/caches/transforms-3/c4181388995e77848b7b7bfcfd2e93fe/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.3.2] /Users/macpro/.gradle/caches/transforms-3/b11999778ea934f57fecfb86a877a8aa/transformed/jetified-core-ktx-1.3.2/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/macpro/.gradle/caches/transforms-3/5dbba1fb09b060f2195e4b214e544941/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/macpro/.gradle/caches/transforms-3/dcf01924d70cb2dc6be97e010b94410e/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/macpro/.gradle/caches/transforms-3/f4e6b3c3a58cab63b85bd3ce7cc5a28a/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.1] /Users/macpro/.gradle/caches/transforms-3/c2f819a6255e22f957c06d3ac6cfe484/transformed/documentfile-1.0.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/macpro/.gradle/caches/transforms-3/4362e7a39ba5b329d7b6faf64c1f9743/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.2.4] /Users/macpro/.gradle/caches/transforms-3/7b298332a5e3ce6a04e781902e16ecba/transformed/fragment-1.2.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/macpro/.gradle/caches/transforms-3/a2580c3f1ad05f4e812e71286a8d4164/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.1.0] /Users/macpro/.gradle/caches/transforms-3/01e40bb547e009d8e48df5345800198c/transformed/jetified-activity-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/macpro/.gradle/caches/transforms-3/4967d81f261027f48dee2e58c8a139ca/transformed/jetified-lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/macpro/.gradle/caches/transforms-3/d9e9f70f314d6a1281e65628af37c109/transformed/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/macpro/.gradle/caches/transforms-3/704b1af9b5cf459a6a6bcb934a2e76af/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.xwray:groupie:2.8.1] /Users/macpro/.gradle/caches/transforms-3/cd25c223b38747db1574bae273842b87/transformed/jetified-groupie-2.8.1/AndroidManifest.xml:2:1-14:12
+MERGED from [com.google.android.exoplayer:exoplayer:2.13.2] /Users/macpro/.gradle/caches/transforms-3/652e60fac8e441800f12c4d97721affb/transformed/jetified-exoplayer-2.13.2/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.13.2] /Users/macpro/.gradle/caches/transforms-3/980d61fe5261710dca46854cf8db7f28/transformed/jetified-exoplayer-ui-2.13.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/macpro/.gradle/caches/transforms-3/ffaf405d0ca667de4cfdd66acee87461/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] /Users/macpro/.gradle/caches/transforms-3/7bc6e07616e3ddf41ce6f045c5bea1c9/transformed/swiperefreshlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.webkit:webkit:1.4.0] /Users/macpro/.gradle/caches/transforms-3/1a28ef3fc010df885264e4055c524389/transformed/webkit-1.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [io.noties.markwon:linkify:4.6.0] /Users/macpro/.gradle/caches/transforms-3/87d07274b746983be9d7e3cedbd8b118/transformed/jetified-linkify-4.6.0/AndroidManifest.xml:2:1-11:12
+MERGED from [io.noties.markwon:core:4.6.0] /Users/macpro/.gradle/caches/transforms-3/7cab2966f629f6647ff5ff84fa216384/transformed/jetified-core-4.6.0/AndroidManifest.xml:2:1-11:12
+MERGED from [com.jakewharton.rxbinding4:rxbinding:4.0.0] /Users/macpro/.gradle/caches/transforms-3/c1645f16f28ee1e15de086e1b12bd526/transformed/jetified-rxbinding-4.0.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/macpro/.gradle/caches/transforms-3/4482b9a6cb9c5571584ace255df0920b/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/macpro/.gradle/caches/transforms-3/5ec73ee1c71f7380d9cf1584e0c950c2/transformed/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/macpro/.gradle/caches/transforms-3/9c27d237519d7c93743fc5273d738a17/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.exoplayer:extension-mediasession:2.13.2] /Users/macpro/.gradle/caches/transforms-3/6618f93ce209ee50dfb88677412ad266/transformed/jetified-extension-mediasession-2.13.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.2.1] /Users/macpro/.gradle/caches/transforms-3/bb44041f6e4a06d1055e6460848a580b/transformed/media-1.2.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/macpro/.gradle/caches/transforms-3/7f2ccc98eeb4cf6dc98abb2470c86b02/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/macpro/.gradle/caches/transforms-3/610bd8f48a91e393a2436dc0c1e5e70d/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/macpro/.gradle/caches/transforms-3/d00a54487e31cb6bf030184dabd4e5f1/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/macpro/.gradle/caches/transforms-3/841c04261d2b59549bd34b284b9e58f5/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/macpro/.gradle/caches/transforms-3/b5dcd22bed324a0968faa11f9d4cada0/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/macpro/.gradle/caches/transforms-3/cb0038c584acc674e37b098b68e56015/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/macpro/.gradle/caches/transforms-3/c951fd65e3e947c821e42df94b91137c/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/macpro/.gradle/caches/transforms-3/ced9d12801395943ee96c8c2379e0ff1/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.2] /Users/macpro/.gradle/caches/transforms-3/1c80b25e3e7bc502d6b863da21a8a06c/transformed/core-1.3.2/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] /Users/macpro/.gradle/caches/transforms-3/69e7a43aa08e846aaa98f5cc24bd05e7/transformed/lifecycle-livedata-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.room:room-rxjava3:2.3.0-alpha03] /Users/macpro/.gradle/caches/transforms-3/714ea37c70a124c220709ee310d05238/transformed/jetified-room-rxjava3-2.3.0-alpha03/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.room:room-runtime:2.3.0-alpha03] /Users/macpro/.gradle/caches/transforms-3/d523112e0d3e7a0341b7d9b7bde6f618/transformed/room-runtime-2.3.0-alpha03/AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/macpro/.gradle/caches/transforms-3/4678a90855ce3c2a6989138be2908f7d/transformed/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/macpro/.gradle/caches/transforms-3/fca41fcf17ac63d1aece53656d05c2df/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/macpro/.gradle/caches/transforms-3/69d40e60aaf94efbb06afd77d5b111c1/transformed/lifecycle-runtime-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/macpro/.gradle/caches/transforms-3/50f2d225031095f83656e1270fe0829e/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/macpro/.gradle/caches/transforms-3/2ebb6f1d89d556f3279badce506d1d1c/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] /Users/macpro/.gradle/caches/transforms-3/74f049cffe1e704f9c878316c9d5f500/transformed/sqlite-framework-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite:2.1.0] /Users/macpro/.gradle/caches/transforms-3/453b36e4ffba1a8722f69f4f546a9936/transformed/sqlite-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/macpro/.gradle/caches/transforms-3/bf76ed9a097cec3fdb78f94720555e3f/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.13.2] /Users/macpro/.gradle/caches/transforms-3/36c045182f7da38b151918b64bff043b/transformed/jetified-exoplayer-dash-2.13.2/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.13.2] /Users/macpro/.gradle/caches/transforms-3/debe5247facb9a380ed7bd3bd08b884c/transformed/jetified-exoplayer-hls-2.13.2/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.13.2] /Users/macpro/.gradle/caches/transforms-3/3efbb0c3ba62e4360b5b9c920affc25c/transformed/jetified-exoplayer-smoothstreaming-2.13.2/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-transformer:2.13.2] /Users/macpro/.gradle/caches/transforms-3/b452a03eacedafe960a21b08636fe207/transformed/jetified-exoplayer-transformer-2.13.2/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.13.2] /Users/macpro/.gradle/caches/transforms-3/ca94753fc37faf0a274d13fbe1aaa71f/transformed/jetified-exoplayer-core-2.13.2/AndroidManifest.xml:17:1-26:12
+MERGED from [ch.acra:acra-core:5.7.0] /Users/macpro/.gradle/caches/transforms-3/72eb56fce6add276700a55cee5378ca4/transformed/jetified-acra-core-5.7.0/AndroidManifest.xml:17:1-48:12
+MERGED from [com.google.android.exoplayer:exoplayer-extractor:2.13.2] /Users/macpro/.gradle/caches/transforms-3/7bb416b2b024737b7659678c4a693d3a/transformed/jetified-exoplayer-extractor-2.13.2/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.13.2] /Users/macpro/.gradle/caches/transforms-3/b9ccb894ddcd680a52be4a5a16df8567/transformed/jetified-exoplayer-common-2.13.2/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.print:print:1.0.0] /Users/macpro/.gradle/caches/transforms-3/0cbd80e2037f10bc6676da1f5729d92c/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.xwray:groupie-viewbinding:2.8.1] /Users/macpro/.gradle/caches/transforms-3/86231c87277c18a7c97353b94befceb3/transformed/jetified-groupie-viewbinding-2.8.1/AndroidManifest.xml:2:1-14:12
+MERGED from [de.hdodenhof:circleimageview:3.1.0] /Users/macpro/.gradle/caches/transforms-3/d0fa52e8f5c7dafd1e99ac0dad73d920/transformed/jetified-circleimageview-3.1.0/AndroidManifest.xml:2:1-11:12
+MERGED from [io.reactivex.rxjava3:rxandroid:3.0.0] /Users/macpro/.gradle/caches/transforms-3/090e534350f559a673ba2d7d0a894b22/transformed/jetified-rxandroid-3.0.0/AndroidManifest.xml:15:1-20:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/macpro/.gradle/caches/transforms-3/5d881a982ade22dbe3b3ec89b1151e08/transformed/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/debug/AndroidManifest.xml:2:1-351:12
+INJECTED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/debug/AndroidManifest.xml:2:1-351:12
+INJECTED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/debug/AndroidManifest.xml:2:1-351:12
+	package
+		ADDED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:5:5-34
+		INJECTED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml
+		ADDED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:2:1-351:12
+		INJECTED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/debug/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:4:5-51
+	android:versionCode
+		INJECTED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml
+		ADDED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:2:1-351:12
+		INJECTED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:3:5-63
+	android:installLocation
+		ADDED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:6:5-35
+uses-permission#android.permission.INTERNET
+ADDED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:8:5-67
+MERGED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:8:5-67
+MERGED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:8:5-67
+	android:name
+		ADDED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:8:22-64
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:9:5-68
+MERGED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:9:5-68
+MERGED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:9:5-68
+	android:name
+		ADDED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:9:22-65
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:10:5-79
+MERGED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:10:5-79
+MERGED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:10:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.13.2] /Users/macpro/.gradle/caches/transforms-3/ca94753fc37faf0a274d13fbe1aaa71f/transformed/jetified-exoplayer-core-2.13.2/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.13.2] /Users/macpro/.gradle/caches/transforms-3/ca94753fc37faf0a274d13fbe1aaa71f/transformed/jetified-exoplayer-core-2.13.2/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.13.2] /Users/macpro/.gradle/caches/transforms-3/b9ccb894ddcd680a52be4a5a16df8567/transformed/jetified-exoplayer-common-2.13.2/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.13.2] /Users/macpro/.gradle/caches/transforms-3/b9ccb894ddcd680a52be4a5a16df8567/transformed/jetified-exoplayer-common-2.13.2/AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:10:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:11:5-81
+MERGED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:11:5-81
+MERGED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:11:22-78
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:12:5-78
+MERGED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:12:5-78
+MERGED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:12:5-78
+	android:name
+		ADDED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:12:22-75
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:13:5-77
+MERGED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:13:5-77
+MERGED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:13:5-77
+	android:name
+		ADDED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:13:22-74
+uses-feature#android.hardware.touchscreen
+ADDED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:15:5-17:36
+MERGED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:15:5-17:36
+MERGED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:15:5-17:36
+	android:required
+		ADDED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:17:9-33
+	android:name
+		ADDED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:16:9-52
+uses-feature#android.software.leanback
+ADDED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:18:5-20:36
+MERGED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:18:5-20:36
+MERGED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:18:5-20:36
+	android:required
+		ADDED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:20:9-33
+	android:name
+		ADDED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:19:9-49
+application
+ADDED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:22:5-350:19
+MERGED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:22:5-350:19
+MERGED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:22:5-350:19
+MERGED from [com.facebook.stetho:stetho-okhttp3:1.5.1] /Users/macpro/.gradle/caches/transforms-3/f3b713195325cb38700a47f51130baea/transformed/jetified-stetho-okhttp3-1.5.1/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.stetho:stetho-okhttp3:1.5.1] /Users/macpro/.gradle/caches/transforms-3/f3b713195325cb38700a47f51130baea/transformed/jetified-stetho-okhttp3-1.5.1/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.stetho:stetho:1.5.1] /Users/macpro/.gradle/caches/transforms-3/069455800e540cf60b2eed2252798bf7/transformed/jetified-stetho-1.5.1/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.stetho:stetho:1.5.1] /Users/macpro/.gradle/caches/transforms-3/069455800e540cf60b2eed2252798bf7/transformed/jetified-stetho-1.5.1/AndroidManifest.xml:11:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/macpro/.gradle/caches/transforms-3/9b1488e5d318a33b41325c24ed29c786/transformed/constraintlayout-2.0.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/macpro/.gradle/caches/transforms-3/9b1488e5d318a33b41325c24ed29c786/transformed/constraintlayout-2.0.4/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.material:material:1.2.1] /Users/macpro/.gradle/caches/transforms-3/f41cedf99a85f1391866f491c93e2366/transformed/material-1.2.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.2.1] /Users/macpro/.gradle/caches/transforms-3/f41cedf99a85f1391866f491c93e2366/transformed/material-1.2.1/AndroidManifest.xml:22:5-20
+MERGED from [com.nononsenseapps:filepicker:4.2.1] /Users/macpro/.gradle/caches/transforms-3/c91861cde97ae4b353431152380d0927/transformed/jetified-filepicker-4.2.1/AndroidManifest.xml:17:5-20
+MERGED from [com.nononsenseapps:filepicker:4.2.1] /Users/macpro/.gradle/caches/transforms-3/c91861cde97ae4b353431152380d0927/transformed/jetified-filepicker-4.2.1/AndroidManifest.xml:17:5-20
+MERGED from [com.xwray:groupie:2.8.1] /Users/macpro/.gradle/caches/transforms-3/cd25c223b38747db1574bae273842b87/transformed/jetified-groupie-2.8.1/AndroidManifest.xml:11:5-12:19
+MERGED from [com.xwray:groupie:2.8.1] /Users/macpro/.gradle/caches/transforms-3/cd25c223b38747db1574bae273842b87/transformed/jetified-groupie-2.8.1/AndroidManifest.xml:11:5-12:19
+MERGED from [androidx.core:core:1.3.2] /Users/macpro/.gradle/caches/transforms-3/1c80b25e3e7bc502d6b863da21a8a06c/transformed/core-1.3.2/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.2] /Users/macpro/.gradle/caches/transforms-3/1c80b25e3e7bc502d6b863da21a8a06c/transformed/core-1.3.2/AndroidManifest.xml:24:5-89
+MERGED from [androidx.room:room-runtime:2.3.0-alpha03] /Users/macpro/.gradle/caches/transforms-3/d523112e0d3e7a0341b7d9b7bde6f618/transformed/room-runtime-2.3.0-alpha03/AndroidManifest.xml:24:5-29:19
+MERGED from [androidx.room:room-runtime:2.3.0-alpha03] /Users/macpro/.gradle/caches/transforms-3/d523112e0d3e7a0341b7d9b7bde6f618/transformed/room-runtime-2.3.0-alpha03/AndroidManifest.xml:24:5-29:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/macpro/.gradle/caches/transforms-3/2ebb6f1d89d556f3279badce506d1d1c/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/macpro/.gradle/caches/transforms-3/2ebb6f1d89d556f3279badce506d1d1c/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [ch.acra:acra-core:5.7.0] /Users/macpro/.gradle/caches/transforms-3/72eb56fce6add276700a55cee5378ca4/transformed/jetified-acra-core-5.7.0/AndroidManifest.xml:26:5-46:19
+MERGED from [ch.acra:acra-core:5.7.0] /Users/macpro/.gradle/caches/transforms-3/72eb56fce6add276700a55cee5378ca4/transformed/jetified-acra-core-5.7.0/AndroidManifest.xml:26:5-46:19
+MERGED from [com.xwray:groupie-viewbinding:2.8.1] /Users/macpro/.gradle/caches/transforms-3/86231c87277c18a7c97353b94befceb3/transformed/jetified-groupie-viewbinding-2.8.1/AndroidManifest.xml:11:5-12:19
+MERGED from [com.xwray:groupie-viewbinding:2.8.1] /Users/macpro/.gradle/caches/transforms-3/86231c87277c18a7c97353b94befceb3/transformed/jetified-groupie-viewbinding-2.8.1/AndroidManifest.xml:11:5-12:19
+MERGED from [de.hdodenhof:circleimageview:3.1.0] /Users/macpro/.gradle/caches/transforms-3/d0fa52e8f5c7dafd1e99ac0dad73d920/transformed/jetified-circleimageview-3.1.0/AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:3.1.0] /Users/macpro/.gradle/caches/transforms-3/d0fa52e8f5c7dafd1e99ac0dad73d920/transformed/jetified-circleimageview-3.1.0/AndroidManifest.xml:9:5-20
+	android:requestLegacyExternalStorage
+		ADDED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:29:9-52
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.2] /Users/macpro/.gradle/caches/transforms-3/1c80b25e3e7bc502d6b863da21a8a06c/transformed/core-1.3.2/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:27:9-41
+	android:resizeableActivity
+		ADDED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:31:9-42
+	tools:ignore
+		ADDED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:32:9-35
+	android:icon
+		ADDED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:26:9-43
+	android:allowBackup
+		ADDED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:24:9-35
+	android:banner
+		ADDED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:25:9-51
+	android:theme
+		ADDED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:30:9-36
+	android:logo
+		ADDED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:28:9-43
+	android:name
+		ADDED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:23:9-28
+activity#org.blayboy.newpipe.MainActivity
+ADDED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:33:9-43:20
+MERGED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:33:9-43:20
+MERGED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:33:9-43:20
+	android:label
+		ADDED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:35:13-45
+	android:launchMode
+		ADDED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:34:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER+category:name:android.intent.category.LEANBACK_LAUNCHER
+ADDED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:37:13-42:29
+action#android.intent.action.MAIN
+ADDED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:38:17-69
+	android:name
+		ADDED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:38:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:40:17-77
+	android:name
+		ADDED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:40:27-74
+category#android.intent.category.LEANBACK_LAUNCHER
+ADDED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:41:17-86
+	android:name
+		ADDED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:41:27-83
+receiver#androidx.media.session.MediaButtonReceiver
+ADDED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:45:9-49:20
+MERGED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:45:9-49:20
+MERGED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:45:9-49:20
+	android:name
+		ADDED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:45:19-76
+intent-filter#action:name:android.intent.action.MEDIA_BUTTON
+ADDED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:46:13-48:29
+action#android.intent.action.MEDIA_BUTTON
+ADDED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:47:17-77
+	android:name
+		ADDED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:47:25-74
+service#org.blayboy.newpipe.player.MainPlayer
+ADDED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:51:9-58:19
+MERGED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:51:9-58:19
+MERGED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:51:9-58:19
+	android:exported
+		ADDED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:53:13-37
+	android:foregroundServiceType
+		ADDED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:54:13-58
+	android:name
+		ADDED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:52:13-46
+activity#org.blayboy.newpipe.player.PlayQueueActivity
+ADDED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:60:9-63:47
+MERGED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:60:9-63:47
+MERGED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:60:9-63:47
+	android:label
+		ADDED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:62:13-62
+	android:launchMode
+		ADDED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:63:13-44
+	android:name
+		ADDED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:61:13-53
+activity#org.blayboy.newpipe.settings.SettingsActivity
+ADDED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:65:9-67:48
+MERGED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:65:9-67:48
+MERGED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:65:9-67:48
+	android:label
+		ADDED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:67:13-45
+	android:name
+		ADDED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:66:13-54
+service#org.blayboy.newpipe.local.subscription.services.SubscriptionsImportService
+ADDED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:70:9-91
+MERGED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:70:9-91
+MERGED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:70:9-91
+	android:name
+		ADDED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:70:18-88
+service#org.blayboy.newpipe.local.subscription.services.SubscriptionsExportService
+ADDED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:71:9-91
+MERGED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:71:9-91
+MERGED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:71:9-91
+	android:name
+		ADDED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:71:18-88
+service#org.blayboy.newpipe.local.feed.service.FeedLoadService
+ADDED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:72:9-71
+MERGED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:72:9-71
+MERGED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:72:9-71
+	android:name
+		ADDED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:72:18-68
+activity#org.blayboy.newpipe.PanicResponderActivity
+ADDED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:74:9-84:20
+MERGED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:74:9-84:20
+MERGED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:74:9-84:20
+	android:launchMode
+		ADDED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:76:13-48
+	android:noHistory
+		ADDED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:77:13-37
+	android:theme
+		ADDED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:78:13-59
+	android:name
+		ADDED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:75:13-51
+intent-filter#action:name:info.guardianproject.panic.action.TRIGGER+category:name:android.intent.category.DEFAULT
+ADDED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:79:13-83:29
+action#info.guardianproject.panic.action.TRIGGER
+ADDED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:80:17-84
+	android:name
+		ADDED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:80:25-81
+category#android.intent.category.DEFAULT
+ADDED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:82:17-76
+	android:name
+		ADDED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:82:27-73
+activity#org.blayboy.newpipe.ExitActivity
+ADDED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:86:9-89:62
+MERGED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:86:9-89:62
+MERGED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:86:9-89:62
+	android:label
+		ADDED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:88:13-50
+	android:theme
+		ADDED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:89:13-59
+	android:name
+		ADDED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:87:13-41
+activity#org.blayboy.newpipe.error.ErrorActivity
+ADDED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:90:9-57
+MERGED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:90:9-57
+MERGED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:90:9-57
+	android:name
+		ADDED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:90:19-54
+activity#org.blayboy.newpipe.download.DownloadActivity
+ADDED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:93:9-96:47
+MERGED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:93:9-96:47
+MERGED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:93:9-96:47
+	android:label
+		ADDED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:95:13-45
+	android:launchMode
+		ADDED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:96:13-44
+	android:name
+		ADDED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:94:13-54
+service#us.shandian.giga.service.DownloadManagerService
+ADDED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:98:9-83
+MERGED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:98:9-83
+MERGED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:98:9-83
+	android:name
+		ADDED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:98:18-80
+activity#org.blayboy.newpipe.util.FilePickerActivityHelper
+ADDED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:100:9-108:20
+MERGED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:100:9-108:20
+MERGED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:100:9-108:20
+	android:label
+		ADDED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:102:13-45
+	android:theme
+		ADDED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:103:13-55
+	android:name
+		ADDED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:101:13-58
+intent-filter#action:name:android.intent.action.GET_CONTENT+category:name:android.intent.category.DEFAULT
+ADDED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:104:13-107:29
+action#android.intent.action.GET_CONTENT
+ADDED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:105:17-76
+	android:name
+		ADDED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:105:25-73
+activity#org.blayboy.newpipe.error.ReCaptchaActivity
+ADDED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:110:9-112:49
+MERGED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:110:9-112:49
+MERGED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:110:9-112:49
+	android:label
+		ADDED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:112:13-46
+	android:name
+		ADDED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:111:13-52
+activity#org.blayboy.newpipe.RouterActivity
+ADDED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:124:9-338:20
+MERGED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:124:9-338:20
+MERGED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:124:9-338:20
+	android:label
+		ADDED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:127:13-75
+	android:excludeFromRecents
+		ADDED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:126:13-46
+	android:theme
+		ADDED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:129:13-59
+	android:taskAffinity
+		ADDED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:128:13-36
+	android:name
+		ADDED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:125:13-43
+intent-filter#action:name:android.intent.action.VIEW+action:name:android.media.action.MEDIA_PLAY_FROM_SEARCH+action:name:android.nfc.action.NDEF_DISCOVERED+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:m.youtube.com+data:host:music.youtube.com+data:host:www.youtube.com+data:host:youtube.com+data:pathPrefix:/attribution_link+data:pathPrefix:/c/+data:pathPrefix:/channel/+data:pathPrefix:/embed/+data:pathPrefix:/playlist+data:pathPrefix:/user/+data:pathPrefix:/v/+data:pathPrefix:/watch+data:scheme:http+data:scheme:https
+ADDED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:132:13-157:29
+action#android.intent.action.VIEW
+ADDED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:133:17-69
+	android:name
+		ADDED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:133:25-66
+action#android.media.action.MEDIA_PLAY_FROM_SEARCH
+ADDED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:134:17-86
+	android:name
+		ADDED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:134:25-83
+action#android.nfc.action.NDEF_DISCOVERED
+ADDED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:135:17-77
+	android:name
+		ADDED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:135:25-74
+category#android.intent.category.BROWSABLE
+ADDED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:138:17-78
+	android:name
+		ADDED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:138:27-75
+data
+ADDED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:140:17-47
+	android:host
+		ADDED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/debug/AndroidManifest.xml:142:23-49
+	android:scheme
+		ADDED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:140:23-44
+	android:mimeType
+		ADDED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/debug/AndroidManifest.xml:272:23-52
+	android:pathPrefix
+		ADDED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/debug/AndroidManifest.xml:147:23-47
+intent-filter#action:name:android.intent.action.VIEW+action:name:android.media.action.MEDIA_PLAY_FROM_SEARCH+action:name:android.nfc.action.NDEF_DISCOVERED+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:youtu.be+data:pathPrefix:/+data:scheme:http+data:scheme:https
+ADDED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:158:13-170:29
+intent-filter#action:name:android.intent.action.VIEW+action:name:android.media.action.MEDIA_PLAY_FROM_SEARCH+action:name:android.nfc.action.NDEF_DISCOVERED+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:www.youtube-nocookie.com+data:pathPrefix:/embed/+data:scheme:http+data:scheme:https
+ADDED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:171:13-183:29
+intent-filter#action:name:android.intent.action.VIEW+action:name:android.media.action.MEDIA_PLAY_FROM_SEARCH+action:name:android.nfc.action.NDEF_DISCOVERED+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:vnd.youtube+data:scheme:vnd.youtube.launch
+ADDED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:184:13-194:29
+intent-filter#action:name:android.intent.action.VIEW+action:name:android.media.action.MEDIA_PLAY_FROM_SEARCH+action:name:android.nfc.action.NDEF_DISCOVERED+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:*.hooktube.com+data:host:hooktube.com+data:pathPrefix:/channel/+data:pathPrefix:/embed/+data:pathPrefix:/user/+data:pathPrefix:/v/+data:pathPrefix:/watch+data:scheme:http+data:scheme:https
+ADDED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:197:13-216:29
+intent-filter#action:name:android.intent.action.VIEW+action:name:android.media.action.MEDIA_PLAY_FROM_SEARCH+action:name:android.nfc.action.NDEF_DISCOVERED+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:dev.invidio.us+data:host:invidio.us+data:host:invidiou.site+data:host:invidious.048596.xyz+data:host:invidious.fdn.fr+data:host:invidious.kavin.rocks+data:host:invidious.site+data:host:invidious.snopyta.org+data:host:invidious.tube+data:host:invidious.xyz+data:host:invidious.zapashcanon.fr+data:host:invidious.zee.li+data:host:redirect.invidious.io+data:host:tube.connect.cafe+data:host:vid.mint.lgbt+data:host:vid.puffyan.us+data:host:www.invidio.us+data:host:yewtu.be+data:host:ytprivate.com+data:pathPrefix:/+data:scheme:http+data:scheme:https
+ADDED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:219:13-249:29
+intent-filter#action:name:android.intent.action.VIEW+action:name:android.media.action.MEDIA_PLAY_FROM_SEARCH+action:name:android.nfc.action.NDEF_DISCOVERED+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:m.soundcloud.com+data:host:soundcloud.com+data:host:www.soundcloud.com+data:pathPrefix:/+data:scheme:http+data:scheme:https
+ADDED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:252:13-266:29
+intent-filter#action:name:android.intent.action.SEND+category:name:android.intent.category.DEFAULT+data:mimeType:text/plain
+ADDED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:269:13-273:29
+action#android.intent.action.SEND
+ADDED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:270:17-69
+	android:name
+		ADDED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:270:25-66
+intent-filter#action:name:android.intent.action.VIEW+action:name:android.media.action.MEDIA_PLAY_FROM_SEARCH+action:name:android.nfc.action.NDEF_DISCOVERED+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:media.ccc.de+data:pathPrefix:/b/+data:pathPrefix:/c/+data:pathPrefix:/v/+data:scheme:http+data:scheme:https
+ADDED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:276:13-292:29
+intent-filter#action:name:android.intent.action.VIEW+action:name:android.media.action.MEDIA_PLAY_FROM_SEARCH+action:name:android.nfc.action.NDEF_DISCOVERED+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:framatube.org+data:host:media.assassinate-you.net+data:host:peertube.co.uk+data:host:peertube.cpy.re+data:host:peertube.fr+data:host:peertube.mastodon.host+data:host:skeptikon.fr+data:host:tilvids.com+data:host:tube.privacytools.io+data:host:video.lqdn.fr+data:host:video.ploud.fr+data:pathPrefix:/accounts/+data:pathPrefix:/video-channels/+data:pathPrefix:/videos/+data:scheme:http+data:scheme:https
+ADDED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:295:13-321:29
+intent-filter#action:name:android.intent.action.VIEW+action:name:android.media.action.MEDIA_PLAY_FROM_SEARCH+action:name:android.nfc.action.NDEF_DISCOVERED+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:*.bandcamp.com+data:host:bandcamp.com+data:pathPrefix:/+data:scheme:http+data:scheme:https
+ADDED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:324:13-337:29
+service#org.blayboy.newpipe.RouterActivity$FetcherService
+ADDED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:339:9-341:40
+MERGED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:339:9-341:40
+MERGED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:339:9-341:40
+	android:exported
+		ADDED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:341:13-37
+	android:name
+		ADDED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:340:13-58
+meta-data#android.webkit.WebView.MetricsOptOut
+ADDED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:344:9-95
+MERGED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:344:9-95
+MERGED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:344:9-95
+	android:value
+		ADDED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:344:72-92
+	android:name
+		ADDED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:344:20-71
+meta-data#com.samsung.android.keepalive.density
+ADDED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:347:9-95
+MERGED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:347:9-95
+MERGED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:347:9-95
+	android:value
+		ADDED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:347:73-93
+	android:name
+		ADDED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:347:20-72
+meta-data#com.samsung.android.multidisplay.keep_process_alive
+ADDED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:349:9-109
+MERGED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:349:9-109
+MERGED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:349:9-109
+	android:value
+		ADDED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:349:87-107
+	android:name
+		ADDED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:349:20-86
+uses-sdk
+INJECTED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml
+INJECTED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:4.1.3] /Users/macpro/.gradle/caches/transforms-3/09d824d5205589f642ed2487f5177f76/transformed/jetified-viewbinding-4.1.3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:viewbinding:4.1.3] /Users/macpro/.gradle/caches/transforms-3/09d824d5205589f642ed2487f5177f76/transformed/jetified-viewbinding-4.1.3/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.stetho:stetho-okhttp3:1.5.1] /Users/macpro/.gradle/caches/transforms-3/f3b713195325cb38700a47f51130baea/transformed/jetified-stetho-okhttp3-1.5.1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.stetho:stetho-okhttp3:1.5.1] /Users/macpro/.gradle/caches/transforms-3/f3b713195325cb38700a47f51130baea/transformed/jetified-stetho-okhttp3-1.5.1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.stetho:stetho:1.5.1] /Users/macpro/.gradle/caches/transforms-3/069455800e540cf60b2eed2252798bf7/transformed/jetified-stetho-1.5.1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.stetho:stetho:1.5.1] /Users/macpro/.gradle/caches/transforms-3/069455800e540cf60b2eed2252798bf7/transformed/jetified-stetho-1.5.1/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.multidex:multidex:2.0.1] /Users/macpro/.gradle/caches/transforms-3/3d56a29c3a7b236b64b5b1d14640b896/transformed/multidex-2.0.1/AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.1] /Users/macpro/.gradle/caches/transforms-3/3d56a29c3a7b236b64b5b1d14640b896/transformed/multidex-2.0.1/AndroidManifest.xml:20:5-43
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/macpro/.gradle/caches/transforms-3/9b1488e5d318a33b41325c24ed29c786/transformed/constraintlayout-2.0.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/macpro/.gradle/caches/transforms-3/9b1488e5d318a33b41325c24ed29c786/transformed/constraintlayout-2.0.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.preference:preference:1.1.1] /Users/macpro/.gradle/caches/transforms-3/52380d01540ea490bfa850d7c9df4eed/transformed/preference-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.preference:preference:1.1.1] /Users/macpro/.gradle/caches/transforms-3/52380d01540ea490bfa850d7c9df4eed/transformed/preference-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.2.1] /Users/macpro/.gradle/caches/transforms-3/f41cedf99a85f1391866f491c93e2366/transformed/material-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.2.1] /Users/macpro/.gradle/caches/transforms-3/f41cedf99a85f1391866f491c93e2366/transformed/material-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [com.nononsenseapps:filepicker:4.2.1] /Users/macpro/.gradle/caches/transforms-3/c91861cde97ae4b353431152380d0927/transformed/jetified-filepicker-4.2.1/AndroidManifest.xml:13:5-15:41
+MERGED from [com.nononsenseapps:filepicker:4.2.1] /Users/macpro/.gradle/caches/transforms-3/c91861cde97ae4b353431152380d0927/transformed/jetified-filepicker-4.2.1/AndroidManifest.xml:13:5-15:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/macpro/.gradle/caches/transforms-3/f2c108998a1cbd284b910cb01fd0246a/transformed/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/macpro/.gradle/caches/transforms-3/f2c108998a1cbd284b910cb01fd0246a/transformed/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/macpro/.gradle/caches/transforms-3/c4181388995e77848b7b7bfcfd2e93fe/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/macpro/.gradle/caches/transforms-3/c4181388995e77848b7b7bfcfd2e93fe/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.3.2] /Users/macpro/.gradle/caches/transforms-3/b11999778ea934f57fecfb86a877a8aa/transformed/jetified-core-ktx-1.3.2/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.3.2] /Users/macpro/.gradle/caches/transforms-3/b11999778ea934f57fecfb86a877a8aa/transformed/jetified-core-ktx-1.3.2/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/macpro/.gradle/caches/transforms-3/5dbba1fb09b060f2195e4b214e544941/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/macpro/.gradle/caches/transforms-3/5dbba1fb09b060f2195e4b214e544941/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/macpro/.gradle/caches/transforms-3/dcf01924d70cb2dc6be97e010b94410e/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/macpro/.gradle/caches/transforms-3/dcf01924d70cb2dc6be97e010b94410e/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/macpro/.gradle/caches/transforms-3/f4e6b3c3a58cab63b85bd3ce7cc5a28a/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/macpro/.gradle/caches/transforms-3/f4e6b3c3a58cab63b85bd3ce7cc5a28a/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.1] /Users/macpro/.gradle/caches/transforms-3/c2f819a6255e22f957c06d3ac6cfe484/transformed/documentfile-1.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.1] /Users/macpro/.gradle/caches/transforms-3/c2f819a6255e22f957c06d3ac6cfe484/transformed/documentfile-1.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/macpro/.gradle/caches/transforms-3/4362e7a39ba5b329d7b6faf64c1f9743/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/macpro/.gradle/caches/transforms-3/4362e7a39ba5b329d7b6faf64c1f9743/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.4] /Users/macpro/.gradle/caches/transforms-3/7b298332a5e3ce6a04e781902e16ecba/transformed/fragment-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.4] /Users/macpro/.gradle/caches/transforms-3/7b298332a5e3ce6a04e781902e16ecba/transformed/fragment-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.loader:loader:1.0.0] /Users/macpro/.gradle/caches/transforms-3/a2580c3f1ad05f4e812e71286a8d4164/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/macpro/.gradle/caches/transforms-3/a2580c3f1ad05f4e812e71286a8d4164/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.1.0] /Users/macpro/.gradle/caches/transforms-3/01e40bb547e009d8e48df5345800198c/transformed/jetified-activity-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] /Users/macpro/.gradle/caches/transforms-3/01e40bb547e009d8e48df5345800198c/transformed/jetified-activity-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/macpro/.gradle/caches/transforms-3/4967d81f261027f48dee2e58c8a139ca/transformed/jetified-lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/macpro/.gradle/caches/transforms-3/4967d81f261027f48dee2e58c8a139ca/transformed/jetified-lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/macpro/.gradle/caches/transforms-3/d9e9f70f314d6a1281e65628af37c109/transformed/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/macpro/.gradle/caches/transforms-3/d9e9f70f314d6a1281e65628af37c109/transformed/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/macpro/.gradle/caches/transforms-3/704b1af9b5cf459a6a6bcb934a2e76af/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/macpro/.gradle/caches/transforms-3/704b1af9b5cf459a6a6bcb934a2e76af/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.xwray:groupie:2.8.1] /Users/macpro/.gradle/caches/transforms-3/cd25c223b38747db1574bae273842b87/transformed/jetified-groupie-2.8.1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.xwray:groupie:2.8.1] /Users/macpro/.gradle/caches/transforms-3/cd25c223b38747db1574bae273842b87/transformed/jetified-groupie-2.8.1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.exoplayer:exoplayer:2.13.2] /Users/macpro/.gradle/caches/transforms-3/652e60fac8e441800f12c4d97721affb/transformed/jetified-exoplayer-2.13.2/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer:2.13.2] /Users/macpro/.gradle/caches/transforms-3/652e60fac8e441800f12c4d97721affb/transformed/jetified-exoplayer-2.13.2/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.13.2] /Users/macpro/.gradle/caches/transforms-3/980d61fe5261710dca46854cf8db7f28/transformed/jetified-exoplayer-ui-2.13.2/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.13.2] /Users/macpro/.gradle/caches/transforms-3/980d61fe5261710dca46854cf8db7f28/transformed/jetified-exoplayer-ui-2.13.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/macpro/.gradle/caches/transforms-3/ffaf405d0ca667de4cfdd66acee87461/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/macpro/.gradle/caches/transforms-3/ffaf405d0ca667de4cfdd66acee87461/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] /Users/macpro/.gradle/caches/transforms-3/7bc6e07616e3ddf41ce6f045c5bea1c9/transformed/swiperefreshlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] /Users/macpro/.gradle/caches/transforms-3/7bc6e07616e3ddf41ce6f045c5bea1c9/transformed/swiperefreshlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.webkit:webkit:1.4.0] /Users/macpro/.gradle/caches/transforms-3/1a28ef3fc010df885264e4055c524389/transformed/webkit-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.webkit:webkit:1.4.0] /Users/macpro/.gradle/caches/transforms-3/1a28ef3fc010df885264e4055c524389/transformed/webkit-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [io.noties.markwon:linkify:4.6.0] /Users/macpro/.gradle/caches/transforms-3/87d07274b746983be9d7e3cedbd8b118/transformed/jetified-linkify-4.6.0/AndroidManifest.xml:7:5-9:41
+MERGED from [io.noties.markwon:linkify:4.6.0] /Users/macpro/.gradle/caches/transforms-3/87d07274b746983be9d7e3cedbd8b118/transformed/jetified-linkify-4.6.0/AndroidManifest.xml:7:5-9:41
+MERGED from [io.noties.markwon:core:4.6.0] /Users/macpro/.gradle/caches/transforms-3/7cab2966f629f6647ff5ff84fa216384/transformed/jetified-core-4.6.0/AndroidManifest.xml:7:5-9:41
+MERGED from [io.noties.markwon:core:4.6.0] /Users/macpro/.gradle/caches/transforms-3/7cab2966f629f6647ff5ff84fa216384/transformed/jetified-core-4.6.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.jakewharton.rxbinding4:rxbinding:4.0.0] /Users/macpro/.gradle/caches/transforms-3/c1645f16f28ee1e15de086e1b12bd526/transformed/jetified-rxbinding-4.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.jakewharton.rxbinding4:rxbinding:4.0.0] /Users/macpro/.gradle/caches/transforms-3/c1645f16f28ee1e15de086e1b12bd526/transformed/jetified-rxbinding-4.0.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/macpro/.gradle/caches/transforms-3/4482b9a6cb9c5571584ace255df0920b/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/macpro/.gradle/caches/transforms-3/4482b9a6cb9c5571584ace255df0920b/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/macpro/.gradle/caches/transforms-3/5ec73ee1c71f7380d9cf1584e0c950c2/transformed/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/macpro/.gradle/caches/transforms-3/5ec73ee1c71f7380d9cf1584e0c950c2/transformed/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/macpro/.gradle/caches/transforms-3/9c27d237519d7c93743fc5273d738a17/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/macpro/.gradle/caches/transforms-3/9c27d237519d7c93743fc5273d738a17/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.exoplayer:extension-mediasession:2.13.2] /Users/macpro/.gradle/caches/transforms-3/6618f93ce209ee50dfb88677412ad266/transformed/jetified-extension-mediasession-2.13.2/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:extension-mediasession:2.13.2] /Users/macpro/.gradle/caches/transforms-3/6618f93ce209ee50dfb88677412ad266/transformed/jetified-extension-mediasession-2.13.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.2.1] /Users/macpro/.gradle/caches/transforms-3/bb44041f6e4a06d1055e6460848a580b/transformed/media-1.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.2.1] /Users/macpro/.gradle/caches/transforms-3/bb44041f6e4a06d1055e6460848a580b/transformed/media-1.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/macpro/.gradle/caches/transforms-3/7f2ccc98eeb4cf6dc98abb2470c86b02/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/macpro/.gradle/caches/transforms-3/7f2ccc98eeb4cf6dc98abb2470c86b02/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/macpro/.gradle/caches/transforms-3/610bd8f48a91e393a2436dc0c1e5e70d/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/macpro/.gradle/caches/transforms-3/610bd8f48a91e393a2436dc0c1e5e70d/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/macpro/.gradle/caches/transforms-3/d00a54487e31cb6bf030184dabd4e5f1/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/macpro/.gradle/caches/transforms-3/d00a54487e31cb6bf030184dabd4e5f1/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/macpro/.gradle/caches/transforms-3/841c04261d2b59549bd34b284b9e58f5/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/macpro/.gradle/caches/transforms-3/841c04261d2b59549bd34b284b9e58f5/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] /Users/macpro/.gradle/caches/transforms-3/b5dcd22bed324a0968faa11f9d4cada0/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/macpro/.gradle/caches/transforms-3/b5dcd22bed324a0968faa11f9d4cada0/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/macpro/.gradle/caches/transforms-3/cb0038c584acc674e37b098b68e56015/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/macpro/.gradle/caches/transforms-3/cb0038c584acc674e37b098b68e56015/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/macpro/.gradle/caches/transforms-3/c951fd65e3e947c821e42df94b91137c/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/macpro/.gradle/caches/transforms-3/c951fd65e3e947c821e42df94b91137c/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/macpro/.gradle/caches/transforms-3/ced9d12801395943ee96c8c2379e0ff1/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/macpro/.gradle/caches/transforms-3/ced9d12801395943ee96c8c2379e0ff1/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.2] /Users/macpro/.gradle/caches/transforms-3/1c80b25e3e7bc502d6b863da21a8a06c/transformed/core-1.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.2] /Users/macpro/.gradle/caches/transforms-3/1c80b25e3e7bc502d6b863da21a8a06c/transformed/core-1.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] /Users/macpro/.gradle/caches/transforms-3/69e7a43aa08e846aaa98f5cc24bd05e7/transformed/lifecycle-livedata-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] /Users/macpro/.gradle/caches/transforms-3/69e7a43aa08e846aaa98f5cc24bd05e7/transformed/lifecycle-livedata-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-rxjava3:2.3.0-alpha03] /Users/macpro/.gradle/caches/transforms-3/714ea37c70a124c220709ee310d05238/transformed/jetified-room-rxjava3-2.3.0-alpha03/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-rxjava3:2.3.0-alpha03] /Users/macpro/.gradle/caches/transforms-3/714ea37c70a124c220709ee310d05238/transformed/jetified-room-rxjava3-2.3.0-alpha03/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.3.0-alpha03] /Users/macpro/.gradle/caches/transforms-3/d523112e0d3e7a0341b7d9b7bde6f618/transformed/room-runtime-2.3.0-alpha03/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.3.0-alpha03] /Users/macpro/.gradle/caches/transforms-3/d523112e0d3e7a0341b7d9b7bde6f618/transformed/room-runtime-2.3.0-alpha03/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/macpro/.gradle/caches/transforms-3/4678a90855ce3c2a6989138be2908f7d/transformed/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/macpro/.gradle/caches/transforms-3/4678a90855ce3c2a6989138be2908f7d/transformed/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/macpro/.gradle/caches/transforms-3/fca41fcf17ac63d1aece53656d05c2df/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/macpro/.gradle/caches/transforms-3/fca41fcf17ac63d1aece53656d05c2df/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/macpro/.gradle/caches/transforms-3/69d40e60aaf94efbb06afd77d5b111c1/transformed/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/macpro/.gradle/caches/transforms-3/69d40e60aaf94efbb06afd77d5b111c1/transformed/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/macpro/.gradle/caches/transforms-3/50f2d225031095f83656e1270fe0829e/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/macpro/.gradle/caches/transforms-3/50f2d225031095f83656e1270fe0829e/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/macpro/.gradle/caches/transforms-3/2ebb6f1d89d556f3279badce506d1d1c/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/macpro/.gradle/caches/transforms-3/2ebb6f1d89d556f3279badce506d1d1c/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] /Users/macpro/.gradle/caches/transforms-3/74f049cffe1e704f9c878316c9d5f500/transformed/sqlite-framework-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] /Users/macpro/.gradle/caches/transforms-3/74f049cffe1e704f9c878316c9d5f500/transformed/sqlite-framework-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] /Users/macpro/.gradle/caches/transforms-3/453b36e4ffba1a8722f69f4f546a9936/transformed/sqlite-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] /Users/macpro/.gradle/caches/transforms-3/453b36e4ffba1a8722f69f4f546a9936/transformed/sqlite-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/macpro/.gradle/caches/transforms-3/bf76ed9a097cec3fdb78f94720555e3f/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/macpro/.gradle/caches/transforms-3/bf76ed9a097cec3fdb78f94720555e3f/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.13.2] /Users/macpro/.gradle/caches/transforms-3/36c045182f7da38b151918b64bff043b/transformed/jetified-exoplayer-dash-2.13.2/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.13.2] /Users/macpro/.gradle/caches/transforms-3/36c045182f7da38b151918b64bff043b/transformed/jetified-exoplayer-dash-2.13.2/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.13.2] /Users/macpro/.gradle/caches/transforms-3/debe5247facb9a380ed7bd3bd08b884c/transformed/jetified-exoplayer-hls-2.13.2/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.13.2] /Users/macpro/.gradle/caches/transforms-3/debe5247facb9a380ed7bd3bd08b884c/transformed/jetified-exoplayer-hls-2.13.2/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.13.2] /Users/macpro/.gradle/caches/transforms-3/3efbb0c3ba62e4360b5b9c920affc25c/transformed/jetified-exoplayer-smoothstreaming-2.13.2/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.13.2] /Users/macpro/.gradle/caches/transforms-3/3efbb0c3ba62e4360b5b9c920affc25c/transformed/jetified-exoplayer-smoothstreaming-2.13.2/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-transformer:2.13.2] /Users/macpro/.gradle/caches/transforms-3/b452a03eacedafe960a21b08636fe207/transformed/jetified-exoplayer-transformer-2.13.2/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-transformer:2.13.2] /Users/macpro/.gradle/caches/transforms-3/b452a03eacedafe960a21b08636fe207/transformed/jetified-exoplayer-transformer-2.13.2/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.13.2] /Users/macpro/.gradle/caches/transforms-3/ca94753fc37faf0a274d13fbe1aaa71f/transformed/jetified-exoplayer-core-2.13.2/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.13.2] /Users/macpro/.gradle/caches/transforms-3/ca94753fc37faf0a274d13fbe1aaa71f/transformed/jetified-exoplayer-core-2.13.2/AndroidManifest.xml:20:5-22:41
+MERGED from [ch.acra:acra-core:5.7.0] /Users/macpro/.gradle/caches/transforms-3/72eb56fce6add276700a55cee5378ca4/transformed/jetified-acra-core-5.7.0/AndroidManifest.xml:22:5-24:41
+MERGED from [ch.acra:acra-core:5.7.0] /Users/macpro/.gradle/caches/transforms-3/72eb56fce6add276700a55cee5378ca4/transformed/jetified-acra-core-5.7.0/AndroidManifest.xml:22:5-24:41
+MERGED from [com.google.android.exoplayer:exoplayer-extractor:2.13.2] /Users/macpro/.gradle/caches/transforms-3/7bb416b2b024737b7659678c4a693d3a/transformed/jetified-exoplayer-extractor-2.13.2/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-extractor:2.13.2] /Users/macpro/.gradle/caches/transforms-3/7bb416b2b024737b7659678c4a693d3a/transformed/jetified-exoplayer-extractor-2.13.2/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.13.2] /Users/macpro/.gradle/caches/transforms-3/b9ccb894ddcd680a52be4a5a16df8567/transformed/jetified-exoplayer-common-2.13.2/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.13.2] /Users/macpro/.gradle/caches/transforms-3/b9ccb894ddcd680a52be4a5a16df8567/transformed/jetified-exoplayer-common-2.13.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.print:print:1.0.0] /Users/macpro/.gradle/caches/transforms-3/0cbd80e2037f10bc6676da1f5729d92c/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/macpro/.gradle/caches/transforms-3/0cbd80e2037f10bc6676da1f5729d92c/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.xwray:groupie-viewbinding:2.8.1] /Users/macpro/.gradle/caches/transforms-3/86231c87277c18a7c97353b94befceb3/transformed/jetified-groupie-viewbinding-2.8.1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.xwray:groupie-viewbinding:2.8.1] /Users/macpro/.gradle/caches/transforms-3/86231c87277c18a7c97353b94befceb3/transformed/jetified-groupie-viewbinding-2.8.1/AndroidManifest.xml:7:5-9:41
+MERGED from [de.hdodenhof:circleimageview:3.1.0] /Users/macpro/.gradle/caches/transforms-3/d0fa52e8f5c7dafd1e99ac0dad73d920/transformed/jetified-circleimageview-3.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:3.1.0] /Users/macpro/.gradle/caches/transforms-3/d0fa52e8f5c7dafd1e99ac0dad73d920/transformed/jetified-circleimageview-3.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [io.reactivex.rxjava3:rxandroid:3.0.0] /Users/macpro/.gradle/caches/transforms-3/090e534350f559a673ba2d7d0a894b22/transformed/jetified-rxandroid-3.0.0/AndroidManifest.xml:18:5-43
+MERGED from [io.reactivex.rxjava3:rxandroid:3.0.0] /Users/macpro/.gradle/caches/transforms-3/090e534350f559a673ba2d7d0a894b22/transformed/jetified-rxandroid-3.0.0/AndroidManifest.xml:18:5-43
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/macpro/.gradle/caches/transforms-3/5d881a982ade22dbe3b3ec89b1151e08/transformed/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/macpro/.gradle/caches/transforms-3/5d881a982ade22dbe3b3ec89b1151e08/transformed/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/debug/AndroidManifest.xml
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/debug/AndroidManifest.xml:119:13-121:62
+MERGED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:119:13-121:62
+MERGED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:119:13-121:62
+	android:resource
+		ADDED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/debug/AndroidManifest.xml:121:17-59
+	android:name
+		ADDED from /Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/debug/AndroidManifest.xml:120:17-67
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.3.0-alpha03] /Users/macpro/.gradle/caches/transforms-3/d523112e0d3e7a0341b7d9b7bde6f618/transformed/room-runtime-2.3.0-alpha03/AndroidManifest.xml:25:9-28:40
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.3.0-alpha03] /Users/macpro/.gradle/caches/transforms-3/d523112e0d3e7a0341b7d9b7bde6f618/transformed/room-runtime-2.3.0-alpha03/AndroidManifest.xml:28:13-37
+	android:directBootAware
+		ADDED from [androidx.room:room-runtime:2.3.0-alpha03] /Users/macpro/.gradle/caches/transforms-3/d523112e0d3e7a0341b7d9b7bde6f618/transformed/room-runtime-2.3.0-alpha03/AndroidManifest.xml:27:13-43
+	android:name
+		ADDED from [androidx.room:room-runtime:2.3.0-alpha03] /Users/macpro/.gradle/caches/transforms-3/d523112e0d3e7a0341b7d9b7bde6f618/transformed/room-runtime-2.3.0-alpha03/AndroidManifest.xml:26:13-74
+service#org.acra.sender.LegacySenderService
+ADDED from [ch.acra:acra-core:5.7.0] /Users/macpro/.gradle/caches/transforms-3/72eb56fce6add276700a55cee5378ca4/transformed/jetified-acra-core-5.7.0/AndroidManifest.xml:27:9-31:39
+	android:process
+		ADDED from [ch.acra:acra-core:5.7.0] /Users/macpro/.gradle/caches/transforms-3/72eb56fce6add276700a55cee5378ca4/transformed/jetified-acra-core-5.7.0/AndroidManifest.xml:31:13-36
+	android:enabled
+		ADDED from [ch.acra:acra-core:5.7.0] /Users/macpro/.gradle/caches/transforms-3/72eb56fce6add276700a55cee5378ca4/transformed/jetified-acra-core-5.7.0/AndroidManifest.xml:29:13-63
+	android:exported
+		ADDED from [ch.acra:acra-core:5.7.0] /Users/macpro/.gradle/caches/transforms-3/72eb56fce6add276700a55cee5378ca4/transformed/jetified-acra-core-5.7.0/AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [ch.acra:acra-core:5.7.0] /Users/macpro/.gradle/caches/transforms-3/72eb56fce6add276700a55cee5378ca4/transformed/jetified-acra-core-5.7.0/AndroidManifest.xml:28:13-63
+service#org.acra.sender.JobSenderService
+ADDED from [ch.acra:acra-core:5.7.0] /Users/macpro/.gradle/caches/transforms-3/72eb56fce6add276700a55cee5378ca4/transformed/jetified-acra-core-5.7.0/AndroidManifest.xml:32:9-37:39
+	android:process
+		ADDED from [ch.acra:acra-core:5.7.0] /Users/macpro/.gradle/caches/transforms-3/72eb56fce6add276700a55cee5378ca4/transformed/jetified-acra-core-5.7.0/AndroidManifest.xml:37:13-36
+	android:enabled
+		ADDED from [ch.acra:acra-core:5.7.0] /Users/macpro/.gradle/caches/transforms-3/72eb56fce6add276700a55cee5378ca4/transformed/jetified-acra-core-5.7.0/AndroidManifest.xml:34:13-60
+	android:exported
+		ADDED from [ch.acra:acra-core:5.7.0] /Users/macpro/.gradle/caches/transforms-3/72eb56fce6add276700a55cee5378ca4/transformed/jetified-acra-core-5.7.0/AndroidManifest.xml:35:13-37
+	android:permission
+		ADDED from [ch.acra:acra-core:5.7.0] /Users/macpro/.gradle/caches/transforms-3/72eb56fce6add276700a55cee5378ca4/transformed/jetified-acra-core-5.7.0/AndroidManifest.xml:36:13-69
+	android:name
+		ADDED from [ch.acra:acra-core:5.7.0] /Users/macpro/.gradle/caches/transforms-3/72eb56fce6add276700a55cee5378ca4/transformed/jetified-acra-core-5.7.0/AndroidManifest.xml:33:13-60
+provider#org.acra.attachment.AcraContentProvider
+ADDED from [ch.acra:acra-core:5.7.0] /Users/macpro/.gradle/caches/transforms-3/72eb56fce6add276700a55cee5378ca4/transformed/jetified-acra-core-5.7.0/AndroidManifest.xml:39:9-45:51
+	android:process
+		ADDED from [ch.acra:acra-core:5.7.0] /Users/macpro/.gradle/caches/transforms-3/72eb56fce6add276700a55cee5378ca4/transformed/jetified-acra-core-5.7.0/AndroidManifest.xml:44:13-36
+	android:grantUriPermissions
+		ADDED from [ch.acra:acra-core:5.7.0] /Users/macpro/.gradle/caches/transforms-3/72eb56fce6add276700a55cee5378ca4/transformed/jetified-acra-core-5.7.0/AndroidManifest.xml:43:13-47
+	android:authorities
+		ADDED from [ch.acra:acra-core:5.7.0] /Users/macpro/.gradle/caches/transforms-3/72eb56fce6add276700a55cee5378ca4/transformed/jetified-acra-core-5.7.0/AndroidManifest.xml:41:13-56
+	android:exported
+		ADDED from [ch.acra:acra-core:5.7.0] /Users/macpro/.gradle/caches/transforms-3/72eb56fce6add276700a55cee5378ca4/transformed/jetified-acra-core-5.7.0/AndroidManifest.xml:42:13-37
+	tools:replace
+		ADDED from [ch.acra:acra-core:5.7.0] /Users/macpro/.gradle/caches/transforms-3/72eb56fce6add276700a55cee5378ca4/transformed/jetified-acra-core-5.7.0/AndroidManifest.xml:45:13-48
+	android:name
+		ADDED from [ch.acra:acra-core:5.7.0] /Users/macpro/.gradle/caches/transforms-3/72eb56fce6add276700a55cee5378ca4/transformed/jetified-acra-core-5.7.0/AndroidManifest.xml:40:13-67

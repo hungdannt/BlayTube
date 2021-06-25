@@ -1,0 +1,13 @@
+#Fri Jun 25 13:54:37 ICT 2021
+path.3=classes2.dex
+path.2=classes1000.dex
+path.1=classes.dex
+path.0=classes.dex
+renamed.3=classes4.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+base.3=/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/build/intermediates/dex/debug/mergeExtDexDebug/classes2.dex
+base.2=/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/build/intermediates/desugar_lib_dex/debug/classes1000.dex
+base.1=/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/build/intermediates/dex/debug/mergeProjectDexDebug/classes.dex
+base.0=/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex
