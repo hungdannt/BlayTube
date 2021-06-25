@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw600dp-v13/values-sw600dp-v13.xml",
+            "outputFile": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw600dp-v13/values-sw600dp-v13.xml",
             "map": [
                 {
                     "source": "/Users/macpro/.gradle/caches/transforms-3/f41cedf99a85f1391866f491c93e2366/transformed/material-1.2.1/res/values-sw600dp-v13/values-sw600dp-v13.xml",

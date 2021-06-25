@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-fi/values-fi.xml",
+            "outputFile": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-fi/values-fi.xml",
             "map": [
                 {
                     "source": "/Users/macpro/.gradle/caches/transforms-3/6618f93ce209ee50dfb88677412ad266/transformed/jetified-extension-mediasession-2.13.2/res/values-fi/values-fi.xml",

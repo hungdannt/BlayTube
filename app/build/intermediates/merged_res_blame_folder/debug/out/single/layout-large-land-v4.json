@@ -1,10 +1,10 @@
 [
     {
-        "merged": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout-large-land-v4/player.xml",
-        "source": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/res/layout-large-land/player.xml"
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout-large-land-v4/player.xml",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/layout-large-land/player.xml"
     },
     {
-        "merged": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout-large-land-v4/fragment_video_detail.xml",
-        "source": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/res/layout-large-land/fragment_video_detail.xml"
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout-large-land-v4/fragment_video_detail.xml",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/layout-large-land/fragment_video_detail.xml"
     }
 ]

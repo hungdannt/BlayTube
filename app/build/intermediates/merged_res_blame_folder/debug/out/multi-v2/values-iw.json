@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-iw/values-iw.xml",
+            "outputFile": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-iw/values-iw.xml",
             "map": [
                 {
                     "source": "/Users/macpro/.gradle/caches/transforms-3/980d61fe5261710dca46854cf8db7f28/transformed/jetified-exoplayer-ui-2.13.2/res/values-iw/values-iw.xml",

@@ -18,7 +18,7 @@ public final class FeedLoadService extends android.app.Service {
     private final java.util.concurrent.atomic.AtomicBoolean cancelSignal = null;
     private static final java.lang.String TAG = null;
     private static final int NOTIFICATION_ID = 7293450;
-    private static final java.lang.String ACTION_CANCEL = "org.blayboy.newpipe.local.feed.service.FeedLoadService.CANCEL";
+    private static final java.lang.String ACTION_CANCEL = "org.blayboy.newpipe.debug.local.feed.service.FeedLoadService.CANCEL";
     
     /**
      * How often the notification will be updated.

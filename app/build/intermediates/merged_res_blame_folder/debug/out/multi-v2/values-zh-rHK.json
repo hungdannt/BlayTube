@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zh-rHK/values-zh-rHK.xml",
+            "outputFile": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zh-rHK/values-zh-rHK.xml",
             "map": [
                 {
                     "source": "/Users/macpro/.gradle/caches/transforms-3/52380d01540ea490bfa850d7c9df4eed/transformed/preference-1.1.1/res/values-zh-rHK/values-zh-rHK.xml",

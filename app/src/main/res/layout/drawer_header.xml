@@ -8,6 +8,19 @@
     android:nextFocusDown="@+id/drawer_header_action_button">
 
     <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="104dp"
+        android:layout_height="130dp"
+        android:contentDescription="@string/ok"
+        android:visibility="visible"
+        app:layout_constraintBottom_toBottomOf="@+id/imageView4"
+        app:layout_constraintEnd_toEndOf="@+id/linearLayout"
+        app:layout_constraintStart_toStartOf="@+id/imageView4"
+        app:srcCompat="@mipmap/ic_launcher_round"
+        tools:visibility="visible" />
+
+    <ImageView
+        android:id="@+id/imageView4"
         android:layout_width="match_parent"
         android:layout_height="0dp"
         android:scaleType="centerCrop"
@@ -17,6 +30,7 @@
         tools:ignore="ContentDescription" />
 
     <LinearLayout
+        android:id="@+id/linearLayout"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="@dimen/drawer_header_padding_top"
@@ -25,35 +39,6 @@
         android:minHeight="@dimen/drawer_header_content_min_height"
         android:orientation="vertical"
         app:layout_constraintTop_toTopOf="parent">
-
-        <LinearLayout
-            android:layout_width="match_parent"
-            android:layout_height="72dp"
-            android:layout_marginLeft="16dp"
-            android:layout_marginRight="16dp"
-            android:gravity="center"
-            android:orientation="horizontal"
-            tools:ignore="UseCompoundDrawables">
-
-            <TextView
-                android:id="@+id/drawer_header_newpipe_title"
-                android:layout_width="@dimen/drawer_header_newpipe_title_default_width"
-                android:layout_height="match_parent"
-                android:layout_marginEnd="@dimen/drawer_header_newpipe_icon_title_space"
-                android:ellipsize="end"
-                android:gravity="start|center_vertical"
-                android:hyphenationFrequency="full"
-                android:maxLines="1"
-                android:text="@string/app_name"
-                android:textColor="@color/drawer_header_font_color"
-                android:textStyle="bold"
-                app:autoSizeMaxTextSize="@dimen/drawer_header_newpipe_title_max_text_size"
-                app:autoSizeMinTextSize="@dimen/drawer_header_newpipe_title_min_text_size"
-                app:autoSizeTextType="uniform"
-                tools:ignore="UnusedAttribute"
-                tools:text="BlayTube" />
-
-        </LinearLayout>
 
         <LinearLayout
             android:layout_width="match_parent"

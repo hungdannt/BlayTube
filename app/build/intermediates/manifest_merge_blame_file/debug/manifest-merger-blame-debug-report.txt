@@ -10,770 +10,770 @@
 10        android:targetSdkVersion="29" />
 11
 12    <uses-permission android:name="android.permission.INTERNET" />
-12-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:8:5-67
-12-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:8:22-64
+12-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:8:5-67
+12-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:8:22-64
 13    <uses-permission android:name="android.permission.WAKE_LOCK" />
-13-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:9:5-68
-13-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:9:22-65
+13-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:9:5-68
+13-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:9:22-65
 14    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-14-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:10:5-79
-14-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:10:22-76
+14-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:10:5-79
+14-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:10:22-76
 15    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
-15-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:11:5-81
-15-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:11:22-78
+15-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:11:5-81
+15-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:11:22-78
 16    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
-16-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:12:5-78
-16-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:12:22-75
+16-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:12:5-78
+16-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:12:22-75
 17    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
-17-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:13:5-77
-17-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:13:22-74
+17-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:13:5-77
+17-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:13:22-74
 18
 19    <uses-feature
-19-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:15:5-17:36
+19-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:15:5-17:36
 20        android:name="android.hardware.touchscreen"
-20-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:16:9-52
+20-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:16:9-52
 21        android:required="false" />
-21-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:17:9-33
+21-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:17:9-33
 22    <uses-feature
-22-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:18:5-20:36
+22-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:18:5-20:36
 23        android:name="android.software.leanback"
-23-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:19:9-49
+23-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:19:9-49
 24        android:required="false" />
-24-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:20:9-33
+24-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:20:9-33
 25
 26    <application
-26-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:22:5-350:19
+26-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:22:5-350:19
 27        android:name="org.blayboy.newpipe.App"
-27-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:23:9-28
+27-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:23:9-28
 28        android:allowBackup="true"
-28-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:24:9-35
+28-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:24:9-35
 29        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 29-->[androidx.core:core:1.3.2] /Users/macpro/.gradle/caches/transforms-3/1c80b25e3e7bc502d6b863da21a8a06c/transformed/core-1.3.2/AndroidManifest.xml:24:18-86
 30        android:banner="@mipmap/newpipe_tv_banner"
-30-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:25:9-51
+30-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:25:9-51
 31        android:debuggable="true"
 32        android:icon="@mipmap/ic_launcher"
-32-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:26:9-43
+32-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:26:9-43
 33        android:label="@string/app_name"
-33-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:27:9-41
+33-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:27:9-41
 34        android:logo="@mipmap/ic_launcher"
-34-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:28:9-43
+34-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:28:9-43
 35        android:requestLegacyExternalStorage="true"
-35-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:29:9-52
+35-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:29:9-52
 36        android:resizeableActivity="true"
-36-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:31:9-42
+36-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:31:9-42
 37        android:testOnly="true"
 38        android:theme="@style/Base" >
-38-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:30:9-36
+38-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:30:9-36
 39        <activity
-39-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:33:9-43:20
+39-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:33:9-43:20
 40            android:name="org.blayboy.newpipe.MainActivity"
-40-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:34:13-41
+40-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:34:13-41
 41            android:label="@string/app_name"
-41-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:35:13-45
+41-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:35:13-45
 42            android:launchMode="singleTask" >
-42-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:36:13-44
+42-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:36:13-44
 43            <intent-filter>
-43-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:37:13-42:29
+43-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:37:13-42:29
 44                <action android:name="android.intent.action.MAIN" />
-44-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:38:17-69
-44-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:38:25-66
+44-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:38:17-69
+44-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:38:25-66
 45
 46                <category android:name="android.intent.category.LAUNCHER" />
-46-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:40:17-77
-46-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:40:27-74
+46-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:40:17-77
+46-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:40:27-74
 47                <category android:name="android.intent.category.LEANBACK_LAUNCHER" />
-47-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:41:17-86
-47-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:41:27-83
+47-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:41:17-86
+47-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:41:27-83
 48            </intent-filter>
 49        </activity>
 50
 51        <receiver android:name="androidx.media.session.MediaButtonReceiver" >
-51-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:45:9-49:20
-51-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:45:19-76
+51-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:45:9-49:20
+51-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:45:19-76
 52            <intent-filter>
-52-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:46:13-48:29
+52-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:46:13-48:29
 53                <action android:name="android.intent.action.MEDIA_BUTTON" />
-53-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:47:17-77
-53-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:47:25-74
+53-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:47:17-77
+53-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:47:25-74
 54            </intent-filter>
 55        </receiver>
 56
 57        <service
-57-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:51:9-58:19
+57-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:51:9-58:19
 58            android:name="org.blayboy.newpipe.player.MainPlayer"
-58-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:52:13-46
+58-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:52:13-46
 59            android:exported="false"
-59-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:53:13-37
+59-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:53:13-37
 60            android:foregroundServiceType="mediaPlayback" >
-60-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:54:13-58
+60-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:54:13-58
 61            <intent-filter>
-61-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:46:13-48:29
+61-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:46:13-48:29
 62                <action android:name="android.intent.action.MEDIA_BUTTON" />
-62-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:47:17-77
-62-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:47:25-74
+62-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:47:17-77
+62-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:47:25-74
 63            </intent-filter>
 64        </service>
 65
 66        <activity
-66-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:60:9-63:47
+66-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:60:9-63:47
 67            android:name="org.blayboy.newpipe.player.PlayQueueActivity"
-67-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:61:13-53
+67-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:61:13-53
 68            android:label="@string/title_activity_play_queue"
-68-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:62:13-62
+68-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:62:13-62
 69            android:launchMode="singleTask" />
-69-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:63:13-44
+69-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:63:13-44
 70        <activity
-70-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:65:9-67:48
+70-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:65:9-67:48
 71            android:name="org.blayboy.newpipe.settings.SettingsActivity"
-71-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:66:13-54
+71-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:66:13-54
 72            android:label="@string/settings" />
-72-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:67:13-45
+72-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:67:13-45
 73
 74        <service android:name="org.blayboy.newpipe.local.subscription.services.SubscriptionsImportService" />
-74-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:70:9-91
-74-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:70:18-88
+74-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:70:9-91
+74-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:70:18-88
 75        <service android:name="org.blayboy.newpipe.local.subscription.services.SubscriptionsExportService" />
-75-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:71:9-91
-75-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:71:18-88
+75-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:71:9-91
+75-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:71:18-88
 76        <service android:name="org.blayboy.newpipe.local.feed.service.FeedLoadService" />
-76-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:72:9-71
-76-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:72:18-68
+76-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:72:9-71
+76-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:72:18-68
 77
 78        <activity
-78-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:74:9-84:20
+78-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:74:9-84:20
 79            android:name="org.blayboy.newpipe.PanicResponderActivity"
-79-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:75:13-51
+79-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:75:13-51
 80            android:launchMode="singleInstance"
-80-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:76:13-48
+80-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:76:13-48
 81            android:noHistory="true"
-81-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:77:13-37
+81-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:77:13-37
 82            android:theme="@android:style/Theme.NoDisplay" >
-82-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:78:13-59
+82-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:78:13-59
 83            <intent-filter>
-83-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:79:13-83:29
+83-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:79:13-83:29
 84                <action android:name="info.guardianproject.panic.action.TRIGGER" />
-84-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:80:17-84
-84-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:80:25-81
+84-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:80:17-84
+84-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:80:25-81
 85
 86                <category android:name="android.intent.category.DEFAULT" />
-86-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:82:17-76
-86-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:82:27-73
+86-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:82:17-76
+86-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:82:27-73
 87            </intent-filter>
 88        </activity>
 89        <activity
-89-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:86:9-89:62
+89-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:86:9-89:62
 90            android:name="org.blayboy.newpipe.ExitActivity"
-90-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:87:13-41
+90-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:87:13-41
 91            android:label="@string/general_error"
-91-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:88:13-50
+91-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:88:13-50
 92            android:theme="@android:style/Theme.NoDisplay" />
-92-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:89:13-59
+92-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:89:13-59
 93        <activity android:name="org.blayboy.newpipe.error.ErrorActivity" />
-93-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:90:9-57
-93-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:90:19-54
+93-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:90:9-57
+93-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:90:19-54
 94
 95        <!-- giga get related -->
 96        <activity
-96-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:93:9-96:47
+96-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:93:9-96:47
 97            android:name="org.blayboy.newpipe.download.DownloadActivity"
-97-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:94:13-54
+97-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:94:13-54
 98            android:label="@string/app_name"
-98-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:95:13-45
+98-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:95:13-45
 99            android:launchMode="singleTask" />
-99-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:96:13-44
+99-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:96:13-44
 100
 101        <service android:name="us.shandian.giga.service.DownloadManagerService" />
-101-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:98:9-83
-101-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:98:18-80
+101-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:98:9-83
+101-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:98:18-80
 102
 103        <activity
-103-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:100:9-108:20
+103-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:100:9-108:20
 104            android:name="org.blayboy.newpipe.util.FilePickerActivityHelper"
-104-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:101:13-58
+104-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:101:13-58
 105            android:label="@string/app_name"
-105-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:102:13-45
+105-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:102:13-45
 106            android:theme="@style/FilePickerThemeDark" >
-106-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:103:13-55
+106-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:103:13-55
 107            <intent-filter>
-107-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:104:13-107:29
+107-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:104:13-107:29
 108                <action android:name="android.intent.action.GET_CONTENT" />
-108-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:105:17-76
-108-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:105:25-73
+108-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:105:17-76
+108-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:105:25-73
 109
 110                <category android:name="android.intent.category.DEFAULT" />
-110-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:82:17-76
-110-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:82:27-73
+110-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:82:17-76
+110-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:82:27-73
 111            </intent-filter>
 112        </activity>
 113        <activity
-113-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:110:9-112:49
+113-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:110:9-112:49
 114            android:name="org.blayboy.newpipe.error.ReCaptchaActivity"
-114-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:111:13-52
+114-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:111:13-52
 115            android:label="@string/recaptcha" />
-115-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:112:13-46
+115-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:112:13-46
 116
 117        <provider
 118            android:name="androidx.core.content.FileProvider"
-118-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/debug/AndroidManifest.xml:115:13-62
+118-->/Users/macpro/Desktop/BlayTube/app/src/debug/AndroidManifest.xml:115:13-62
 119            android:authorities="org.blayboy.newpipe.debug.provider"
-119-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/debug/AndroidManifest.xml:116:13-60
+119-->/Users/macpro/Desktop/BlayTube/app/src/debug/AndroidManifest.xml:116:13-60
 120            android:exported="false"
-120-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/debug/AndroidManifest.xml:117:13-37
+120-->/Users/macpro/Desktop/BlayTube/app/src/debug/AndroidManifest.xml:117:13-37
 121            android:grantUriPermissions="true" >
-121-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/debug/AndroidManifest.xml:118:13-47
+121-->/Users/macpro/Desktop/BlayTube/app/src/debug/AndroidManifest.xml:118:13-47
 122            <meta-data
-122-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/debug/AndroidManifest.xml:119:13-121:62
+122-->/Users/macpro/Desktop/BlayTube/app/src/debug/AndroidManifest.xml:119:13-121:62
 123                android:name="android.support.FILE_PROVIDER_PATHS"
-123-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/debug/AndroidManifest.xml:120:17-67
+123-->/Users/macpro/Desktop/BlayTube/app/src/debug/AndroidManifest.xml:120:17-67
 124                android:resource="@xml/nnf_provider_paths" />
-124-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/debug/AndroidManifest.xml:121:17-59
+124-->/Users/macpro/Desktop/BlayTube/app/src/debug/AndroidManifest.xml:121:17-59
 125        </provider>
 126
 127        <activity
-127-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:124:9-338:20
+127-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:124:9-338:20
 128            android:name="org.blayboy.newpipe.RouterActivity"
-128-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:125:13-43
+128-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:125:13-43
 129            android:excludeFromRecents="true"
-129-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:126:13-46
+129-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:126:13-46
 130            android:label="@string/preferred_open_action_share_menu_title"
-130-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:127:13-75
+130-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:127:13-75
 131            android:taskAffinity=""
-131-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:128:13-36
+131-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:128:13-36
 132            android:theme="@style/RouterActivityThemeDark" >
-132-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:129:13-59
+132-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:129:13-59
 133
 134            <!-- Youtube filter -->
 135            <intent-filter>
-135-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:132:13-157:29
+135-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:132:13-157:29
 136                <action android:name="android.intent.action.VIEW" />
-136-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:133:17-69
-136-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:133:25-66
+136-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:133:17-69
+136-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:133:25-66
 137                <action android:name="android.media.action.MEDIA_PLAY_FROM_SEARCH" />
-137-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:134:17-86
-137-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:134:25-83
+137-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:134:17-86
+137-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:134:25-83
 138                <action android:name="android.nfc.action.NDEF_DISCOVERED" />
-138-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:135:17-77
-138-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:135:25-74
+138-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:135:17-77
+138-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:135:25-74
 139
 140                <category android:name="android.intent.category.DEFAULT" />
-140-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:82:17-76
-140-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:82:27-73
+140-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:82:17-76
+140-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:82:27-73
 141                <category android:name="android.intent.category.BROWSABLE" />
-141-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:138:17-78
-141-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:138:27-75
+141-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:138:17-78
+141-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:138:27-75
 142
 143                <data android:scheme="http" />
-143-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:140:17-47
-143-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:140:23-44
+143-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:17-47
+143-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:23-44
 144                <data android:scheme="https" />
-144-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:140:17-47
-144-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:140:23-44
+144-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:17-47
+144-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:23-44
 145                <data android:host="youtube.com" />
-145-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:140:17-47
-145-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/debug/AndroidManifest.xml:142:23-49
+145-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:17-47
+145-->/Users/macpro/Desktop/BlayTube/app/src/debug/AndroidManifest.xml:142:23-49
 146                <data android:host="m.youtube.com" />
-146-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:140:17-47
-146-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/debug/AndroidManifest.xml:142:23-49
+146-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:17-47
+146-->/Users/macpro/Desktop/BlayTube/app/src/debug/AndroidManifest.xml:142:23-49
 147                <data android:host="www.youtube.com" />
-147-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:140:17-47
-147-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/debug/AndroidManifest.xml:142:23-49
+147-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:17-47
+147-->/Users/macpro/Desktop/BlayTube/app/src/debug/AndroidManifest.xml:142:23-49
 148                <data android:host="music.youtube.com" />
-148-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:140:17-47
-148-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/debug/AndroidManifest.xml:142:23-49
+148-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:17-47
+148-->/Users/macpro/Desktop/BlayTube/app/src/debug/AndroidManifest.xml:142:23-49
 149                <!-- video prefix -->
 150                <data android:pathPrefix="/v/" />
-150-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:140:17-47
-150-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/debug/AndroidManifest.xml:147:23-47
+150-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:17-47
+150-->/Users/macpro/Desktop/BlayTube/app/src/debug/AndroidManifest.xml:147:23-47
 151                <data android:pathPrefix="/embed/" />
-151-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:140:17-47
-151-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/debug/AndroidManifest.xml:147:23-47
+151-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:17-47
+151-->/Users/macpro/Desktop/BlayTube/app/src/debug/AndroidManifest.xml:147:23-47
 152                <data android:pathPrefix="/watch" />
-152-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:140:17-47
-152-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/debug/AndroidManifest.xml:147:23-47
+152-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:17-47
+152-->/Users/macpro/Desktop/BlayTube/app/src/debug/AndroidManifest.xml:147:23-47
 153                <data android:pathPrefix="/attribution_link" />
-153-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:140:17-47
-153-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/debug/AndroidManifest.xml:147:23-47
+153-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:17-47
+153-->/Users/macpro/Desktop/BlayTube/app/src/debug/AndroidManifest.xml:147:23-47
 154                <!-- channel prefix -->
 155                <data android:pathPrefix="/channel/" />
-155-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:140:17-47
-155-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/debug/AndroidManifest.xml:147:23-47
+155-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:17-47
+155-->/Users/macpro/Desktop/BlayTube/app/src/debug/AndroidManifest.xml:147:23-47
 156                <data android:pathPrefix="/user/" />
-156-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:140:17-47
-156-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/debug/AndroidManifest.xml:147:23-47
+156-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:17-47
+156-->/Users/macpro/Desktop/BlayTube/app/src/debug/AndroidManifest.xml:147:23-47
 157                <data android:pathPrefix="/c/" />
-157-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:140:17-47
-157-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/debug/AndroidManifest.xml:147:23-47
+157-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:17-47
+157-->/Users/macpro/Desktop/BlayTube/app/src/debug/AndroidManifest.xml:147:23-47
 158                <!-- playlist prefix -->
 159                <data android:pathPrefix="/playlist" />
-159-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:140:17-47
-159-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/debug/AndroidManifest.xml:147:23-47
+159-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:17-47
+159-->/Users/macpro/Desktop/BlayTube/app/src/debug/AndroidManifest.xml:147:23-47
 160            </intent-filter>
 161            <intent-filter>
-161-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:158:13-170:29
+161-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:158:13-170:29
 162                <action android:name="android.intent.action.VIEW" />
-162-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:133:17-69
-162-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:133:25-66
+162-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:133:17-69
+162-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:133:25-66
 163                <action android:name="android.media.action.MEDIA_PLAY_FROM_SEARCH" />
-163-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:134:17-86
-163-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:134:25-83
+163-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:134:17-86
+163-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:134:25-83
 164                <action android:name="android.nfc.action.NDEF_DISCOVERED" />
-164-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:135:17-77
-164-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:135:25-74
+164-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:135:17-77
+164-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:135:25-74
 165
 166                <category android:name="android.intent.category.DEFAULT" />
-166-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:82:17-76
-166-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:82:27-73
+166-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:82:17-76
+166-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:82:27-73
 167                <category android:name="android.intent.category.BROWSABLE" />
-167-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:138:17-78
-167-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:138:27-75
+167-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:138:17-78
+167-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:138:27-75
 168
 169                <data android:scheme="http" />
-169-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:140:17-47
-169-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:140:23-44
+169-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:17-47
+169-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:23-44
 170                <data android:scheme="https" />
-170-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:140:17-47
-170-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:140:23-44
+170-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:17-47
+170-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:23-44
 171                <data android:host="youtu.be" />
-171-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:140:17-47
-171-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/debug/AndroidManifest.xml:142:23-49
+171-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:17-47
+171-->/Users/macpro/Desktop/BlayTube/app/src/debug/AndroidManifest.xml:142:23-49
 172                <data android:pathPrefix="/" />
-172-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:140:17-47
-172-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/debug/AndroidManifest.xml:147:23-47
+172-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:17-47
+172-->/Users/macpro/Desktop/BlayTube/app/src/debug/AndroidManifest.xml:147:23-47
 173            </intent-filter>
 174            <intent-filter>
-174-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:171:13-183:29
+174-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:171:13-183:29
 175                <action android:name="android.intent.action.VIEW" />
-175-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:133:17-69
-175-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:133:25-66
+175-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:133:17-69
+175-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:133:25-66
 176                <action android:name="android.media.action.MEDIA_PLAY_FROM_SEARCH" />
-176-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:134:17-86
-176-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:134:25-83
+176-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:134:17-86
+176-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:134:25-83
 177                <action android:name="android.nfc.action.NDEF_DISCOVERED" />
-177-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:135:17-77
-177-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:135:25-74
+177-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:135:17-77
+177-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:135:25-74
 178
 179                <category android:name="android.intent.category.DEFAULT" />
-179-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:82:17-76
-179-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:82:27-73
+179-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:82:17-76
+179-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:82:27-73
 180                <category android:name="android.intent.category.BROWSABLE" />
-180-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:138:17-78
-180-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:138:27-75
+180-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:138:17-78
+180-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:138:27-75
 181
 182                <data android:scheme="http" />
-182-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:140:17-47
-182-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:140:23-44
+182-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:17-47
+182-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:23-44
 183                <data android:scheme="https" />
-183-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:140:17-47
-183-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:140:23-44
+183-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:17-47
+183-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:23-44
 184                <data android:host="www.youtube-nocookie.com" />
-184-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:140:17-47
-184-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/debug/AndroidManifest.xml:142:23-49
+184-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:17-47
+184-->/Users/macpro/Desktop/BlayTube/app/src/debug/AndroidManifest.xml:142:23-49
 185                <data android:pathPrefix="/embed/" />
-185-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:140:17-47
-185-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/debug/AndroidManifest.xml:147:23-47
+185-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:17-47
+185-->/Users/macpro/Desktop/BlayTube/app/src/debug/AndroidManifest.xml:147:23-47
 186            </intent-filter>
 187            <intent-filter>
-187-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:184:13-194:29
+187-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:184:13-194:29
 188                <action android:name="android.intent.action.VIEW" />
-188-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:133:17-69
-188-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:133:25-66
+188-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:133:17-69
+188-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:133:25-66
 189                <action android:name="android.media.action.MEDIA_PLAY_FROM_SEARCH" />
-189-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:134:17-86
-189-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:134:25-83
+189-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:134:17-86
+189-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:134:25-83
 190                <action android:name="android.nfc.action.NDEF_DISCOVERED" />
-190-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:135:17-77
-190-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:135:25-74
+190-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:135:17-77
+190-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:135:25-74
 191
 192                <category android:name="android.intent.category.DEFAULT" />
-192-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:82:17-76
-192-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:82:27-73
+192-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:82:17-76
+192-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:82:27-73
 193                <category android:name="android.intent.category.BROWSABLE" />
-193-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:138:17-78
-193-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:138:27-75
+193-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:138:17-78
+193-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:138:27-75
 194
 195                <data android:scheme="vnd.youtube" />
-195-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:140:17-47
-195-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:140:23-44
+195-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:17-47
+195-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:23-44
 196                <data android:scheme="vnd.youtube.launch" />
-196-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:140:17-47
-196-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:140:23-44
+196-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:17-47
+196-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:23-44
 197            </intent-filter>
 198
 199            <!-- Hooktube filter -->
 200            <intent-filter>
-200-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:197:13-216:29
+200-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:197:13-216:29
 201                <action android:name="android.intent.action.VIEW" />
-201-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:133:17-69
-201-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:133:25-66
+201-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:133:17-69
+201-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:133:25-66
 202                <action android:name="android.media.action.MEDIA_PLAY_FROM_SEARCH" />
-202-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:134:17-86
-202-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:134:25-83
+202-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:134:17-86
+202-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:134:25-83
 203                <action android:name="android.nfc.action.NDEF_DISCOVERED" />
-203-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:135:17-77
-203-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:135:25-74
+203-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:135:17-77
+203-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:135:25-74
 204
 205                <category android:name="android.intent.category.DEFAULT" />
-205-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:82:17-76
-205-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:82:27-73
+205-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:82:17-76
+205-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:82:27-73
 206                <category android:name="android.intent.category.BROWSABLE" />
-206-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:138:17-78
-206-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:138:27-75
+206-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:138:17-78
+206-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:138:27-75
 207
 208                <data android:scheme="http" />
-208-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:140:17-47
-208-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:140:23-44
+208-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:17-47
+208-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:23-44
 209                <data android:scheme="https" />
-209-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:140:17-47
-209-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:140:23-44
+209-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:17-47
+209-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:23-44
 210                <data android:host="hooktube.com" />
-210-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:140:17-47
-210-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/debug/AndroidManifest.xml:142:23-49
+210-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:17-47
+210-->/Users/macpro/Desktop/BlayTube/app/src/debug/AndroidManifest.xml:142:23-49
 211                <data android:host="*.hooktube.com" />
-211-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:140:17-47
-211-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/debug/AndroidManifest.xml:142:23-49
+211-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:17-47
+211-->/Users/macpro/Desktop/BlayTube/app/src/debug/AndroidManifest.xml:142:23-49
 212                <!-- video prefix -->
 213                <data android:pathPrefix="/v/" />
-213-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:140:17-47
-213-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/debug/AndroidManifest.xml:147:23-47
+213-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:17-47
+213-->/Users/macpro/Desktop/BlayTube/app/src/debug/AndroidManifest.xml:147:23-47
 214                <data android:pathPrefix="/embed/" />
-214-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:140:17-47
-214-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/debug/AndroidManifest.xml:147:23-47
+214-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:17-47
+214-->/Users/macpro/Desktop/BlayTube/app/src/debug/AndroidManifest.xml:147:23-47
 215                <data android:pathPrefix="/watch" />
-215-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:140:17-47
-215-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/debug/AndroidManifest.xml:147:23-47
+215-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:17-47
+215-->/Users/macpro/Desktop/BlayTube/app/src/debug/AndroidManifest.xml:147:23-47
 216                <!-- channel prefix -->
 217                <data android:pathPrefix="/channel/" />
-217-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:140:17-47
-217-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/debug/AndroidManifest.xml:147:23-47
+217-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:17-47
+217-->/Users/macpro/Desktop/BlayTube/app/src/debug/AndroidManifest.xml:147:23-47
 218                <data android:pathPrefix="/user/" />
-218-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:140:17-47
-218-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/debug/AndroidManifest.xml:147:23-47
+218-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:17-47
+218-->/Users/macpro/Desktop/BlayTube/app/src/debug/AndroidManifest.xml:147:23-47
 219            </intent-filter>
 220
 221            <!-- Invidious filter -->
 222            <intent-filter>
-222-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:219:13-249:29
+222-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:219:13-249:29
 223                <action android:name="android.intent.action.VIEW" />
-223-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:133:17-69
-223-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:133:25-66
+223-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:133:17-69
+223-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:133:25-66
 224                <action android:name="android.media.action.MEDIA_PLAY_FROM_SEARCH" />
-224-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:134:17-86
-224-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:134:25-83
+224-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:134:17-86
+224-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:134:25-83
 225                <action android:name="android.nfc.action.NDEF_DISCOVERED" />
-225-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:135:17-77
-225-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:135:25-74
+225-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:135:17-77
+225-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:135:25-74
 226
 227                <category android:name="android.intent.category.DEFAULT" />
-227-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:82:17-76
-227-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:82:27-73
+227-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:82:17-76
+227-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:82:27-73
 228                <category android:name="android.intent.category.BROWSABLE" />
-228-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:138:17-78
-228-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:138:27-75
+228-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:138:17-78
+228-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:138:27-75
 229
 230                <data android:scheme="http" />
-230-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:140:17-47
-230-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:140:23-44
+230-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:17-47
+230-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:23-44
 231                <data android:scheme="https" />
-231-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:140:17-47
-231-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:140:23-44
+231-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:17-47
+231-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:23-44
 232                <data android:host="invidio.us" />
-232-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:140:17-47
-232-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/debug/AndroidManifest.xml:142:23-49
+232-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:17-47
+232-->/Users/macpro/Desktop/BlayTube/app/src/debug/AndroidManifest.xml:142:23-49
 233                <data android:host="dev.invidio.us" />
-233-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:140:17-47
-233-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/debug/AndroidManifest.xml:142:23-49
+233-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:17-47
+233-->/Users/macpro/Desktop/BlayTube/app/src/debug/AndroidManifest.xml:142:23-49
 234                <data android:host="www.invidio.us" />
-234-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:140:17-47
-234-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/debug/AndroidManifest.xml:142:23-49
+234-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:17-47
+234-->/Users/macpro/Desktop/BlayTube/app/src/debug/AndroidManifest.xml:142:23-49
 235                <data android:host="redirect.invidious.io" />
-235-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:140:17-47
-235-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/debug/AndroidManifest.xml:142:23-49
+235-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:17-47
+235-->/Users/macpro/Desktop/BlayTube/app/src/debug/AndroidManifest.xml:142:23-49
 236                <data android:host="invidious.snopyta.org" />
-236-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:140:17-47
-236-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/debug/AndroidManifest.xml:142:23-49
+236-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:17-47
+236-->/Users/macpro/Desktop/BlayTube/app/src/debug/AndroidManifest.xml:142:23-49
 237                <data android:host="yewtu.be" />
-237-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:140:17-47
-237-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/debug/AndroidManifest.xml:142:23-49
+237-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:17-47
+237-->/Users/macpro/Desktop/BlayTube/app/src/debug/AndroidManifest.xml:142:23-49
 238                <data android:host="tube.connect.cafe" />
-238-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:140:17-47
-238-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/debug/AndroidManifest.xml:142:23-49
+238-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:17-47
+238-->/Users/macpro/Desktop/BlayTube/app/src/debug/AndroidManifest.xml:142:23-49
 239                <data android:host="invidious.zapashcanon.fr" />
-239-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:140:17-47
-239-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/debug/AndroidManifest.xml:142:23-49
+239-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:17-47
+239-->/Users/macpro/Desktop/BlayTube/app/src/debug/AndroidManifest.xml:142:23-49
 240                <data android:host="invidious.kavin.rocks" />
-240-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:140:17-47
-240-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/debug/AndroidManifest.xml:142:23-49
+240-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:17-47
+240-->/Users/macpro/Desktop/BlayTube/app/src/debug/AndroidManifest.xml:142:23-49
 241                <data android:host="invidious.tube" />
-241-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:140:17-47
-241-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/debug/AndroidManifest.xml:142:23-49
+241-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:17-47
+241-->/Users/macpro/Desktop/BlayTube/app/src/debug/AndroidManifest.xml:142:23-49
 242                <data android:host="invidious.site" />
-242-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:140:17-47
-242-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/debug/AndroidManifest.xml:142:23-49
+242-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:17-47
+242-->/Users/macpro/Desktop/BlayTube/app/src/debug/AndroidManifest.xml:142:23-49
 243                <data android:host="invidious.xyz" />
-243-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:140:17-47
-243-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/debug/AndroidManifest.xml:142:23-49
+243-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:17-47
+243-->/Users/macpro/Desktop/BlayTube/app/src/debug/AndroidManifest.xml:142:23-49
 244                <data android:host="vid.mint.lgbt" />
-244-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:140:17-47
-244-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/debug/AndroidManifest.xml:142:23-49
+244-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:17-47
+244-->/Users/macpro/Desktop/BlayTube/app/src/debug/AndroidManifest.xml:142:23-49
 245                <data android:host="invidiou.site" />
-245-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:140:17-47
-245-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/debug/AndroidManifest.xml:142:23-49
+245-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:17-47
+245-->/Users/macpro/Desktop/BlayTube/app/src/debug/AndroidManifest.xml:142:23-49
 246                <data android:host="invidious.fdn.fr" />
-246-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:140:17-47
-246-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/debug/AndroidManifest.xml:142:23-49
+246-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:17-47
+246-->/Users/macpro/Desktop/BlayTube/app/src/debug/AndroidManifest.xml:142:23-49
 247                <data android:host="invidious.048596.xyz" />
-247-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:140:17-47
-247-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/debug/AndroidManifest.xml:142:23-49
+247-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:17-47
+247-->/Users/macpro/Desktop/BlayTube/app/src/debug/AndroidManifest.xml:142:23-49
 248                <data android:host="invidious.zee.li" />
-248-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:140:17-47
-248-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/debug/AndroidManifest.xml:142:23-49
+248-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:17-47
+248-->/Users/macpro/Desktop/BlayTube/app/src/debug/AndroidManifest.xml:142:23-49
 249                <data android:host="vid.puffyan.us" />
-249-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:140:17-47
-249-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/debug/AndroidManifest.xml:142:23-49
+249-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:17-47
+249-->/Users/macpro/Desktop/BlayTube/app/src/debug/AndroidManifest.xml:142:23-49
 250                <data android:host="ytprivate.com" />
-250-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:140:17-47
-250-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/debug/AndroidManifest.xml:142:23-49
+250-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:17-47
+250-->/Users/macpro/Desktop/BlayTube/app/src/debug/AndroidManifest.xml:142:23-49
 251                <data android:pathPrefix="/" />
-251-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:140:17-47
-251-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/debug/AndroidManifest.xml:147:23-47
+251-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:17-47
+251-->/Users/macpro/Desktop/BlayTube/app/src/debug/AndroidManifest.xml:147:23-47
 252            </intent-filter>
 253
 254            <!-- Soundcloud filter -->
 255            <intent-filter>
-255-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:252:13-266:29
+255-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:252:13-266:29
 256                <action android:name="android.intent.action.VIEW" />
-256-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:133:17-69
-256-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:133:25-66
+256-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:133:17-69
+256-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:133:25-66
 257                <action android:name="android.media.action.MEDIA_PLAY_FROM_SEARCH" />
-257-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:134:17-86
-257-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:134:25-83
+257-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:134:17-86
+257-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:134:25-83
 258                <action android:name="android.nfc.action.NDEF_DISCOVERED" />
-258-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:135:17-77
-258-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:135:25-74
+258-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:135:17-77
+258-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:135:25-74
 259
 260                <category android:name="android.intent.category.DEFAULT" />
-260-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:82:17-76
-260-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:82:27-73
+260-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:82:17-76
+260-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:82:27-73
 261                <category android:name="android.intent.category.BROWSABLE" />
-261-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:138:17-78
-261-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:138:27-75
+261-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:138:17-78
+261-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:138:27-75
 262
 263                <data android:scheme="http" />
-263-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:140:17-47
-263-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:140:23-44
+263-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:17-47
+263-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:23-44
 264                <data android:scheme="https" />
-264-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:140:17-47
-264-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:140:23-44
+264-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:17-47
+264-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:23-44
 265                <data android:host="soundcloud.com" />
-265-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:140:17-47
-265-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/debug/AndroidManifest.xml:142:23-49
+265-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:17-47
+265-->/Users/macpro/Desktop/BlayTube/app/src/debug/AndroidManifest.xml:142:23-49
 266                <data android:host="m.soundcloud.com" />
-266-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:140:17-47
-266-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/debug/AndroidManifest.xml:142:23-49
+266-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:17-47
+266-->/Users/macpro/Desktop/BlayTube/app/src/debug/AndroidManifest.xml:142:23-49
 267                <data android:host="www.soundcloud.com" />
-267-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:140:17-47
-267-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/debug/AndroidManifest.xml:142:23-49
+267-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:17-47
+267-->/Users/macpro/Desktop/BlayTube/app/src/debug/AndroidManifest.xml:142:23-49
 268                <data android:pathPrefix="/" />
-268-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:140:17-47
-268-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/debug/AndroidManifest.xml:147:23-47
+268-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:17-47
+268-->/Users/macpro/Desktop/BlayTube/app/src/debug/AndroidManifest.xml:147:23-47
 269            </intent-filter>
 270
 271            <!-- Share filter -->
 272            <intent-filter>
-272-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:269:13-273:29
+272-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:269:13-273:29
 273                <action android:name="android.intent.action.SEND" />
-273-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:270:17-69
-273-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:270:25-66
+273-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:270:17-69
+273-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:270:25-66
 274
 275                <category android:name="android.intent.category.DEFAULT" />
-275-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:82:17-76
-275-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:82:27-73
+275-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:82:17-76
+275-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:82:27-73
 276
 277                <data android:mimeType="text/plain" />
-277-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:140:17-47
-277-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/debug/AndroidManifest.xml:272:23-52
+277-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:17-47
+277-->/Users/macpro/Desktop/BlayTube/app/src/debug/AndroidManifest.xml:272:23-52
 278            </intent-filter>
 279
 280            <!-- media.ccc.de filter -->
 281            <intent-filter>
-281-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:276:13-292:29
+281-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:276:13-292:29
 282                <action android:name="android.intent.action.VIEW" />
-282-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:133:17-69
-282-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:133:25-66
+282-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:133:17-69
+282-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:133:25-66
 283                <action android:name="android.media.action.MEDIA_PLAY_FROM_SEARCH" />
-283-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:134:17-86
-283-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:134:25-83
+283-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:134:17-86
+283-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:134:25-83
 284                <action android:name="android.nfc.action.NDEF_DISCOVERED" />
-284-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:135:17-77
-284-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:135:25-74
+284-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:135:17-77
+284-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:135:25-74
 285
 286                <category android:name="android.intent.category.DEFAULT" />
-286-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:82:17-76
-286-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:82:27-73
+286-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:82:17-76
+286-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:82:27-73
 287                <category android:name="android.intent.category.BROWSABLE" />
-287-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:138:17-78
-287-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:138:27-75
+287-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:138:17-78
+287-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:138:27-75
 288
 289                <data android:scheme="http" />
-289-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:140:17-47
-289-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:140:23-44
+289-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:17-47
+289-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:23-44
 290                <data android:scheme="https" />
-290-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:140:17-47
-290-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:140:23-44
+290-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:17-47
+290-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:23-44
 291                <data android:host="media.ccc.de" />
-291-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:140:17-47
-291-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/debug/AndroidManifest.xml:142:23-49
+291-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:17-47
+291-->/Users/macpro/Desktop/BlayTube/app/src/debug/AndroidManifest.xml:142:23-49
 292                <!-- video prefix -->
 293                <data android:pathPrefix="/v/" />
-293-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:140:17-47
-293-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/debug/AndroidManifest.xml:147:23-47
+293-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:17-47
+293-->/Users/macpro/Desktop/BlayTube/app/src/debug/AndroidManifest.xml:147:23-47
 294                <!-- channel prefix -->
 295                <data android:pathPrefix="/c/" />
-295-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:140:17-47
-295-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/debug/AndroidManifest.xml:147:23-47
+295-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:17-47
+295-->/Users/macpro/Desktop/BlayTube/app/src/debug/AndroidManifest.xml:147:23-47
 296                <data android:pathPrefix="/b/" />
-296-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:140:17-47
-296-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/debug/AndroidManifest.xml:147:23-47
+296-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:17-47
+296-->/Users/macpro/Desktop/BlayTube/app/src/debug/AndroidManifest.xml:147:23-47
 297            </intent-filter>
 298
 299            <!-- PeerTube filter -->
 300            <intent-filter>
-300-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:295:13-321:29
+300-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:295:13-321:29
 301                <action android:name="android.intent.action.VIEW" />
-301-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:133:17-69
-301-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:133:25-66
+301-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:133:17-69
+301-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:133:25-66
 302                <action android:name="android.media.action.MEDIA_PLAY_FROM_SEARCH" />
-302-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:134:17-86
-302-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:134:25-83
+302-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:134:17-86
+302-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:134:25-83
 303                <action android:name="android.nfc.action.NDEF_DISCOVERED" />
-303-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:135:17-77
-303-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:135:25-74
+303-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:135:17-77
+303-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:135:25-74
 304
 305                <category android:name="android.intent.category.DEFAULT" />
-305-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:82:17-76
-305-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:82:27-73
+305-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:82:17-76
+305-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:82:27-73
 306                <category android:name="android.intent.category.BROWSABLE" />
-306-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:138:17-78
-306-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:138:27-75
+306-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:138:17-78
+306-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:138:27-75
 307
 308                <data android:scheme="http" />
-308-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:140:17-47
-308-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:140:23-44
+308-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:17-47
+308-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:23-44
 309                <data android:scheme="https" />
-309-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:140:17-47
-309-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:140:23-44
+309-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:17-47
+309-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:23-44
 310                <data android:host="framatube.org" />
-310-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:140:17-47
-310-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/debug/AndroidManifest.xml:142:23-49
+310-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:17-47
+310-->/Users/macpro/Desktop/BlayTube/app/src/debug/AndroidManifest.xml:142:23-49
 311                <data android:host="media.assassinate-you.net" />
-311-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:140:17-47
-311-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/debug/AndroidManifest.xml:142:23-49
+311-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:17-47
+311-->/Users/macpro/Desktop/BlayTube/app/src/debug/AndroidManifest.xml:142:23-49
 312                <data android:host="peertube.co.uk" />
-312-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:140:17-47
-312-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/debug/AndroidManifest.xml:142:23-49
+312-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:17-47
+312-->/Users/macpro/Desktop/BlayTube/app/src/debug/AndroidManifest.xml:142:23-49
 313                <data android:host="peertube.cpy.re" />
-313-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:140:17-47
-313-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/debug/AndroidManifest.xml:142:23-49
+313-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:17-47
+313-->/Users/macpro/Desktop/BlayTube/app/src/debug/AndroidManifest.xml:142:23-49
 314                <data android:host="peertube.mastodon.host" />
-314-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:140:17-47
-314-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/debug/AndroidManifest.xml:142:23-49
+314-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:17-47
+314-->/Users/macpro/Desktop/BlayTube/app/src/debug/AndroidManifest.xml:142:23-49
 315                <data android:host="peertube.fr" />
-315-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:140:17-47
-315-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/debug/AndroidManifest.xml:142:23-49
+315-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:17-47
+315-->/Users/macpro/Desktop/BlayTube/app/src/debug/AndroidManifest.xml:142:23-49
 316                <data android:host="tilvids.com" />
-316-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:140:17-47
-316-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/debug/AndroidManifest.xml:142:23-49
+316-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:17-47
+316-->/Users/macpro/Desktop/BlayTube/app/src/debug/AndroidManifest.xml:142:23-49
 317                <data android:host="tube.privacytools.io" />
-317-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:140:17-47
-317-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/debug/AndroidManifest.xml:142:23-49
+317-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:17-47
+317-->/Users/macpro/Desktop/BlayTube/app/src/debug/AndroidManifest.xml:142:23-49
 318                <data android:host="video.ploud.fr" />
-318-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:140:17-47
-318-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/debug/AndroidManifest.xml:142:23-49
+318-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:17-47
+318-->/Users/macpro/Desktop/BlayTube/app/src/debug/AndroidManifest.xml:142:23-49
 319                <data android:host="video.lqdn.fr" />
-319-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:140:17-47
-319-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/debug/AndroidManifest.xml:142:23-49
+319-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:17-47
+319-->/Users/macpro/Desktop/BlayTube/app/src/debug/AndroidManifest.xml:142:23-49
 320                <data android:host="skeptikon.fr" />
-320-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:140:17-47
-320-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/debug/AndroidManifest.xml:142:23-49
+320-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:17-47
+320-->/Users/macpro/Desktop/BlayTube/app/src/debug/AndroidManifest.xml:142:23-49
 321                <data android:pathPrefix="/videos/" /> <!-- it contains playlists -->
-321-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:140:17-47
-321-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/debug/AndroidManifest.xml:147:23-47
+321-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:17-47
+321-->/Users/macpro/Desktop/BlayTube/app/src/debug/AndroidManifest.xml:147:23-47
 322                <data android:pathPrefix="/accounts/" />
-322-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:140:17-47
-322-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/debug/AndroidManifest.xml:147:23-47
+322-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:17-47
+322-->/Users/macpro/Desktop/BlayTube/app/src/debug/AndroidManifest.xml:147:23-47
 323                <data android:pathPrefix="/video-channels/" />
-323-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:140:17-47
-323-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/debug/AndroidManifest.xml:147:23-47
+323-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:17-47
+323-->/Users/macpro/Desktop/BlayTube/app/src/debug/AndroidManifest.xml:147:23-47
 324            </intent-filter>
 325
 326            <!-- Bandcamp filter -->
 327            <intent-filter>
-327-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:324:13-337:29
+327-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:324:13-337:29
 328                <action android:name="android.intent.action.VIEW" />
-328-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:133:17-69
-328-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:133:25-66
+328-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:133:17-69
+328-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:133:25-66
 329                <action android:name="android.media.action.MEDIA_PLAY_FROM_SEARCH" />
-329-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:134:17-86
-329-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:134:25-83
+329-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:134:17-86
+329-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:134:25-83
 330                <action android:name="android.nfc.action.NDEF_DISCOVERED" />
-330-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:135:17-77
-330-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:135:25-74
+330-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:135:17-77
+330-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:135:25-74
 331
 332                <category android:name="android.intent.category.DEFAULT" />
-332-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:82:17-76
-332-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:82:27-73
+332-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:82:17-76
+332-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:82:27-73
 333                <category android:name="android.intent.category.BROWSABLE" />
-333-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:138:17-78
-333-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:138:27-75
+333-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:138:17-78
+333-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:138:27-75
 334
 335                <data android:scheme="http" />
-335-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:140:17-47
-335-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:140:23-44
+335-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:17-47
+335-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:23-44
 336                <data android:scheme="https" />
-336-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:140:17-47
-336-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:140:23-44
+336-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:17-47
+336-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:23-44
 337                <data android:host="bandcamp.com" />
-337-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:140:17-47
-337-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/debug/AndroidManifest.xml:142:23-49
+337-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:17-47
+337-->/Users/macpro/Desktop/BlayTube/app/src/debug/AndroidManifest.xml:142:23-49
 338                <data android:host="*.bandcamp.com" />
-338-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:140:17-47
-338-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/debug/AndroidManifest.xml:142:23-49
+338-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:17-47
+338-->/Users/macpro/Desktop/BlayTube/app/src/debug/AndroidManifest.xml:142:23-49
 339                <data android:pathPrefix="/" />
-339-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:140:17-47
-339-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/debug/AndroidManifest.xml:147:23-47
+339-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:17-47
+339-->/Users/macpro/Desktop/BlayTube/app/src/debug/AndroidManifest.xml:147:23-47
 340            </intent-filter>
 341        </activity>
 342
 343        <service
-343-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:339:9-341:40
+343-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:339:9-341:40
 344            android:name="org.blayboy.newpipe.RouterActivity$FetcherService"
-344-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:340:13-58
+344-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:340:13-58
 345            android:exported="false" />
-345-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:341:13-37
+345-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:341:13-37
 346
 347        <!-- opting out of sending metrics to Google in Android System WebView -->
 348        <meta-data
-348-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:344:9-95
+348-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:344:9-95
 349            android:name="android.webkit.WebView.MetricsOptOut"
-349-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:344:20-71
+349-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:344:20-71
 350            android:value="true" />
-350-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:344:72-92
+350-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:344:72-92
 351        <!-- see https://github.com/TeamNewPipe/NewPipe/issues/3947 -->
 352        <!-- Version < 3.0. DeX Mode and Screen Mirroring support -->
 353        <meta-data
-353-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:347:9-95
+353-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:347:9-95
 354            android:name="com.samsung.android.keepalive.density"
-354-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:347:20-72
+354-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:347:20-72
 355            android:value="true" />
-355-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:347:73-93
+355-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:347:73-93
 356        <!-- Version >= 3.0. DeX Dual Mode support -->
 357        <meta-data
-357-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:349:9-109
+357-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:349:9-109
 358            android:name="com.samsung.android.multidisplay.keep_process_alive"
-358-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:349:20-86
+358-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:349:20-86
 359            android:value="true" />
-359-->/Users/macpro/Desktop/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878/app/src/main/AndroidManifest.xml:349:87-107
+359-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:349:87-107
 360
 361        <service
 361-->[androidx.room:room-runtime:2.3.0-alpha03] /Users/macpro/.gradle/caches/transforms-3/d523112e0d3e7a0341b7d9b7bde6f618/transformed/room-runtime-2.3.0-alpha03/AndroidManifest.xml:25:9-28:40

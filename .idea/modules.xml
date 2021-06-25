@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878.iml" filepath="$PROJECT_DIR$/.idea/modules/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/BlayTube-a6b57ce712ae3c1d46b95751135d1496fcba5878.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/BlayTube.iml" filepath="$PROJECT_DIR$/.idea/modules/BlayTube.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/BlayTube.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/BlayTube.app.iml" />
     </modules>
   </component>
 </project>

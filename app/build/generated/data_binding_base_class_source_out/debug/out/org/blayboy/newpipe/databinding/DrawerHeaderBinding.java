@@ -4,7 +4,8 @@ package org.blayboy.newpipe.databinding;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.TextView;
+import android.widget.ImageView;
+import android.widget.LinearLayout;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.constraintlayout.widget.ConstraintLayout;
@@ -19,12 +20,20 @@ public final class DrawerHeaderBinding implements ViewBinding {
   private final ConstraintLayout rootView;
 
   @NonNull
-  public final TextView drawerHeaderNewpipeTitle;
+  public final ImageView imageView3;
 
-  private DrawerHeaderBinding(@NonNull ConstraintLayout rootView,
-      @NonNull TextView drawerHeaderNewpipeTitle) {
+  @NonNull
+  public final ImageView imageView4;
+
+  @NonNull
+  public final LinearLayout linearLayout;
+
+  private DrawerHeaderBinding(@NonNull ConstraintLayout rootView, @NonNull ImageView imageView3,
+      @NonNull ImageView imageView4, @NonNull LinearLayout linearLayout) {
     this.rootView = rootView;
-    this.drawerHeaderNewpipeTitle = drawerHeaderNewpipeTitle;
+    this.imageView3 = imageView3;
+    this.imageView4 = imageView4;
+    this.linearLayout = linearLayout;
   }
 
   @Override
@@ -54,13 +63,26 @@ public final class DrawerHeaderBinding implements ViewBinding {
     // This is done to optimize the compiled bytecode for size and performance.
     int id;
     missingId: {
-      id = R.id.drawer_header_newpipe_title;
-      TextView drawerHeaderNewpipeTitle = rootView.findViewById(id);
-      if (drawerHeaderNewpipeTitle == null) {
+      id = R.id.imageView3;
+      ImageView imageView3 = rootView.findViewById(id);
+      if (imageView3 == null) {
         break missingId;
       }
 
-      return new DrawerHeaderBinding((ConstraintLayout) rootView, drawerHeaderNewpipeTitle);
+      id = R.id.imageView4;
+      ImageView imageView4 = rootView.findViewById(id);
+      if (imageView4 == null) {
+        break missingId;
+      }
+
+      id = R.id.linearLayout;
+      LinearLayout linearLayout = rootView.findViewById(id);
+      if (linearLayout == null) {
+        break missingId;
+      }
+
+      return new DrawerHeaderBinding((ConstraintLayout) rootView, imageView3, imageView4,
+          linearLayout);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

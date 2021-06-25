@@ -2478,7 +2478,6 @@ id dragRight
 id dragStart
 id dragUp
 id drawer_header_action_button
-id drawer_header_newpipe_title
 id drawer_layout
 id dropdown_menu
 id easeIn
@@ -2618,6 +2617,8 @@ id ifRoom
 id ignore
 id ignoreRequest
 id image
+id imageView3
+id imageView4
 id import_export
 id import_export_expand_icon
 id import_export_options
@@ -2678,6 +2679,7 @@ id licenses_software_components
 id line1
 id line3
 id linear
+id linearLayout
 id listMode
 id list_empty_view
 id list_item
@@ -4041,6 +4043,7 @@ string notification_slot_4_key
 string notification_slot_compact_0_key
 string notification_slot_compact_1_key
 string notification_slot_compact_2_key
+string ok
 string one_item_deleted
 string open_in_browser
 string open_in_popup_mode
