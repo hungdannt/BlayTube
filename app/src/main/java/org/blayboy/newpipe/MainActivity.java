@@ -96,17 +96,8 @@ public class MainActivity extends AppCompatActivity {
     private static final int ITEM_ID_SETTINGS = 0;
     private static final int ORDER = 0;
 
-    /*//////////////////////////////////////////////////////////////////////////
-    // Activity's LifeCycle
-    //////////////////////////////////////////////////////////////////////////*/
-
     @Override
     protected void onCreate(final Bundle savedInstanceState) {
-        if (DEBUG) {
-            Log.d(TAG, "onCreate() called with: "
-                    + "savedInstanceState = [" + savedInstanceState + "]");
-        }
-
 
         ThemeHelper.setDayNightMode(this);
         ThemeHelper.setTheme(this, ServiceHelper.getSelectedServiceId(this));
@@ -124,7 +115,6 @@ public class MainActivity extends AppCompatActivity {
         if (getSupportFragmentManager().getBackStackEntryCount() == 0) {
             initFragments();
         }
-
         setSupportActionBar(toolbarLayoutBinding.toolbar);
         try {
             setupDrawer();
@@ -139,8 +129,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void setupDrawer() throws Exception {
-        //Tabs
-        final int currentServiceId = ServiceHelper.getSelectedServiceId(this);
+        final int currentServiceId = 0;
         final StreamingService service = NewPipe.getService(currentServiceId);
 
         int kioskId = 0;
@@ -162,8 +151,6 @@ public class MainActivity extends AppCompatActivity {
         drawerLayoutBinding.navigation.getMenu()
                 .add(R.id.menu_tabs_group, ITEM_ID_HISTORY, ORDER, R.string.action_history)
                 .setIcon(R.drawable.ic_history);
-
-        //Settings and About
         drawerLayoutBinding.navigation.getMenu()
                 .add(R.id.menu_options_about_group, ITEM_ID_SETTINGS, ORDER, R.string.settings)
                 .setIcon(R.drawable.ic_settings);
@@ -182,9 +169,6 @@ public class MainActivity extends AppCompatActivity {
 
             @Override
             public void onDrawerClosed(final View drawerView) {
-                if (servicesShown) {
-                    toggleServices();
-                }
                 if (lastService != ServiceHelper.getSelectedServiceId(MainActivity.this)) {
                     ActivityCompat.recreate(MainActivity.this);
                 }
@@ -195,9 +179,6 @@ public class MainActivity extends AppCompatActivity {
 
     private boolean drawerItemSelected(final MenuItem item) {
         switch (item.getGroupId()) {
-            case R.id.menu_services_group:
-                changeService(item);
-                break;
             case R.id.menu_tabs_group:
                 try {
                     tabSelected(item);
@@ -214,16 +195,6 @@ public class MainActivity extends AppCompatActivity {
 
         mainBinding.getRoot().closeDrawers();
         return true;
-    }
-
-    private void changeService(final MenuItem item) {
-        drawerLayoutBinding.navigation.getMenu()
-                .getItem(ServiceHelper.getSelectedServiceId(this))
-                .setChecked(false);
-        ServiceHelper.setSelectedServiceId(this, item.getItemId());
-        drawerLayoutBinding.navigation.getMenu()
-                .getItem(ServiceHelper.getSelectedServiceId(this))
-                .setChecked(true);
     }
 
     private void tabSelected(final MenuItem item) throws ExtractionException {
@@ -250,7 +221,6 @@ public class MainActivity extends AppCompatActivity {
                     }
                     kioskId++;
                 }
-
                 NavigationHelper.openKioskFragment(getSupportFragmentManager(), currentServiceId,
                         serviceName);
                 break;
@@ -263,73 +233,6 @@ public class MainActivity extends AppCompatActivity {
                 NavigationHelper.openSettings(this);
                 break;
         }
-    }
-
-
-    private void toggleServices() {
-        servicesShown = !servicesShown;
-
-        drawerLayoutBinding.navigation.getMenu().removeGroup(R.id.menu_services_group);
-        drawerLayoutBinding.navigation.getMenu().removeGroup(R.id.menu_tabs_group);
-        drawerLayoutBinding.navigation.getMenu().removeGroup(R.id.menu_options_about_group);
-
-        if (servicesShown) {
-//            showServices();
-        } else {
-            try {
-                showTabs();
-            } catch (final Exception e) {
-                ErrorActivity.reportUiErrorInSnackbar(this, "Showing main page tabs", e);
-            }
-        }
-    }
-
-//    private void showServices() {
-//
-//        for (final StreamingService s : NewPipe.getServices()) {
-//            final String title = s.getServiceInfo().getName();
-//            if (title == "YouTube") {
-//                final MenuItem menuItem = drawerLayoutBinding.navigation.getMenu()
-//                        .add(R.id.menu_services_group, s.getServiceId(), ORDER, title)
-//                        .setIcon(ServiceHelper.getIcon(s.getServiceId()));
-//            }
-//        }
-//        drawerLayoutBinding.navigation.getMenu()
-//                .getItem(ServiceHelper.getSelectedServiceId(this))
-//                .setChecked(true);
-//    }
-
-
-    private void showTabs() throws ExtractionException {
-
-        //Tabs
-        final int currentServiceId = ServiceHelper.getSelectedServiceId(this);
-        final StreamingService service = NewPipe.getService(currentServiceId);
-
-        int kioskId = 0;
-
-        for (final String ks : service.getKioskList().getAvailableKiosks()) {
-            drawerLayoutBinding.navigation.getMenu()
-                    .add(R.id.menu_tabs_group, kioskId, ORDER,
-                            KioskTranslator.getTranslatedKioskName(ks, this))
-                    .setIcon(KioskTranslator.getKioskIcon(ks, this));
-            kioskId++;
-        }
-
-        drawerLayoutBinding.navigation.getMenu()
-                .add(R.id.menu_tabs_group, ITEM_ID_BOOKMARKS, ORDER, R.string.tab_bookmarks)
-                .setIcon(R.drawable.ic_bookmark);
-        drawerLayoutBinding.navigation.getMenu()
-                .add(R.id.menu_tabs_group, ITEM_ID_DOWNLOADS, ORDER, R.string.downloads)
-                .setIcon(R.drawable.ic_file_download);
-        drawerLayoutBinding.navigation.getMenu()
-                .add(R.id.menu_tabs_group, ITEM_ID_HISTORY, ORDER, R.string.action_history)
-                .setIcon(R.drawable.ic_history);
-
-        //Settings and About
-        drawerLayoutBinding.navigation.getMenu()
-                .add(R.id.menu_options_about_group, ITEM_ID_SETTINGS, ORDER, R.string.settings)
-                .setIcon(R.drawable.ic_settings);
     }
 
     @Override
@@ -346,23 +249,13 @@ public class MainActivity extends AppCompatActivity {
     @Override
     protected void onResume() {
         assureCorrectAppLanguage(this);
-        // Change the date format to match the selected language on resume
         Localization.initPrettyTime(Localization.resolvePrettyTime(getApplicationContext()));
         super.onResume();
-
-        // Close drawer on return, and don't show animation,
-        // so it looks like the drawer isn't open when the user returns to MainActivity
         mainBinding.getRoot().closeDrawer(GravityCompat.START, false);
         try {
-//            final int selectedServiceId = ServiceHelper.getSelectedServiceId(this);
             final String selectedServiceName = NewPipe.getService(0)
                     .getServiceInfo().getName();
-//            drawerHeaderBinding.drawerHeaderServiceView.setText(selectedServiceName);
-//            drawerHeaderBinding.drawerHeaderServiceIcon.setImageResource(ServiceHelper
-//                    .getIcon(selectedServiceId));
 
-//            drawerHeaderBinding.drawerHeaderServiceView.post(() -> drawerHeaderBinding
-//                    .drawerHeaderServiceView.setSelected(true));
         } catch (final Exception e) {
             ErrorActivity.reportUiErrorInSnackbar(this, "Setting up service toggle", e);
         }
@@ -497,22 +390,12 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void onHomeButtonPressed() {
-        // If search fragment wasn't found in the backstack...
         if (!NavigationHelper.tryGotoSearchFragment(getSupportFragmentManager())) {
-            // ...go to the main fragment
             NavigationHelper.gotoMainFragment(getSupportFragmentManager());
         }
     }
-
-    /*//////////////////////////////////////////////////////////////////////////
-    // Menu
-    //////////////////////////////////////////////////////////////////////////*/
-
     @Override
     public boolean onCreateOptionsMenu(final Menu menu) {
-        if (DEBUG) {
-            Log.d(TAG, "onCreateOptionsMenu() called with: menu = [" + menu + "]");
-        }
         super.onCreateOptionsMenu(menu);
 
         final Fragment fragment
@@ -533,10 +416,6 @@ public class MainActivity extends AppCompatActivity {
 
     @Override
     public boolean onOptionsItemSelected(@NonNull final MenuItem item) {
-        if (DEBUG) {
-            Log.d(TAG, "onOptionsItemSelected() called with: item = [" + item + "]");
-        }
-
         if (item.getItemId() == android.R.id.home) {
             onHomeButtonPressed();
             return true;
@@ -544,19 +423,10 @@ public class MainActivity extends AppCompatActivity {
         return super.onOptionsItemSelected(item);
     }
 
-    /*//////////////////////////////////////////////////////////////////////////
-    // Init
-    //////////////////////////////////////////////////////////////////////////*/
 
     private void initFragments() {
-        if (DEBUG) {
-            Log.d(TAG, "initFragments() called");
-        }
         StateSaver.clearStateFiles();
         if (getIntent() != null && getIntent().hasExtra(Constants.KEY_LINK_TYPE)) {
-            // When user watch a video inside popup and then tries to open the video in main player
-            // while the app is closed he will see a blank fragment on place of kiosk.
-            // Let's open it first
             if (getSupportFragmentManager().getBackStackEntryCount() == 0) {
                 NavigationHelper.openMainFragment(getSupportFragmentManager());
             }
@@ -566,10 +436,6 @@ public class MainActivity extends AppCompatActivity {
             NavigationHelper.gotoMainFragment(getSupportFragmentManager());
         }
     }
-
-    /*//////////////////////////////////////////////////////////////////////////
-    // Utils
-    //////////////////////////////////////////////////////////////////////////*/
 
     private void updateDrawerNavigation() {
         if (getSupportActionBar() == null) {
@@ -595,9 +461,6 @@ public class MainActivity extends AppCompatActivity {
 
     private void handleIntent(final Intent intent) {
         try {
-            if (DEBUG) {
-                Log.d(TAG, "handleIntent() called with: intent = [" + intent + "]");
-            }
 
             if (intent.hasExtra(Constants.KEY_LINK_TYPE)) {
                 final String url = intent.getStringExtra(Constants.KEY_URL);
@@ -657,9 +520,6 @@ public class MainActivity extends AppCompatActivity {
         final Fragment fragmentPlayer = getSupportFragmentManager()
                 .findFragmentById(R.id.fragment_player_holder);
         if (fragmentPlayer == null) {
-            // We still don't have a fragment attached to the activity. It can happen when a user
-            // started popup or background players without opening a stream inside the fragment.
-            // Adding it in a collapsed state (only mini player will be visible).
             NavigationHelper.showMiniPlayer(getSupportFragmentManager());
         }
     }
@@ -667,24 +527,18 @@ public class MainActivity extends AppCompatActivity {
     private void openMiniPlayerUponPlayerStarted() {
         if (getIntent().getSerializableExtra(Constants.KEY_LINK_TYPE)
                 == StreamingService.LinkType.STREAM) {
-            // handleIntent() already takes care of opening video detail fragment
-            // due to an intent containing a STREAM link
             return;
         }
 
         if (PlayerHolder.isPlayerOpen()) {
-            // if the player is already open, no need for a broadcast receiver
             openMiniPlayerIfMissing();
         } else {
-            // listen for player start intent being sent around
             broadcastReceiver = new BroadcastReceiver() {
                 @Override
                 public void onReceive(final Context context, final Intent intent) {
                     if (Objects.equals(intent.getAction(),
                             VideoDetailFragment.ACTION_PLAYER_STARTED)) {
                         openMiniPlayerIfMissing();
-                        // At this point the player is added 100%, we can unregister. Other actions
-                        // are useless since the fragment will not be removed after that.
                         unregisterReceiver(broadcastReceiver);
                         broadcastReceiver = null;
                     }
