@@ -4,14 +4,14 @@
     "type": "PACKAGED_MANIFESTS",
     "kind": "Directory"
   },
-  "applicationId": "org.blayboy.newpipe",
+  "applicationId": "org.blayboy.newpipe.debug",
   "variantName": "debug",
   "elements": [
     {
       "type": "SINGLE",
       "filters": [],
       "versionCode": 968,
-      "versionName": "0.21.2",
+      "versionName": "2.5",
       "outputFile": "AndroidManifest.xml"
     }
   ]

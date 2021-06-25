@@ -13,11 +13,11 @@ MERGED from /Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:114:
 	android:name
 		ADDED from /Users/macpro/Desktop/BlayTube/app/src/debug/AndroidManifest.xml:115:13-62
 manifest
-ADDED from /Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:2:1-351:12
-INJECTED from /Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:2:1-351:12
-INJECTED from /Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:2:1-351:12
-INJECTED from /Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:2:1-351:12
-MERGED from /Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:2:1-351:12
+ADDED from /Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:2:1-204:12
+INJECTED from /Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:2:1-204:12
+INJECTED from /Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:2:1-204:12
+INJECTED from /Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:2:1-204:12
+MERGED from /Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:2:1-204:12
 MERGED from [androidx.databinding:viewbinding:4.1.3] /Users/macpro/.gradle/caches/transforms-3/09d824d5205589f642ed2487f5177f76/transformed/jetified-viewbinding-4.1.3/AndroidManifest.xml:17:1-22:12
 MERGED from [com.facebook.stetho:stetho-okhttp3:1.5.1] /Users/macpro/.gradle/caches/transforms-3/f3b713195325cb38700a47f51130baea/transformed/jetified-stetho-okhttp3-1.5.1/AndroidManifest.xml:2:1-13:12
 MERGED from [com.facebook.stetho:stetho:1.5.1] /Users/macpro/.gradle/caches/transforms-3/069455800e540cf60b2eed2252798bf7/transformed/jetified-stetho-1.5.1/AndroidManifest.xml:2:1-13:12
@@ -87,22 +87,22 @@ MERGED from [com.xwray:groupie-viewbinding:2.8.1] /Users/macpro/.gradle/caches/t
 MERGED from [de.hdodenhof:circleimageview:3.1.0] /Users/macpro/.gradle/caches/transforms-3/d0fa52e8f5c7dafd1e99ac0dad73d920/transformed/jetified-circleimageview-3.1.0/AndroidManifest.xml:2:1-11:12
 MERGED from [io.reactivex.rxjava3:rxandroid:3.0.0] /Users/macpro/.gradle/caches/transforms-3/090e534350f559a673ba2d7d0a894b22/transformed/jetified-rxandroid-3.0.0/AndroidManifest.xml:15:1-20:12
 MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/macpro/.gradle/caches/transforms-3/5d881a982ade22dbe3b3ec89b1151e08/transformed/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:17:1-24:12
-INJECTED from /Users/macpro/Desktop/BlayTube/app/src/debug/AndroidManifest.xml:2:1-351:12
-INJECTED from /Users/macpro/Desktop/BlayTube/app/src/debug/AndroidManifest.xml:2:1-351:12
-INJECTED from /Users/macpro/Desktop/BlayTube/app/src/debug/AndroidManifest.xml:2:1-351:12
+INJECTED from /Users/macpro/Desktop/BlayTube/app/src/debug/AndroidManifest.xml:2:1-204:12
+INJECTED from /Users/macpro/Desktop/BlayTube/app/src/debug/AndroidManifest.xml:2:1-204:12
+INJECTED from /Users/macpro/Desktop/BlayTube/app/src/debug/AndroidManifest.xml:2:1-204:12
 	package
 		ADDED from /Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:5:5-34
 		INJECTED from /Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/macpro/Desktop/BlayTube/app/src/debug/AndroidManifest.xml
 	android:versionName
 		INJECTED from /Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml
-		ADDED from /Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:2:1-351:12
+		ADDED from /Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:2:1-204:12
 		INJECTED from /Users/macpro/Desktop/BlayTube/app/src/debug/AndroidManifest.xml
 	xmlns:tools
 		ADDED from /Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:4:5-51
 	android:versionCode
 		INJECTED from /Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml
-		ADDED from /Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:2:1-351:12
+		ADDED from /Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:2:1-204:12
 		INJECTED from /Users/macpro/Desktop/BlayTube/app/src/debug/AndroidManifest.xml
 	xmlns:android
 		ADDED from /Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:3:5-63
@@ -165,9 +165,9 @@ MERGED from /Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:18:5
 	android:name
 		ADDED from /Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:19:9-49
 application
-ADDED from /Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:22:5-350:19
-MERGED from /Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:22:5-350:19
-MERGED from /Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:22:5-350:19
+ADDED from /Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:22:5-203:19
+MERGED from /Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:22:5-203:19
+MERGED from /Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:22:5-203:19
 MERGED from [com.facebook.stetho:stetho-okhttp3:1.5.1] /Users/macpro/.gradle/caches/transforms-3/f3b713195325cb38700a47f51130baea/transformed/jetified-stetho-okhttp3-1.5.1/AndroidManifest.xml:11:5-20
 MERGED from [com.facebook.stetho:stetho-okhttp3:1.5.1] /Users/macpro/.gradle/caches/transforms-3/f3b713195325cb38700a47f51130baea/transformed/jetified-stetho-okhttp3-1.5.1/AndroidManifest.xml:11:5-20
 MERGED from [com.facebook.stetho:stetho:1.5.1] /Users/macpro/.gradle/caches/transforms-3/069455800e540cf60b2eed2252798bf7/transformed/jetified-stetho-1.5.1/AndroidManifest.xml:11:5-20
@@ -375,9 +375,9 @@ MERGED from /Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:110:
 	android:name
 		ADDED from /Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:111:13-52
 activity#org.blayboy.newpipe.RouterActivity
-ADDED from /Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:124:9-338:20
-MERGED from /Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:124:9-338:20
-MERGED from /Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:124:9-338:20
+ADDED from /Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:124:9-196:20
+MERGED from /Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:124:9-196:20
+MERGED from /Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:124:9-196:20
 	android:label
 		ADDED from /Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:127:13-75
 	android:excludeFromRecents
@@ -412,8 +412,6 @@ ADDED from /Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:1
 		ADDED from /Users/macpro/Desktop/BlayTube/app/src/debug/AndroidManifest.xml:142:23-49
 	android:scheme
 		ADDED from /Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:23-44
-	android:mimeType
-		ADDED from /Users/macpro/Desktop/BlayTube/app/src/debug/AndroidManifest.xml:272:23-52
 	android:pathPrefix
 		ADDED from /Users/macpro/Desktop/BlayTube/app/src/debug/AndroidManifest.xml:147:23-47
 intent-filter#action:name:android.intent.action.VIEW+action:name:android.media.action.MEDIA_PLAY_FROM_SEARCH+action:name:android.nfc.action.NDEF_DISCOVERED+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:youtu.be+data:pathPrefix:/+data:scheme:http+data:scheme:https
@@ -422,56 +420,38 @@ intent-filter#action:name:android.intent.action.VIEW+action:name:android.media.a
 ADDED from /Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:171:13-183:29
 intent-filter#action:name:android.intent.action.VIEW+action:name:android.media.action.MEDIA_PLAY_FROM_SEARCH+action:name:android.nfc.action.NDEF_DISCOVERED+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:vnd.youtube+data:scheme:vnd.youtube.launch
 ADDED from /Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:184:13-194:29
-intent-filter#action:name:android.intent.action.VIEW+action:name:android.media.action.MEDIA_PLAY_FROM_SEARCH+action:name:android.nfc.action.NDEF_DISCOVERED+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:*.hooktube.com+data:host:hooktube.com+data:pathPrefix:/channel/+data:pathPrefix:/embed/+data:pathPrefix:/user/+data:pathPrefix:/v/+data:pathPrefix:/watch+data:scheme:http+data:scheme:https
-ADDED from /Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:197:13-216:29
-intent-filter#action:name:android.intent.action.VIEW+action:name:android.media.action.MEDIA_PLAY_FROM_SEARCH+action:name:android.nfc.action.NDEF_DISCOVERED+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:dev.invidio.us+data:host:invidio.us+data:host:invidiou.site+data:host:invidious.048596.xyz+data:host:invidious.fdn.fr+data:host:invidious.kavin.rocks+data:host:invidious.site+data:host:invidious.snopyta.org+data:host:invidious.tube+data:host:invidious.xyz+data:host:invidious.zapashcanon.fr+data:host:invidious.zee.li+data:host:redirect.invidious.io+data:host:tube.connect.cafe+data:host:vid.mint.lgbt+data:host:vid.puffyan.us+data:host:www.invidio.us+data:host:yewtu.be+data:host:ytprivate.com+data:pathPrefix:/+data:scheme:http+data:scheme:https
-ADDED from /Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:219:13-249:29
-intent-filter#action:name:android.intent.action.VIEW+action:name:android.media.action.MEDIA_PLAY_FROM_SEARCH+action:name:android.nfc.action.NDEF_DISCOVERED+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:m.soundcloud.com+data:host:soundcloud.com+data:host:www.soundcloud.com+data:pathPrefix:/+data:scheme:http+data:scheme:https
-ADDED from /Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:252:13-266:29
-intent-filter#action:name:android.intent.action.SEND+category:name:android.intent.category.DEFAULT+data:mimeType:text/plain
-ADDED from /Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:269:13-273:29
-action#android.intent.action.SEND
-ADDED from /Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:270:17-69
-	android:name
-		ADDED from /Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:270:25-66
-intent-filter#action:name:android.intent.action.VIEW+action:name:android.media.action.MEDIA_PLAY_FROM_SEARCH+action:name:android.nfc.action.NDEF_DISCOVERED+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:media.ccc.de+data:pathPrefix:/b/+data:pathPrefix:/c/+data:pathPrefix:/v/+data:scheme:http+data:scheme:https
-ADDED from /Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:276:13-292:29
-intent-filter#action:name:android.intent.action.VIEW+action:name:android.media.action.MEDIA_PLAY_FROM_SEARCH+action:name:android.nfc.action.NDEF_DISCOVERED+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:framatube.org+data:host:media.assassinate-you.net+data:host:peertube.co.uk+data:host:peertube.cpy.re+data:host:peertube.fr+data:host:peertube.mastodon.host+data:host:skeptikon.fr+data:host:tilvids.com+data:host:tube.privacytools.io+data:host:video.lqdn.fr+data:host:video.ploud.fr+data:pathPrefix:/accounts/+data:pathPrefix:/video-channels/+data:pathPrefix:/videos/+data:scheme:http+data:scheme:https
-ADDED from /Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:295:13-321:29
-intent-filter#action:name:android.intent.action.VIEW+action:name:android.media.action.MEDIA_PLAY_FROM_SEARCH+action:name:android.nfc.action.NDEF_DISCOVERED+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:*.bandcamp.com+data:host:bandcamp.com+data:pathPrefix:/+data:scheme:http+data:scheme:https
-ADDED from /Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:324:13-337:29
 service#org.blayboy.newpipe.RouterActivity$FetcherService
-ADDED from /Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:339:9-341:40
-MERGED from /Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:339:9-341:40
-MERGED from /Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:339:9-341:40
+ADDED from /Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:197:9-199:40
+MERGED from /Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:197:9-199:40
+MERGED from /Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:197:9-199:40
 	android:exported
-		ADDED from /Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:341:13-37
+		ADDED from /Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:199:13-37
 	android:name
-		ADDED from /Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:340:13-58
+		ADDED from /Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:198:13-58
 meta-data#android.webkit.WebView.MetricsOptOut
-ADDED from /Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:344:9-95
-MERGED from /Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:344:9-95
-MERGED from /Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:344:9-95
+ADDED from /Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:200:9-95
+MERGED from /Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:200:9-95
+MERGED from /Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:200:9-95
 	android:value
-		ADDED from /Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:344:72-92
+		ADDED from /Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:200:72-92
 	android:name
-		ADDED from /Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:344:20-71
+		ADDED from /Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:200:20-71
 meta-data#com.samsung.android.keepalive.density
-ADDED from /Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:347:9-95
-MERGED from /Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:347:9-95
-MERGED from /Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:347:9-95
+ADDED from /Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:201:9-95
+MERGED from /Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:201:9-95
+MERGED from /Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:201:9-95
 	android:value
-		ADDED from /Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:347:73-93
+		ADDED from /Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:201:73-93
 	android:name
-		ADDED from /Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:347:20-72
+		ADDED from /Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:201:20-72
 meta-data#com.samsung.android.multidisplay.keep_process_alive
-ADDED from /Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:349:9-109
-MERGED from /Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:349:9-109
-MERGED from /Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:349:9-109
+ADDED from /Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:202:9-109
+MERGED from /Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:202:9-109
+MERGED from /Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:202:9-109
 	android:value
-		ADDED from /Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:349:87-107
+		ADDED from /Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:202:87-107
 	android:name
-		ADDED from /Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:349:20-86
+		ADDED from /Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:202:20-86
 uses-sdk
 INJECTED from /Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml

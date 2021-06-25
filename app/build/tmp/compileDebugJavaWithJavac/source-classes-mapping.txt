@@ -87,9 +87,8 @@ org/blayboy/newpipe/settings/SettingsActivity.java
  org.blayboy.newpipe.settings.SettingsActivity
 org/blayboy/newpipe/player/event/CustomBottomSheetBehavior.java
  org.blayboy.newpipe.player.event.CustomBottomSheetBehavior
-org/blayboy/newpipe/local/history/HistoryEntryAdapter.java
- org.blayboy.newpipe.local.history.HistoryEntryAdapter
- org.blayboy.newpipe.local.history.HistoryEntryAdapter$OnHistoryItemClickListener
+org/blayboy/newpipe/settings/ContentSettingsFragment.java
+ org.blayboy.newpipe.settings.ContentSettingsFragment
 org/blayboy/newpipe/util/OnClickGesture.java
  org.blayboy.newpipe.util.OnClickGesture
 org/blayboy/newpipe/util/FilenameUtils.java
@@ -1115,5 +1114,6 @@ org/blayboy/newpipe/util/ZipHelper.java
  org.blayboy.newpipe.util.ZipHelper
 org/blayboy/newpipe/databinding/ListChannelMiniItemBinding.java
  org.blayboy.newpipe.databinding.ListChannelMiniItemBinding
-org/blayboy/newpipe/settings/ContentSettingsFragment.java
- org.blayboy.newpipe.settings.ContentSettingsFragment
+org/blayboy/newpipe/local/history/HistoryEntryAdapter.java
+ org.blayboy.newpipe.local.history.HistoryEntryAdapter
+ org.blayboy.newpipe.local.history.HistoryEntryAdapter$OnHistoryItemClickListener

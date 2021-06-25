@@ -4,16 +4,16 @@
         "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
     },
     {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_close_white.png.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable-hdpi/ic_close_white.png"
-    },
-    {
         "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable-night_ic_search.xml.flat",
         "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable-night/ic_search.xml"
     },
     {
         "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/layout_select_playlist_fragment.xml.flat",
         "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/layout/select_playlist_fragment.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/layout_fragment_blank.xml.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/layout/fragment_blank.xml"
     },
     {
         "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable_ic_shuffle.xml.flat",
@@ -32,752 +32,16 @@
         "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/layout-large-land/fragment_video_detail.xml"
     },
     {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable_ic_volume_up.xml.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable/ic_volume_up.xml"
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable_toolbar_shadow_light.xml.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable/toolbar_shadow_light.xml"
     },
     {
         "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/layout_list_choose_tabs_dialog.xml.flat",
         "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/layout/list_choose_tabs_dialog.xml"
     },
     {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable_toolbar_shadow_light.xml.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable/toolbar_shadow_light.xml"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/layout_item_instance.xml.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/layout/item_instance.xml"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_close_white.png.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable-mdpi/ic_close_white.png"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/layout_list_radio_icon_item.xml.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/layout/list_radio_icon_item.xml"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/layout/activity_main.xml"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable-night_ic_arrow_back.xml.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable-night/ic_arrow_back.xml"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable_ic_home.xml.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable/ic_home.xml"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/animator_custom_fade_out.xml.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/animator/custom_fade_out.xml"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable_ic_file_download.xml.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable/ic_file_download.xml"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/layout_related_items_header.xml.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/layout/related_items_header.xml"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable-nodpi_background_header.png.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable-nodpi/background_header.png"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable-night_ic_volume_up.xml.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable-night/ic_volume_up.xml"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/layout_fragment_instance_list.xml.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/layout/fragment_instance_list.xml"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable_ic_delete.xml.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable/ic_delete.xml"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable-night_ic_edit.xml.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable-night/ic_edit.xml"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable_ic_fast_forward.xml.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable/ic_fast_forward.xml"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_newpipe_triangle_white.png.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable-xxxhdpi/ic_newpipe_triangle_white.png"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable_ic_work.xml.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable/ic_work.xml"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable_progress_youtube_horizontal_light.xml.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable/progress_youtube_horizontal_light.xml"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/layout_settings_notification_action.xml.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/layout/settings_notification_action.xml"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable_ic_palette.xml.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable/ic_palette.xml"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable_ic_settings_backup_restore.xml.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable/ic_settings_backup_restore.xml"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable_ic_save.xml.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable/ic_save.xml"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/layout_error_panel.xml.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/layout/error_panel.xml"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable-night_ic_headset.xml.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable-night/ic_headset.xml"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable_ic_arrow_drop_up.xml.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable/ic_arrow_drop_up.xml"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/layout_player_popup_close_overlay.xml.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/layout/player_popup_close_overlay.xml"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_newpipe_update.png.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable-hdpi/ic_newpipe_update.png"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable_ic_thumb_down.xml.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable/ic_thumb_down.xml"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable-night_ic_delete.xml.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable-night/ic_delete.xml"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable-night_ic_wb_sunny.xml.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable-night/ic_wb_sunny.xml"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable-night_ic_volume_off.xml.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable-night/ic_volume_off.xml"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable_ic_fullscreen.xml.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable/ic_fullscreen.xml"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable-night_ic_crop_portrait.xml.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable-night/ic_crop_portrait.xml"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable-night_ic_directions_bike.xml.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable-night/ic_directions_bike.xml"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/layout_playlist_control.xml.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/layout/playlist_control.xml"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_replay_white.png.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable-xxxhdpi/ic_replay_white.png"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable-night_ic_tv.xml.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable-night/ic_tv.xml"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable_dashed_border_light.xml.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable/dashed_border_light.xml"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/anim_switch_service_in.xml.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/anim/switch_service_in.xml"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/layout_fragment_about.xml.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/layout/fragment_about.xml"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/layout_picker_icon_item.xml.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/layout/picker_icon_item.xml"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable_ic_playlist_add_check.xml.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable/ic_playlist_add_check.xml"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/menu_menu_channel.xml.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/menu/menu_channel.xml"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_close_white.png.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable-xhdpi/ic_close_white.png"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable_ic_repeat.xml.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable/ic_repeat.xml"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable_ic_directions_bike.xml.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable/ic_directions_bike.xml"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable_ic_share.xml.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable/ic_share.xml"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable-night_ic_bug_report.xml.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable-night/ic_bug_report.xml"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/layout_select_kiosk_item.xml.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/layout/select_kiosk_item.xml"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable_ic_filter_list.xml.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable/ic_filter_list.xml"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable_ic_rss_feed.xml.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable/ic_rss_feed.xml"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_newpipe_update.png.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable-xxxhdpi/ic_newpipe_update.png"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable_ic_subtitles.xml.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable/ic_subtitles.xml"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable-night_ic_fastfood.xml.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable-night/ic_fastfood.xml"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable_ic_search_add.xml.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable/ic_search_add.xml"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable_ic_expand_more.xml.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable/ic_expand_more.xml"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/layout_list_stream_mini_item.xml.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/layout/list_stream_mini_item.xml"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/layout_list_channel_mini_item.xml.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/layout/list_channel_mini_item.xml"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable-nodpi_dummy_thumbnail.png.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable-nodpi/dummy_thumbnail.png"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable_toolbar_shadow_dark.xml.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable/toolbar_shadow_dark.xml"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/menu_menu_history.xml.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/menu/menu_history.xml"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable-night_ic_asterisk.xml.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable-night/ic_asterisk.xml"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable_ic_whatshot.xml.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable/ic_whatshot.xml"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable_ic_brightness_medium.xml.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable/ic_brightness_medium.xml"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/layout_settings_layout.xml.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/layout/settings_layout.xml"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/layout-large-land_player.xml.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/layout-large-land/player.xml"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable-night_ic_search_add.xml.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable-night/ic_search_add.xml"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable_ic_explore.xml.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable/ic_explore.xml"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable-night_ic_more_vert.xml.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable-night/ic_more_vert.xml"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable-nodpi_newpipe_logo_nude_shadow.png.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable-nodpi/newpipe_logo_nude_shadow.png"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/mipmap-xhdpi_newpipe_tv_banner.png.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/mipmap-xhdpi/newpipe_tv_banner.png"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable_ic_next.xml.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable/ic_next.xml"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/layout_fragment_comments.xml.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/layout/fragment_comments.xml"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_hourglass_top_white.png.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable-hdpi/ic_hourglass_top_white.png"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/layout_item_software_component.xml.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/layout/item_software_component.xml"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable-night_ic_bookmark.xml.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable-night/ic_bookmark.xml"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable-night_ic_add.xml.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable-night/ic_add.xml"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/layout_statistic_playlist_control.xml.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/layout/statistic_playlist_control.xml"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable-night_ic_favorite.xml.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable-night/ic_favorite.xml"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable_ic_brightness_low.xml.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable/ic_brightness_low.xml"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable-night_ic_computer.xml.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable-night/ic_computer.xml"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/menu_drawer_items.xml.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/menu/drawer_items.xml"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/layout_fragment_empty.xml.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/layout/fragment_empty.xml"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable-night_ic_restaurant.xml.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable-night/ic_restaurant.xml"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable-night_ic_info_outline.xml.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable-night/ic_info_outline.xml"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/layout_fragment_bookmarks.xml.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/layout/fragment_bookmarks.xml"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable-night_ic_videogame_asset.xml.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable-night/ic_videogame_asset.xml"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/layout_toolbar_search_layout.xml.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/layout/toolbar_search_layout.xml"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/layout_toolbar_layout.xml.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/layout/toolbar_layout.xml"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/mipmap-mdpi/ic_launcher.png"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable-night_ic_megaphone.xml.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable-night/ic_megaphone.xml"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_hourglass_top_white.png.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable-mdpi/ic_hourglass_top_white.png"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable-night_ic_shopping_cart.xml.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable-night/ic_shopping_cart.xml"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable-night_ic_watch_later.xml.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable-night/ic_watch_later.xml"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable_ic_cast.xml.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable/ic_cast.xml"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/layout_list_channel_grid_item.xml.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/layout/list_channel_grid_item.xml"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/menu_menu_playlist.xml.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/menu/menu_playlist.xml"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable_ic_bookmark.xml.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable/ic_bookmark.xml"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/menu_menu_play_queue_bg.xml.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/menu/menu_play_queue_bg.xml"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/menu_software_component.xml.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/menu/software_component.xml"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/layout_picker_subscription_item.xml.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/layout/picker_subscription_item.xml"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable-night_ic_expand_more.xml.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable-night/ic_expand_more.xml"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable_ic_thumb_up.xml.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable/ic_thumb_up.xml"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable-night_ic_playlist_add.xml.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable-night/ic_playlist_add.xml"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable_ic_replay.xml.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable/ic_replay.xml"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable_dashed_border_dark.xml.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable/dashed_border_dark.xml"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable-night_ic_music_note.xml.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable-night/ic_music_note.xml"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable-nodpi_place_holder_cloud.png.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable-nodpi/place_holder_cloud.png"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable-night_ic_thumb_up.xml.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable-night/ic_thumb_up.xml"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable_ic_radio.xml.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable/ic_radio.xml"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable-night_ic_thumb_down.xml.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable-night/ic_thumb_down.xml"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/layout_fragment_channel.xml.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/layout/fragment_channel.xml"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable_ic_apps.xml.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable/ic_apps.xml"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/layout_list_playlist_item.xml.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/layout/list_playlist_item.xml"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/layout_fragment_video_detail.xml.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/layout/fragment_video_detail.xml"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable-nodpi_place_holder_bandcamp.png.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable-nodpi/place_holder_bandcamp.png"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_hourglass_top_white.png.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable-xhdpi/ic_hourglass_top_white.png"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/layout_activity_downloader.xml.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/layout/activity_downloader.xml"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/layout_fragment_licenses.xml.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/layout/fragment_licenses.xml"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_hourglass_top_white.png.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable-xxhdpi/ic_hourglass_top_white.png"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable-night_ic_add_circle_outline.xml.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable-night/ic_add_circle_outline.xml"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable_ic_more_vert.xml.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable/ic_more_vert.xml"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable-night_ic_close.xml.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable-night/ic_close.xml"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable_ic_child_care.xml.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable/ic_child_care.xml"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable_ic_picture_in_picture.xml.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable/ic_picture_in_picture.xml"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable-night_ic_help.xml.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable-night/ic_help.xml"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable_ic_favorite.xml.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable/ic_favorite.xml"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable-night_ic_list.xml.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable-night/ic_list.xml"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_newpipe_update.png.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable-xhdpi/ic_newpipe_update.png"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable_ic_cloud_download.xml.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable/ic_cloud_download.xml"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/layout_dialog_feed_group_reorder.xml.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/layout/dialog_feed_group_reorder.xml"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/layout_instance_spinner_layout.xml.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/layout/instance_spinner_layout.xml"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable_selector_light.xml.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable/selector_light.xml"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable_ic_sort.xml.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable/ic_sort.xml"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable_ic_format_list_numbered.xml.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable/ic_format_list_numbered.xml"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/layout_settings_notification.xml.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/layout/settings_notification.xml"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable_ic_stars.xml.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable/ic_stars.xml"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/layout_fragment_search.xml.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/layout/fragment_search.xml"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable_ic_pause.xml.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable/ic_pause.xml"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable_ic_playlist_add.xml.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable/ic_playlist_add.xml"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/layout_list_stream_playlist_grid_item.xml.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/layout/list_stream_playlist_grid_item.xml"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/layout_fragment_import.xml.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/layout/fragment_import.xml"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/layout_list_channel_item.xml.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/layout/list_channel_item.xml"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_foreground.png.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable_ic_mic.xml.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable/ic_mic.xml"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/xml_history_settings.xml.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/xml/history_settings.xml"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable-nodpi_not_available_monkey.png.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable-nodpi/not_available_monkey.png"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable_ic_volume_down.xml.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable/ic_volume_down.xml"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable-night_ic_language.xml.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable-night/ic_language.xml"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable-night_ic_cloud_download.xml.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable-night/ic_cloud_download.xml"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable-night_ic_people.xml.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable-night/ic_people.xml"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable_ic_info_outline.xml.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable/ic_info_outline.xml"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable-nodpi_place_holder_circle.png.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable-nodpi/place_holder_circle.png"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable_progress_soundcloud_horizontal_light.xml.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable/progress_soundcloud_horizontal_light.xml"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_newpipe_update.png.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable-xxhdpi/ic_newpipe_update.png"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable_ic_live_tv.xml.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable/ic_live_tv.xml"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/layout_list_empty_view.xml.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/layout/list_empty_view.xml"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/layout_settings_category_header_layout.xml.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/layout/settings_category_header_layout.xml"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable_ic_refresh.xml.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable/ic_refresh.xml"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/layout_list_comments_item.xml.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/layout/list_comments_item.xml"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_replay_white.png.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable-hdpi/ic_replay_white.png"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable-night_ic_import_export.xml.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable-night/ic_import_export.xml"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable_selector_focused_light.xml.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable/selector_focused_light.xml"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_replay_white.png.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable-xhdpi/ic_replay_white.png"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/layout_fragment_playlist.xml.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/layout/fragment_playlist.xml"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable_ic_computer.xml.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable/ic_computer.xml"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/menu_menu_feed_group_dialog.xml.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/menu/menu_feed_group_dialog.xml"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/layout_item_search_suggestion.xml.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/layout/item_search_suggestion.xml"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable_ic_asterisk.xml.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable/ic_asterisk.xml"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable_ic_comment.xml.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable/ic_comment.xml"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/layout_header_with_menu_item.xml.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/layout/header_with_menu_item.xml"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable-night_ic_history.xml.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable-night/ic_history.xml"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/layout_list_choose_tabs.xml.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/layout/list_choose_tabs.xml"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable_ic_description.xml.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable/ic_description.xml"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/layout_channel_header.xml.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/layout/channel_header.xml"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable-nodpi_channel_banner.png.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable-nodpi/channel_banner.png"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/mipmap-hdpi/ic_launcher.png"
-    },
-    {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/layout_fragment_blank.xml.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/layout/fragment_blank.xml"
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable_ic_volume_up.xml.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable/ic_volume_up.xml"
     },
     {
         "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable-night_ic_public.xml.flat",
@@ -788,12 +52,20 @@
         "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/layout/mission_item_linear.xml"
     },
     {
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/layout_item_instance.xml.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/layout/item_instance.xml"
+    },
+    {
         "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable-night_ic_backup.xml.flat",
         "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable-night/ic_backup.xml"
     },
     {
         "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable_progress_soundcloud_horizontal_dark.xml.flat",
         "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable/progress_soundcloud_horizontal_dark.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/layout_list_radio_icon_item.xml.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/layout/list_radio_icon_item.xml"
     },
     {
         "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/layout_fragment_subscription.xml.flat",
@@ -804,12 +76,20 @@
         "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable/ic_edit.xml"
     },
     {
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/layout/activity_main.xml"
+    },
+    {
         "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/layout_select_channel_fragment.xml.flat",
         "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/layout/select_channel_fragment.xml"
     },
     {
         "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/layout_list_stream_grid_item.xml.flat",
         "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/layout/list_stream_grid_item.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable-night_ic_arrow_back.xml.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable-night/ic_arrow_back.xml"
     },
     {
         "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable_ic_play_arrow.xml.flat",
@@ -824,16 +104,36 @@
         "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/layout/main_bg.xml"
     },
     {
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable_ic_home.xml.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable/ic_home.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/animator_custom_fade_out.xml.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/animator/custom_fade_out.xml"
+    },
+    {
         "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable-night_ic_pets.xml.flat",
         "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable-night/ic_pets.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/layout_related_items_header.xml.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/layout/related_items_header.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable_ic_file_download.xml.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable/ic_file_download.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable-nodpi_background_header.png.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable-nodpi/background_header.png"
     },
     {
         "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/layout_player.xml.flat",
         "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/layout/player.xml"
     },
     {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_hourglass_top_white.png.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable-xxxhdpi/ic_hourglass_top_white.png"
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable-night_ic_volume_up.xml.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable-night/ic_volume_up.xml"
     },
     {
         "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable-night_ic_directions_car.xml.flat",
@@ -848,6 +148,10 @@
         "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/xml/notification_settings.xml"
     },
     {
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/layout_fragment_instance_list.xml.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/layout/fragment_instance_list.xml"
+    },
+    {
         "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable_ic_directions_car.xml.flat",
         "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable/ic_directions_car.xml"
     },
@@ -858,6 +162,10 @@
     {
         "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable-night_ic_filter_list.xml.flat",
         "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable-night/ic_filter_list.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable_ic_delete.xml.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable/ic_delete.xml"
     },
     {
         "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable_ic_brightness_high.xml.flat",
@@ -880,6 +188,10 @@
         "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/menu/mission.xml"
     },
     {
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable-night_ic_edit.xml.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable-night/ic_edit.xml"
+    },
+    {
         "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/xml_video_audio_settings.xml.flat",
         "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/xml/video_audio_settings.xml"
     },
@@ -900,12 +212,32 @@
         "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable/ic_play_arrow_shadow.xml"
     },
     {
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable_ic_fast_forward.xml.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable/ic_fast_forward.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_newpipe_triangle_white.png.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable-xxxhdpi/ic_newpipe_triangle_white.png"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable_ic_work.xml.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable/ic_work.xml"
+    },
+    {
         "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/layout_subscription_import_export_item.xml.flat",
         "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/layout/subscription_import_export_item.xml"
     },
     {
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable_progress_youtube_horizontal_light.xml.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable/progress_youtube_horizontal_light.xml"
+    },
+    {
         "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable_ic_wb_sunny.xml.flat",
         "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable/ic_wb_sunny.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/layout_settings_notification_action.xml.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/layout/settings_notification_action.xml"
     },
     {
         "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable-v23_splash_background.xml.flat",
@@ -924,12 +256,40 @@
         "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable-night/ic_movie.xml"
     },
     {
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable_ic_palette.xml.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable/ic_palette.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable_ic_settings_backup_restore.xml.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable/ic_settings_backup_restore.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/layout_error_panel.xml.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/layout/error_panel.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable_ic_save.xml.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable/ic_save.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable-night_ic_headset.xml.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable-night/ic_headset.xml"
+    },
+    {
         "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/layout_header_item.xml.flat",
         "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/layout/header_item.xml"
     },
     {
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable_ic_arrow_drop_up.xml.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable/ic_arrow_drop_up.xml"
+    },
+    {
         "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/layout_dialog_playlist_name.xml.flat",
         "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/layout/dialog_playlist_name.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/layout_player_popup_close_overlay.xml.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/layout/player_popup_close_overlay.xml"
     },
     {
         "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable_player_controls_background.xml.flat",
@@ -942,6 +302,10 @@
     {
         "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/xml_appearance_settings.xml.flat",
         "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/xml/appearance_settings.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable_ic_thumb_down.xml.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable/ic_thumb_down.xml"
     },
     {
         "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable_ic_fitness_center.xml.flat",
@@ -960,20 +324,32 @@
         "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable-night/ic_radio.xml"
     },
     {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/layout_activity_player_queue_control.xml.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/layout/activity_player_queue_control.xml"
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable-night_ic_delete.xml.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable-night/ic_delete.xml"
     },
     {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable-night_ic_person.xml.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable-night/ic_person.xml"
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/layout_activity_player_queue_control.xml.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/layout/activity_player_queue_control.xml"
     },
     {
         "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/layout_download_dialog.xml.flat",
         "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/layout/download_dialog.xml"
     },
     {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_close_white.png.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable-xxhdpi/ic_close_white.png"
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable-night_ic_person.xml.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable-night/ic_person.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable-night_ic_wb_sunny.xml.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable-night/ic_wb_sunny.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable-night_ic_volume_off.xml.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable-night/ic_volume_off.xml"
     },
     {
         "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable-night_ic_attach_money.xml.flat",
@@ -984,16 +360,36 @@
         "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/layout/fragment_feed.xml"
     },
     {
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable_ic_fullscreen.xml.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable/ic_fullscreen.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable-night_ic_crop_portrait.xml.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable-night/ic_crop_portrait.xml"
+    },
+    {
         "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable-night_ic_palette.xml.flat",
         "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable-night/ic_palette.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable-night_ic_directions_bike.xml.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable-night/ic_directions_bike.xml"
     },
     {
         "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/layout_header_with_text_item.xml.flat",
         "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/layout/header_with_text_item.xml"
     },
     {
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/layout_playlist_control.xml.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/layout/playlist_control.xml"
+    },
+    {
         "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/layout_playlist_header.xml.flat",
         "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/layout/playlist_header.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable-night_ic_tv.xml.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable-night/ic_tv.xml"
     },
     {
         "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/layout_fragment_main.xml.flat",
@@ -1004,12 +400,36 @@
         "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable/ic_public.xml"
     },
     {
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/anim_switch_service_in.xml.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/anim/switch_service_in.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable_dashed_border_light.xml.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable/dashed_border_light.xml"
+    },
+    {
         "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/menu_menu_feed_fragment.xml.flat",
         "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/menu/menu_feed_fragment.xml"
     },
     {
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/layout_fragment_about.xml.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/layout/fragment_about.xml"
+    },
+    {
         "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable_selector_focused_dark.xml.flat",
         "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable/selector_focused_dark.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/layout_picker_icon_item.xml.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/layout/picker_icon_item.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/menu_menu_channel.xml.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/menu/menu_channel.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable_ic_playlist_add_check.xml.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable/ic_playlist_add_check.xml"
     },
     {
         "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable-nodpi_place_holder_gadse.png.flat",
@@ -1020,6 +440,10 @@
         "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable/ic_done.xml"
     },
     {
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable_ic_repeat.xml.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable/ic_repeat.xml"
+    },
+    {
         "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable-night_ic_telescope.xml.flat",
         "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable-night/ic_telescope.xml"
     },
@@ -1028,8 +452,20 @@
         "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable/selector_checked_dark.xml"
     },
     {
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable_ic_directions_bike.xml.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable/ic_directions_bike.xml"
+    },
+    {
         "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/layout_feed_import_export_group.xml.flat",
         "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/layout/feed_import_export_group.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable_ic_share.xml.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable/ic_share.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable-night_ic_bug_report.xml.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable-night/ic_bug_report.xml"
     },
     {
         "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable_ic_insert_emoticon.xml.flat",
@@ -1038,6 +474,10 @@
     {
         "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable_ic_language.xml.flat",
         "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable/ic_language.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/layout_select_kiosk_item.xml.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/layout/select_kiosk_item.xml"
     },
     {
         "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/layout_list_playlist_mini_item.xml.flat",
@@ -1060,6 +500,14 @@
         "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable/player_controls_top_background.xml"
     },
     {
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable_ic_filter_list.xml.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable/ic_filter_list.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable_ic_rss_feed.xml.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable/ic_rss_feed.xml"
+    },
+    {
         "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable_ic_settings.xml.flat",
         "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable/ic_settings.xml"
     },
@@ -1076,20 +524,48 @@
         "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable-night/ic_insert_emoticon.xml"
     },
     {
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable_ic_subtitles.xml.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable/ic_subtitles.xml"
+    },
+    {
         "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/menu_main_fragment_menu.xml.flat",
         "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/menu/main_fragment_menu.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable-night_ic_fastfood.xml.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable-night/ic_fastfood.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable_ic_search_add.xml.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable/ic_search_add.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable_ic_expand_more.xml.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable/ic_expand_more.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/layout_list_stream_mini_item.xml.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/layout/list_stream_mini_item.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/layout_list_channel_mini_item.xml.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/layout/list_channel_mini_item.xml"
     },
     {
         "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable_ic_headset_shadow.xml.flat",
         "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable/ic_headset_shadow.xml"
     },
     {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_close_white.png.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable-xxxhdpi/ic_close_white.png"
-    },
-    {
         "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable_ic_bug_report.xml.flat",
         "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable/ic_bug_report.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable_toolbar_shadow_dark.xml.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable/toolbar_shadow_dark.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable-nodpi_dummy_thumbnail.png.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable-nodpi/dummy_thumbnail.png"
     },
     {
         "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/layout_feed_group_reorder_item.xml.flat",
@@ -1108,12 +584,32 @@
         "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/animator/custom_fade_in.xml"
     },
     {
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/menu_menu_history.xml.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/menu/menu_history.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable-night_ic_asterisk.xml.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable-night/ic_asterisk.xml"
+    },
+    {
         "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/layout_mission_item.xml.flat",
         "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/layout/mission_item.xml"
     },
     {
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
         "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/layout_missions.xml.flat",
         "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/layout/missions.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable_ic_whatshot.xml.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable/ic_whatshot.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable_ic_brightness_medium.xml.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable/ic_brightness_medium.xml"
     },
     {
         "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable-night_ic_fitness_center.xml.flat",
@@ -1124,6 +620,10 @@
         "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/layout/fragment_related_items.xml"
     },
     {
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/layout_settings_layout.xml.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/layout/settings_layout.xml"
+    },
+    {
         "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable_ic_backup.xml.flat",
         "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable/ic_backup.xml"
     },
@@ -1132,12 +632,36 @@
         "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable/ic_people.xml"
     },
     {
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable-night_ic_search_add.xml.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable-night/ic_search_add.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/layout-large-land_player.xml.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/layout-large-land/player.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
         "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/layout_instance_spinner_item.xml.flat",
         "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/layout/instance_spinner_item.xml"
     },
     {
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable_ic_explore.xml.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable/ic_explore.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable-night_ic_more_vert.xml.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable-night/ic_more_vert.xml"
+    },
+    {
         "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable-night_ic_work.xml.flat",
         "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable-night/ic_work.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/mipmap-xhdpi_newpipe_tv_banner.png.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/mipmap-xhdpi/newpipe_tv_banner.png"
     },
     {
         "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_foreground.png.flat",
@@ -1150,6 +674,22 @@
     {
         "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable_ic_arrow_drop_down.xml.flat",
         "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable/ic_arrow_drop_down.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/layout_fragment_comments.xml.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/layout/fragment_comments.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable_ic_next.xml.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable/ic_next.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/layout_item_software_component.xml.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/layout/item_software_component.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable-night_ic_bookmark.xml.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable-night/ic_bookmark.xml"
     },
     {
         "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable_ic_headset.xml.flat",
@@ -1168,28 +708,68 @@
         "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable/ic_movie.xml"
     },
     {
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/layout_history_disabled_view.xml.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/layout/history_disabled_view.xml"
+    },
+    {
         "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable_ic_art_track.xml.flat",
         "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable/ic_art_track.xml"
     },
     {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/layout_history_disabled_view.xml.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/layout/history_disabled_view.xml"
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable-night_ic_add.xml.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable-night/ic_add.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/layout_statistic_playlist_control.xml.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/layout/statistic_playlist_control.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable-night_ic_favorite.xml.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable-night/ic_favorite.xml"
     },
     {
         "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
         "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
     },
     {
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable_ic_brightness_low.xml.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable/ic_brightness_low.xml"
+    },
+    {
         "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable_ic_screen_rotation.xml.flat",
         "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable/ic_screen_rotation.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable-night_ic_computer.xml.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable-night/ic_computer.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/menu_drawer_items.xml.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/menu/drawer_items.xml"
     },
     {
         "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable_ic_previous.xml.flat",
         "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable/ic_previous.xml"
     },
     {
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/layout_fragment_empty.xml.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/layout/fragment_empty.xml"
+    },
+    {
         "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
         "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable-night_ic_restaurant.xml.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable-night/ic_restaurant.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable-night_ic_info_outline.xml.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable-night/ic_info_outline.xml"
     },
     {
         "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/layout_select_channel_item.xml.flat",
@@ -1212,12 +792,20 @@
         "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable/ic_videogame_asset.xml"
     },
     {
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/layout_fragment_bookmarks.xml.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/layout/fragment_bookmarks.xml"
+    },
+    {
         "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable_ic_megaphone.xml.flat",
         "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable/ic_megaphone.xml"
     },
     {
         "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/anim_switch_service_out.xml.flat",
         "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/anim/switch_service_out.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable-night_ic_videogame_asset.xml.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable-night/ic_videogame_asset.xml"
     },
     {
         "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable-night_ic_share.xml.flat",
@@ -1228,6 +816,10 @@
         "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable/ic_playlist_play.xml"
     },
     {
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/layout_toolbar_search_layout.xml.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/layout/toolbar_search_layout.xml"
+    },
+    {
         "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable-night_ic_done.xml.flat",
         "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable-night/ic_done.xml"
     },
@@ -1236,12 +828,20 @@
         "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/menu/menu_recaptcha.xml"
     },
     {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_replay_white.png.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable-xxhdpi/ic_replay_white.png"
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/layout_toolbar_layout.xml.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/layout/toolbar_layout.xml"
     },
     {
         "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable-night_ic_school.xml.flat",
         "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable-night/ic_school.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable-night_ic_megaphone.xml.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable-night/ic_megaphone.xml"
     },
     {
         "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable-nodpi_buddy.png.flat",
@@ -1252,12 +852,40 @@
         "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable/ic_tv.xml"
     },
     {
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable-night_ic_shopping_cart.xml.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable-night/ic_shopping_cart.xml"
+    },
+    {
         "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable-nodpi_buddy_channel_item.png.flat",
         "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable-nodpi/buddy_channel_item.png"
     },
     {
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable-night_ic_watch_later.xml.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable-night/ic_watch_later.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable_ic_cast.xml.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable/ic_cast.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/layout_list_channel_grid_item.xml.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/layout/list_channel_grid_item.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/menu_menu_playlist.xml.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/menu/menu_playlist.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable_ic_bookmark.xml.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable/ic_bookmark.xml"
+    },
+    {
         "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable-night_ic_pause.xml.flat",
         "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable-night/ic_pause.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/menu_menu_play_queue_bg.xml.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/menu/menu_play_queue_bg.xml"
     },
     {
         "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable-night_ic_playlist_add_check.xml.flat",
@@ -1296,6 +924,14 @@
         "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable/ic_help.xml"
     },
     {
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/menu_software_component.xml.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/menu/software_component.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/layout_picker_subscription_item.xml.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/layout/picker_subscription_item.xml"
+    },
+    {
         "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable-night_ic_explore.xml.flat",
         "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable-night/ic_explore.xml"
     },
@@ -1304,36 +940,92 @@
         "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable-night/ic_save.xml"
     },
     {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/layout_dialog_feed_group_create.xml.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/layout/dialog_feed_group_create.xml"
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable-night_ic_expand_more.xml.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable-night/ic_expand_more.xml"
     },
     {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable-night_ic_trending_up.xml.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable-night/ic_trending_up.xml"
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable_ic_thumb_up.xml.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable/ic_thumb_up.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable-night_ic_playlist_add.xml.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable-night/ic_playlist_add.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable_ic_replay.xml.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable/ic_replay.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/layout_dialog_feed_group_create.xml.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/layout/dialog_feed_group_create.xml"
     },
     {
         "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable_ic_expand_less.xml.flat",
         "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable/ic_expand_less.xml"
     },
     {
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable-night_ic_music_note.xml.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable-night/ic_music_note.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable-night_ic_trending_up.xml.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable-night/ic_trending_up.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable_dashed_border_dark.xml.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable/dashed_border_dark.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable-nodpi_place_holder_cloud.png.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable-nodpi/place_holder_cloud.png"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable-night_ic_thumb_up.xml.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable-night/ic_thumb_up.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable_ic_radio.xml.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable/ic_radio.xml"
+    },
+    {
         "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
         "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable-night_ic_thumb_down.xml.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable-night/ic_thumb_down.xml"
     },
     {
         "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/layout_dialog_title.xml.flat",
         "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/layout/dialog_title.xml"
     },
     {
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/layout_fragment_channel.xml.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/layout/fragment_channel.xml"
+    },
+    {
         "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/layout_pignate_footer.xml.flat",
         "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/layout/pignate_footer.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable_ic_apps.xml.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable/ic_apps.xml"
     },
     {
         "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/layout_single_choice_dialog_view.xml.flat",
         "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/layout/single_choice_dialog_view.xml"
     },
     {
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/layout_list_playlist_item.xml.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/layout/list_playlist_item.xml"
+    },
+    {
         "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable-night_ic_live_tv.xml.flat",
         "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable-night/ic_live_tv.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/layout_fragment_video_detail.xml.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/layout/fragment_video_detail.xml"
     },
     {
         "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable-night_ic_refresh.xml.flat",
@@ -1344,12 +1036,32 @@
         "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/layout/header_divider_item_layout.xml"
     },
     {
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable-nodpi_place_holder_bandcamp.png.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable-nodpi/place_holder_bandcamp.png"
+    },
+    {
         "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/layout_feed_group_add_new_item.xml.flat",
         "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/layout/feed_group_add_new_item.xml"
     },
     {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_replay_white.png.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable-mdpi/ic_replay_white.png"
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/layout_activity_downloader.xml.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/layout/activity_downloader.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/layout_fragment_licenses.xml.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/layout/fragment_licenses.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable-night_ic_add_circle_outline.xml.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable-night/ic_add_circle_outline.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable_ic_more_vert.xml.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable/ic_more_vert.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable-night_ic_close.xml.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable-night/ic_close.xml"
     },
     {
         "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/layout_item_search_history.xml.flat",
@@ -1358,6 +1070,22 @@
     {
         "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable_ic_person.xml.flat",
         "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable/ic_person.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable_ic_child_care.xml.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable/ic_child_care.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable_ic_picture_in_picture.xml.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable/ic_picture_in_picture.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable-night_ic_help.xml.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable-night/ic_help.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable_ic_favorite.xml.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable/ic_favorite.xml"
     },
     {
         "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable_ic_add.xml.flat",
@@ -1376,24 +1104,36 @@
         "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable/progress_youtube_horizontal_dark.xml"
     },
     {
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable-night_ic_list.xml.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable-night/ic_list.xml"
+    },
+    {
         "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable-nodpi_dummy_thumbnail_playlist.png.flat",
         "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable-nodpi/dummy_thumbnail_playlist.png"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable_ic_cloud_download.xml.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable/ic_cloud_download.xml"
     },
     {
         "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/layout_fragment_description.xml.flat",
         "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/layout/fragment_description.xml"
     },
     {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/menu_video_detail_menu.xml.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/menu/video_detail_menu.xml"
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/menu_menu_play_queue.xml.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/menu/menu_play_queue.xml"
     },
     {
         "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable-night_ic_child_care.xml.flat",
         "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable-night/ic_child_care.xml"
     },
     {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/menu_menu_play_queue.xml.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/menu/menu_play_queue.xml"
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/menu_video_detail_menu.xml.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/menu/video_detail_menu.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/layout_dialog_feed_group_reorder.xml.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/layout/dialog_feed_group_reorder.xml"
     },
     {
         "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable_ic_arrow_back.xml.flat",
@@ -1404,8 +1144,20 @@
         "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable/ic_school.xml"
     },
     {
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable_selector_light.xml.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable/selector_light.xml"
+    },
+    {
         "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/xml_content_settings.xml.flat",
         "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/xml/content_settings.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/layout_instance_spinner_layout.xml.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/layout/instance_spinner_layout.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable_ic_sort.xml.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable/ic_sort.xml"
     },
     {
         "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable_ic_search.xml.flat",
@@ -1414,6 +1166,10 @@
     {
         "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable-night_ic_mic.xml.flat",
         "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable-night/ic_mic.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable_ic_format_list_numbered.xml.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable/ic_format_list_numbered.xml"
     },
     {
         "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable-night_ic_drag_handle.xml.flat",
@@ -1440,8 +1196,20 @@
         "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/layout/stream_quality_item.xml"
     },
     {
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/layout_settings_notification.xml.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/layout/settings_notification.xml"
+    },
+    {
         "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/layout_activity_recaptcha.xml.flat",
         "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/layout/activity_recaptcha.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable_ic_stars.xml.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable/ic_stars.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/layout_fragment_search.xml.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/layout/fragment_search.xml"
     },
     {
         "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable-night_ic_rss_feed.xml.flat",
@@ -1452,8 +1220,24 @@
         "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable/ic_music_note.xml"
     },
     {
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable_ic_pause.xml.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable/ic_pause.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable_ic_playlist_add.xml.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable/ic_playlist_add.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/layout_fragment_import.xml.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/layout/fragment_import.xml"
+    },
+    {
         "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable_ic_restaurant.xml.flat",
         "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable/ic_restaurant.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/layout_list_stream_playlist_grid_item.xml.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/layout/list_stream_playlist_grid_item.xml"
     },
     {
         "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable-night_ic_file_download.xml.flat",
@@ -1462,6 +1246,10 @@
     {
         "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/layout_list_playlist_grid_item.xml.flat",
         "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/layout/list_playlist_grid_item.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/layout_list_channel_item.xml.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/layout/list_channel_item.xml"
     },
     {
         "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable-nodpi_place_holder_peertube.png.flat",
@@ -1476,12 +1264,16 @@
         "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable/ic_volume_mute.xml"
     },
     {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_newpipe_triangle_white.png.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable-mdpi/ic_newpipe_triangle_white.png"
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png"
     },
     {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_newpipe_update.png.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable-mdpi/ic_newpipe_update.png"
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable_ic_mic.xml.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable/ic_mic.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_newpipe_triangle_white.png.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable-mdpi/ic_newpipe_triangle_white.png"
     },
     {
         "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/menu_menu_search.xml.flat",
@@ -1490,6 +1282,18 @@
     {
         "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
         "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/xml_history_settings.xml.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/xml/history_settings.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable-nodpi_not_available_monkey.png.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable-nodpi/not_available_monkey.png"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable_ic_volume_down.xml.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable/ic_volume_down.xml"
     },
     {
         "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable_ic_telescope.xml.flat",
@@ -1504,6 +1308,10 @@
         "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/layout/list_stream_playlist_item.xml"
     },
     {
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
         "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable_background_oval_black_transparent.xml.flat",
         "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable/background_oval_black_transparent.xml"
     },
@@ -1516,6 +1324,10 @@
         "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/layout/activity_error.xml"
     },
     {
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable-night_ic_language.xml.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable-night/ic_language.xml"
+    },
+    {
         "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/layout_feed_item_carousel.xml.flat",
         "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/layout/feed_item_carousel.xml"
     },
@@ -1524,16 +1336,36 @@
         "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/layout/settings_category_header_title.xml"
     },
     {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable_ic_attach_money.xml.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable/ic_attach_money.xml"
-    },
-    {
         "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable_ic_trending_up.xml.flat",
         "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable/ic_trending_up.xml"
     },
     {
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable_ic_attach_money.xml.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable/ic_attach_money.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable-night_ic_cloud_download.xml.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable-night/ic_cloud_download.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable-night_ic_people.xml.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable-night/ic_people.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable_ic_info_outline.xml.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable/ic_info_outline.xml"
+    },
+    {
         "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable_ic_pets.xml.flat",
         "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable/ic_pets.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable-nodpi_place_holder_circle.png.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable-nodpi/place_holder_circle.png"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable_progress_soundcloud_horizontal_light.xml.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable/progress_soundcloud_horizontal_light.xml"
     },
     {
         "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable_dashed_border_black.xml.flat",
@@ -1544,20 +1376,52 @@
         "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
     },
     {
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable_ic_live_tv.xml.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable/ic_live_tv.xml"
+    },
+    {
         "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/layout_missions_header.xml.flat",
         "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/layout/missions_header.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/layout_list_empty_view.xml.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/layout/list_empty_view.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/layout_settings_category_header_layout.xml.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/layout/settings_category_header_layout.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable_ic_refresh.xml.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable/ic_refresh.xml"
     },
     {
         "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/layout_feed_group_card_item.xml.flat",
         "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/layout/feed_group_card_item.xml"
     },
     {
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/layout_list_comments_item.xml.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/layout/list_comments_item.xml"
+    },
+    {
         "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable_splash_foreground.xml.flat",
         "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable/splash_foreground.xml"
     },
     {
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable-night_ic_import_export.xml.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable-night/ic_import_export.xml"
+    },
+    {
         "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/layout_play_queue_item.xml.flat",
         "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/layout/play_queue_item.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable_selector_focused_light.xml.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable/selector_focused_light.xml"
     },
     {
         "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/layout_dialog_playback_parameter.xml.flat",
@@ -1568,8 +1432,20 @@
         "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable-night/ic_picture_in_picture.xml"
     },
     {
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/layout_fragment_playlist.xml.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/layout/fragment_playlist.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/menu_menu_feed_group_dialog.xml.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/menu/menu_feed_group_dialog.xml"
+    },
+    {
         "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable_ic_fast_rewind.xml.flat",
         "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable/ic_fast_rewind.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable_ic_computer.xml.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable/ic_computer.xml"
     },
     {
         "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable_ic_import_export.xml.flat",
@@ -1580,16 +1456,24 @@
         "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/layout/fragment_kiosk.xml"
     },
     {
-        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable-night_ic_settings.xml.flat",
-        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable-night/ic_settings.xml"
-    },
-    {
         "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable_ic_fullscreen_exit.xml.flat",
         "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable/ic_fullscreen_exit.xml"
     },
     {
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable-night_ic_settings.xml.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable-night/ic_settings.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/layout_item_search_suggestion.xml.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/layout/item_search_suggestion.xml"
+    },
+    {
         "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_newpipe_triangle_white.png.flat",
         "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable-xxhdpi/ic_newpipe_triangle_white.png"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable_ic_asterisk.xml.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable/ic_asterisk.xml"
     },
     {
         "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable-night_ic_sort.xml.flat",
@@ -1604,11 +1488,43 @@
         "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/layout/list_comments_mini_item.xml"
     },
     {
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable_ic_comment.xml.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable/ic_comment.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/layout_header_with_menu_item.xml.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/layout/header_with_menu_item.xml"
+    },
+    {
         "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable_ic_motorcycle.xml.flat",
         "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable/ic_motorcycle.xml"
     },
     {
         "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable-night_ic_expand_less.xml.flat",
         "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable-night/ic_expand_less.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable-night_ic_history.xml.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable-night/ic_history.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/layout_list_choose_tabs.xml.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/layout/list_choose_tabs.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable_ic_description.xml.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable/ic_description.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/layout_channel_header.xml.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/layout/channel_header.xml"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/drawable-nodpi_channel_banner.png.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/drawable-nodpi/channel_banner.png"
+    },
+    {
+        "merged": "/Users/macpro/Desktop/BlayTube/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/macpro/Desktop/BlayTube/app/src/main/res/mipmap-hdpi/ic_launcher.png"
     }
 ]

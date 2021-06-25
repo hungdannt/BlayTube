@@ -7,37 +7,28 @@ apply plugin: 'kotlin-kapt'
 android {
     compileSdkVersion 29
     buildToolsVersion '29.0.3'
-
     defaultConfig {
         applicationId "org.blayboy.newpipe"
         resValue "string", "app_name", "BlayTube"
         minSdkVersion 19
         targetSdkVersion 29
         versionCode 968
-        versionName "0.21.2"
-
+        versionName "2.5"
         multiDexEnabled true
-
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
         vectorDrawables.useSupportLibrary = true
-
         javaCompileOptions {
             annotationProcessorOptions {
                 arguments = ["room.schemaLocation": "$projectDir/schemas".toString()]
             }
         }
     }
-
     buildTypes {
         debug {
             debuggable true
-
-//                applicationIdSuffix ".debug"
+                applicationIdSuffix ".debug"
                 resValue "string", "app_name", "BlayTube"
-
         }
-
-
         release {
             minifyEnabled false
             shrinkResources false
@@ -73,9 +64,7 @@ android {
         viewBinding true
     }
 }
-
 ext {
-
     androidxLifecycleVersion = '2.2.0'
     androidxRoomVersion = '2.3.0-alpha03'
 
@@ -90,32 +79,12 @@ ext {
 }
 
 configurations {
-    ktlint
-}
 
+}
 
 def outputDir = "${project.buildDir}/reports/ktlint/"
 def inputFiles = project.fileTree(dir: "src", include: "**/*.kt")
 
-task runKtlint(type: JavaExec) {
-    inputs.files(inputFiles)
-    outputs.dir(outputDir)
-    main = "com.pinterest.ktlint.Main"
-    classpath = configurations.ktlint
-    args "src/**/*.kt"
-}
-
-task formatKtlint(type: JavaExec) {
-    inputs.files(inputFiles)
-    outputs.dir(outputDir)
-    main = "com.pinterest.ktlint.Main"
-    classpath = configurations.ktlint
-    args "-F", "src/**/*.kt"
-}
-
-afterEvaluate {
-    preDebugBuild.dependsOn formatKtlint, runKtlint
-}
 
 
 dependencies {
@@ -124,12 +93,8 @@ dependencies {
     implementation "androidx.annotation:annotation:1.2.0"
 
 /** NewPipe libraries **/
-    // You can use a local version by uncommenting a few lines in settings.gradle
     implementation 'com.github.TeamNewPipe:nanojson:1d9e1aea9049fc9f85e68b43ba39fe7be1c1f751'
     implementation 'com.github.TeamNewPipe:NewPipeExtractor:v0.21.2'
-
-/** Checkstyle **/
-    ktlint 'com.pinterest:ktlint:0.40.0'
 
 /** Kotlin **/
     implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk8:${kotlin_version}"

@@ -1,9 +1,9 @@
 1<?xml version="1.0" encoding="utf-8"?>
 2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
-3    package="org.blayboy.newpipe"
+3    package="org.blayboy.newpipe.debug"
 4    android:installLocation="auto"
 5    android:versionCode="968"
-6    android:versionName="0.21.2" >
+6    android:versionName="2.5" >
 7
 8    <uses-sdk
 9        android:minSdkVersion="19"
@@ -42,7 +42,7 @@
 24-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:20:9-33
 25
 26    <application
-26-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:22:5-350:19
+26-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:22:5-203:19
 27        android:name="org.blayboy.newpipe.App"
 27-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:23:9-28
 28        android:allowBackup="true"
@@ -216,7 +216,7 @@
 117        <provider
 118            android:name="androidx.core.content.FileProvider"
 118-->/Users/macpro/Desktop/BlayTube/app/src/debug/AndroidManifest.xml:115:13-62
-119            android:authorities="org.blayboy.newpipe.provider"
+119            android:authorities="org.blayboy.newpipe.debug.provider"
 119-->/Users/macpro/Desktop/BlayTube/app/src/debug/AndroidManifest.xml:116:13-60
 120            android:exported="false"
 120-->/Users/macpro/Desktop/BlayTube/app/src/debug/AndroidManifest.xml:117:13-37
@@ -231,7 +231,7 @@
 125        </provider>
 126
 127        <activity
-127-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:124:9-338:20
+127-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:124:9-196:20
 128            android:name="org.blayboy.newpipe.RouterActivity"
 128-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:125:13-43
 129            android:excludeFromRecents="true"
@@ -399,425 +399,77 @@
 196-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:17-47
 196-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:23-44
 197            </intent-filter>
-198
-199            <!-- Hooktube filter -->
-200            <intent-filter>
-200-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:197:13-216:29
-201                <action android:name="android.intent.action.VIEW" />
-201-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:133:17-69
-201-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:133:25-66
-202                <action android:name="android.media.action.MEDIA_PLAY_FROM_SEARCH" />
-202-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:134:17-86
-202-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:134:25-83
-203                <action android:name="android.nfc.action.NDEF_DISCOVERED" />
-203-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:135:17-77
-203-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:135:25-74
-204
-205                <category android:name="android.intent.category.DEFAULT" />
-205-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:82:17-76
-205-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:82:27-73
-206                <category android:name="android.intent.category.BROWSABLE" />
-206-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:138:17-78
-206-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:138:27-75
-207
-208                <data android:scheme="http" />
-208-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:17-47
-208-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:23-44
-209                <data android:scheme="https" />
-209-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:17-47
-209-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:23-44
-210                <data android:host="hooktube.com" />
-210-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:17-47
-210-->/Users/macpro/Desktop/BlayTube/app/src/debug/AndroidManifest.xml:142:23-49
-211                <data android:host="*.hooktube.com" />
-211-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:17-47
-211-->/Users/macpro/Desktop/BlayTube/app/src/debug/AndroidManifest.xml:142:23-49
-212                <!-- video prefix -->
-213                <data android:pathPrefix="/v/" />
-213-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:17-47
-213-->/Users/macpro/Desktop/BlayTube/app/src/debug/AndroidManifest.xml:147:23-47
-214                <data android:pathPrefix="/embed/" />
-214-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:17-47
-214-->/Users/macpro/Desktop/BlayTube/app/src/debug/AndroidManifest.xml:147:23-47
-215                <data android:pathPrefix="/watch" />
-215-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:17-47
-215-->/Users/macpro/Desktop/BlayTube/app/src/debug/AndroidManifest.xml:147:23-47
-216                <!-- channel prefix -->
-217                <data android:pathPrefix="/channel/" />
-217-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:17-47
-217-->/Users/macpro/Desktop/BlayTube/app/src/debug/AndroidManifest.xml:147:23-47
-218                <data android:pathPrefix="/user/" />
-218-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:17-47
-218-->/Users/macpro/Desktop/BlayTube/app/src/debug/AndroidManifest.xml:147:23-47
-219            </intent-filter>
-220
-221            <!-- Invidious filter -->
-222            <intent-filter>
-222-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:219:13-249:29
-223                <action android:name="android.intent.action.VIEW" />
-223-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:133:17-69
-223-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:133:25-66
-224                <action android:name="android.media.action.MEDIA_PLAY_FROM_SEARCH" />
-224-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:134:17-86
-224-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:134:25-83
-225                <action android:name="android.nfc.action.NDEF_DISCOVERED" />
-225-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:135:17-77
-225-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:135:25-74
-226
-227                <category android:name="android.intent.category.DEFAULT" />
-227-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:82:17-76
-227-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:82:27-73
-228                <category android:name="android.intent.category.BROWSABLE" />
-228-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:138:17-78
-228-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:138:27-75
+198        </activity>
+199
+200        <service
+200-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:197:9-199:40
+201            android:name="org.blayboy.newpipe.RouterActivity$FetcherService"
+201-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:198:13-58
+202            android:exported="false" />
+202-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:199:13-37
+203
+204        <meta-data
+204-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:200:9-95
+205            android:name="android.webkit.WebView.MetricsOptOut"
+205-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:200:20-71
+206            android:value="true" />
+206-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:200:72-92
+207        <meta-data
+207-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:201:9-95
+208            android:name="com.samsung.android.keepalive.density"
+208-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:201:20-72
+209            android:value="true" />
+209-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:201:73-93
+210        <meta-data
+210-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:202:9-109
+211            android:name="com.samsung.android.multidisplay.keep_process_alive"
+211-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:202:20-86
+212            android:value="true" />
+212-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:202:87-107
+213
+214        <service
+214-->[androidx.room:room-runtime:2.3.0-alpha03] /Users/macpro/.gradle/caches/transforms-3/d523112e0d3e7a0341b7d9b7bde6f618/transformed/room-runtime-2.3.0-alpha03/AndroidManifest.xml:25:9-28:40
+215            android:name="androidx.room.MultiInstanceInvalidationService"
+215-->[androidx.room:room-runtime:2.3.0-alpha03] /Users/macpro/.gradle/caches/transforms-3/d523112e0d3e7a0341b7d9b7bde6f618/transformed/room-runtime-2.3.0-alpha03/AndroidManifest.xml:26:13-74
+216            android:directBootAware="true"
+216-->[androidx.room:room-runtime:2.3.0-alpha03] /Users/macpro/.gradle/caches/transforms-3/d523112e0d3e7a0341b7d9b7bde6f618/transformed/room-runtime-2.3.0-alpha03/AndroidManifest.xml:27:13-43
+217            android:exported="false" />
+217-->[androidx.room:room-runtime:2.3.0-alpha03] /Users/macpro/.gradle/caches/transforms-3/d523112e0d3e7a0341b7d9b7bde6f618/transformed/room-runtime-2.3.0-alpha03/AndroidManifest.xml:28:13-37
+218        <service
+218-->[ch.acra:acra-core:5.7.0] /Users/macpro/.gradle/caches/transforms-3/72eb56fce6add276700a55cee5378ca4/transformed/jetified-acra-core-5.7.0/AndroidManifest.xml:27:9-31:39
+219            android:name="org.acra.sender.LegacySenderService"
+219-->[ch.acra:acra-core:5.7.0] /Users/macpro/.gradle/caches/transforms-3/72eb56fce6add276700a55cee5378ca4/transformed/jetified-acra-core-5.7.0/AndroidManifest.xml:28:13-63
+220            android:enabled="@bool/acra_enable_legacy_service"
+220-->[ch.acra:acra-core:5.7.0] /Users/macpro/.gradle/caches/transforms-3/72eb56fce6add276700a55cee5378ca4/transformed/jetified-acra-core-5.7.0/AndroidManifest.xml:29:13-63
+221            android:exported="false"
+221-->[ch.acra:acra-core:5.7.0] /Users/macpro/.gradle/caches/transforms-3/72eb56fce6add276700a55cee5378ca4/transformed/jetified-acra-core-5.7.0/AndroidManifest.xml:30:13-37
+222            android:process=":acra" />
+222-->[ch.acra:acra-core:5.7.0] /Users/macpro/.gradle/caches/transforms-3/72eb56fce6add276700a55cee5378ca4/transformed/jetified-acra-core-5.7.0/AndroidManifest.xml:31:13-36
+223        <service
+223-->[ch.acra:acra-core:5.7.0] /Users/macpro/.gradle/caches/transforms-3/72eb56fce6add276700a55cee5378ca4/transformed/jetified-acra-core-5.7.0/AndroidManifest.xml:32:9-37:39
+224            android:name="org.acra.sender.JobSenderService"
+224-->[ch.acra:acra-core:5.7.0] /Users/macpro/.gradle/caches/transforms-3/72eb56fce6add276700a55cee5378ca4/transformed/jetified-acra-core-5.7.0/AndroidManifest.xml:33:13-60
+225            android:enabled="@bool/acra_enable_job_service"
+225-->[ch.acra:acra-core:5.7.0] /Users/macpro/.gradle/caches/transforms-3/72eb56fce6add276700a55cee5378ca4/transformed/jetified-acra-core-5.7.0/AndroidManifest.xml:34:13-60
+226            android:exported="false"
+226-->[ch.acra:acra-core:5.7.0] /Users/macpro/.gradle/caches/transforms-3/72eb56fce6add276700a55cee5378ca4/transformed/jetified-acra-core-5.7.0/AndroidManifest.xml:35:13-37
+227            android:permission="android.permission.BIND_JOB_SERVICE"
+227-->[ch.acra:acra-core:5.7.0] /Users/macpro/.gradle/caches/transforms-3/72eb56fce6add276700a55cee5378ca4/transformed/jetified-acra-core-5.7.0/AndroidManifest.xml:36:13-69
+228            android:process=":acra" />
+228-->[ch.acra:acra-core:5.7.0] /Users/macpro/.gradle/caches/transforms-3/72eb56fce6add276700a55cee5378ca4/transformed/jetified-acra-core-5.7.0/AndroidManifest.xml:37:13-36
 229
-230                <data android:scheme="http" />
-230-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:17-47
-230-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:23-44
-231                <data android:scheme="https" />
-231-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:17-47
-231-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:23-44
-232                <data android:host="invidio.us" />
-232-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:17-47
-232-->/Users/macpro/Desktop/BlayTube/app/src/debug/AndroidManifest.xml:142:23-49
-233                <data android:host="dev.invidio.us" />
-233-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:17-47
-233-->/Users/macpro/Desktop/BlayTube/app/src/debug/AndroidManifest.xml:142:23-49
-234                <data android:host="www.invidio.us" />
-234-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:17-47
-234-->/Users/macpro/Desktop/BlayTube/app/src/debug/AndroidManifest.xml:142:23-49
-235                <data android:host="redirect.invidious.io" />
-235-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:17-47
-235-->/Users/macpro/Desktop/BlayTube/app/src/debug/AndroidManifest.xml:142:23-49
-236                <data android:host="invidious.snopyta.org" />
-236-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:17-47
-236-->/Users/macpro/Desktop/BlayTube/app/src/debug/AndroidManifest.xml:142:23-49
-237                <data android:host="yewtu.be" />
-237-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:17-47
-237-->/Users/macpro/Desktop/BlayTube/app/src/debug/AndroidManifest.xml:142:23-49
-238                <data android:host="tube.connect.cafe" />
-238-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:17-47
-238-->/Users/macpro/Desktop/BlayTube/app/src/debug/AndroidManifest.xml:142:23-49
-239                <data android:host="invidious.zapashcanon.fr" />
-239-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:17-47
-239-->/Users/macpro/Desktop/BlayTube/app/src/debug/AndroidManifest.xml:142:23-49
-240                <data android:host="invidious.kavin.rocks" />
-240-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:17-47
-240-->/Users/macpro/Desktop/BlayTube/app/src/debug/AndroidManifest.xml:142:23-49
-241                <data android:host="invidious.tube" />
-241-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:17-47
-241-->/Users/macpro/Desktop/BlayTube/app/src/debug/AndroidManifest.xml:142:23-49
-242                <data android:host="invidious.site" />
-242-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:17-47
-242-->/Users/macpro/Desktop/BlayTube/app/src/debug/AndroidManifest.xml:142:23-49
-243                <data android:host="invidious.xyz" />
-243-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:17-47
-243-->/Users/macpro/Desktop/BlayTube/app/src/debug/AndroidManifest.xml:142:23-49
-244                <data android:host="vid.mint.lgbt" />
-244-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:17-47
-244-->/Users/macpro/Desktop/BlayTube/app/src/debug/AndroidManifest.xml:142:23-49
-245                <data android:host="invidiou.site" />
-245-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:17-47
-245-->/Users/macpro/Desktop/BlayTube/app/src/debug/AndroidManifest.xml:142:23-49
-246                <data android:host="invidious.fdn.fr" />
-246-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:17-47
-246-->/Users/macpro/Desktop/BlayTube/app/src/debug/AndroidManifest.xml:142:23-49
-247                <data android:host="invidious.048596.xyz" />
-247-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:17-47
-247-->/Users/macpro/Desktop/BlayTube/app/src/debug/AndroidManifest.xml:142:23-49
-248                <data android:host="invidious.zee.li" />
-248-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:17-47
-248-->/Users/macpro/Desktop/BlayTube/app/src/debug/AndroidManifest.xml:142:23-49
-249                <data android:host="vid.puffyan.us" />
-249-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:17-47
-249-->/Users/macpro/Desktop/BlayTube/app/src/debug/AndroidManifest.xml:142:23-49
-250                <data android:host="ytprivate.com" />
-250-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:17-47
-250-->/Users/macpro/Desktop/BlayTube/app/src/debug/AndroidManifest.xml:142:23-49
-251                <data android:pathPrefix="/" />
-251-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:17-47
-251-->/Users/macpro/Desktop/BlayTube/app/src/debug/AndroidManifest.xml:147:23-47
-252            </intent-filter>
-253
-254            <!-- Soundcloud filter -->
-255            <intent-filter>
-255-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:252:13-266:29
-256                <action android:name="android.intent.action.VIEW" />
-256-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:133:17-69
-256-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:133:25-66
-257                <action android:name="android.media.action.MEDIA_PLAY_FROM_SEARCH" />
-257-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:134:17-86
-257-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:134:25-83
-258                <action android:name="android.nfc.action.NDEF_DISCOVERED" />
-258-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:135:17-77
-258-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:135:25-74
-259
-260                <category android:name="android.intent.category.DEFAULT" />
-260-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:82:17-76
-260-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:82:27-73
-261                <category android:name="android.intent.category.BROWSABLE" />
-261-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:138:17-78
-261-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:138:27-75
-262
-263                <data android:scheme="http" />
-263-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:17-47
-263-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:23-44
-264                <data android:scheme="https" />
-264-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:17-47
-264-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:23-44
-265                <data android:host="soundcloud.com" />
-265-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:17-47
-265-->/Users/macpro/Desktop/BlayTube/app/src/debug/AndroidManifest.xml:142:23-49
-266                <data android:host="m.soundcloud.com" />
-266-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:17-47
-266-->/Users/macpro/Desktop/BlayTube/app/src/debug/AndroidManifest.xml:142:23-49
-267                <data android:host="www.soundcloud.com" />
-267-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:17-47
-267-->/Users/macpro/Desktop/BlayTube/app/src/debug/AndroidManifest.xml:142:23-49
-268                <data android:pathPrefix="/" />
-268-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:17-47
-268-->/Users/macpro/Desktop/BlayTube/app/src/debug/AndroidManifest.xml:147:23-47
-269            </intent-filter>
-270
-271            <!-- Share filter -->
-272            <intent-filter>
-272-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:269:13-273:29
-273                <action android:name="android.intent.action.SEND" />
-273-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:270:17-69
-273-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:270:25-66
-274
-275                <category android:name="android.intent.category.DEFAULT" />
-275-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:82:17-76
-275-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:82:27-73
-276
-277                <data android:mimeType="text/plain" />
-277-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:17-47
-277-->/Users/macpro/Desktop/BlayTube/app/src/debug/AndroidManifest.xml:272:23-52
-278            </intent-filter>
-279
-280            <!-- media.ccc.de filter -->
-281            <intent-filter>
-281-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:276:13-292:29
-282                <action android:name="android.intent.action.VIEW" />
-282-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:133:17-69
-282-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:133:25-66
-283                <action android:name="android.media.action.MEDIA_PLAY_FROM_SEARCH" />
-283-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:134:17-86
-283-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:134:25-83
-284                <action android:name="android.nfc.action.NDEF_DISCOVERED" />
-284-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:135:17-77
-284-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:135:25-74
-285
-286                <category android:name="android.intent.category.DEFAULT" />
-286-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:82:17-76
-286-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:82:27-73
-287                <category android:name="android.intent.category.BROWSABLE" />
-287-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:138:17-78
-287-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:138:27-75
-288
-289                <data android:scheme="http" />
-289-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:17-47
-289-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:23-44
-290                <data android:scheme="https" />
-290-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:17-47
-290-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:23-44
-291                <data android:host="media.ccc.de" />
-291-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:17-47
-291-->/Users/macpro/Desktop/BlayTube/app/src/debug/AndroidManifest.xml:142:23-49
-292                <!-- video prefix -->
-293                <data android:pathPrefix="/v/" />
-293-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:17-47
-293-->/Users/macpro/Desktop/BlayTube/app/src/debug/AndroidManifest.xml:147:23-47
-294                <!-- channel prefix -->
-295                <data android:pathPrefix="/c/" />
-295-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:17-47
-295-->/Users/macpro/Desktop/BlayTube/app/src/debug/AndroidManifest.xml:147:23-47
-296                <data android:pathPrefix="/b/" />
-296-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:17-47
-296-->/Users/macpro/Desktop/BlayTube/app/src/debug/AndroidManifest.xml:147:23-47
-297            </intent-filter>
-298
-299            <!-- PeerTube filter -->
-300            <intent-filter>
-300-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:295:13-321:29
-301                <action android:name="android.intent.action.VIEW" />
-301-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:133:17-69
-301-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:133:25-66
-302                <action android:name="android.media.action.MEDIA_PLAY_FROM_SEARCH" />
-302-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:134:17-86
-302-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:134:25-83
-303                <action android:name="android.nfc.action.NDEF_DISCOVERED" />
-303-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:135:17-77
-303-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:135:25-74
-304
-305                <category android:name="android.intent.category.DEFAULT" />
-305-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:82:17-76
-305-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:82:27-73
-306                <category android:name="android.intent.category.BROWSABLE" />
-306-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:138:17-78
-306-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:138:27-75
-307
-308                <data android:scheme="http" />
-308-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:17-47
-308-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:23-44
-309                <data android:scheme="https" />
-309-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:17-47
-309-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:23-44
-310                <data android:host="framatube.org" />
-310-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:17-47
-310-->/Users/macpro/Desktop/BlayTube/app/src/debug/AndroidManifest.xml:142:23-49
-311                <data android:host="media.assassinate-you.net" />
-311-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:17-47
-311-->/Users/macpro/Desktop/BlayTube/app/src/debug/AndroidManifest.xml:142:23-49
-312                <data android:host="peertube.co.uk" />
-312-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:17-47
-312-->/Users/macpro/Desktop/BlayTube/app/src/debug/AndroidManifest.xml:142:23-49
-313                <data android:host="peertube.cpy.re" />
-313-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:17-47
-313-->/Users/macpro/Desktop/BlayTube/app/src/debug/AndroidManifest.xml:142:23-49
-314                <data android:host="peertube.mastodon.host" />
-314-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:17-47
-314-->/Users/macpro/Desktop/BlayTube/app/src/debug/AndroidManifest.xml:142:23-49
-315                <data android:host="peertube.fr" />
-315-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:17-47
-315-->/Users/macpro/Desktop/BlayTube/app/src/debug/AndroidManifest.xml:142:23-49
-316                <data android:host="tilvids.com" />
-316-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:17-47
-316-->/Users/macpro/Desktop/BlayTube/app/src/debug/AndroidManifest.xml:142:23-49
-317                <data android:host="tube.privacytools.io" />
-317-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:17-47
-317-->/Users/macpro/Desktop/BlayTube/app/src/debug/AndroidManifest.xml:142:23-49
-318                <data android:host="video.ploud.fr" />
-318-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:17-47
-318-->/Users/macpro/Desktop/BlayTube/app/src/debug/AndroidManifest.xml:142:23-49
-319                <data android:host="video.lqdn.fr" />
-319-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:17-47
-319-->/Users/macpro/Desktop/BlayTube/app/src/debug/AndroidManifest.xml:142:23-49
-320                <data android:host="skeptikon.fr" />
-320-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:17-47
-320-->/Users/macpro/Desktop/BlayTube/app/src/debug/AndroidManifest.xml:142:23-49
-321                <data android:pathPrefix="/videos/" /> <!-- it contains playlists -->
-321-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:17-47
-321-->/Users/macpro/Desktop/BlayTube/app/src/debug/AndroidManifest.xml:147:23-47
-322                <data android:pathPrefix="/accounts/" />
-322-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:17-47
-322-->/Users/macpro/Desktop/BlayTube/app/src/debug/AndroidManifest.xml:147:23-47
-323                <data android:pathPrefix="/video-channels/" />
-323-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:17-47
-323-->/Users/macpro/Desktop/BlayTube/app/src/debug/AndroidManifest.xml:147:23-47
-324            </intent-filter>
-325
-326            <!-- Bandcamp filter -->
-327            <intent-filter>
-327-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:324:13-337:29
-328                <action android:name="android.intent.action.VIEW" />
-328-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:133:17-69
-328-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:133:25-66
-329                <action android:name="android.media.action.MEDIA_PLAY_FROM_SEARCH" />
-329-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:134:17-86
-329-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:134:25-83
-330                <action android:name="android.nfc.action.NDEF_DISCOVERED" />
-330-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:135:17-77
-330-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:135:25-74
-331
-332                <category android:name="android.intent.category.DEFAULT" />
-332-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:82:17-76
-332-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:82:27-73
-333                <category android:name="android.intent.category.BROWSABLE" />
-333-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:138:17-78
-333-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:138:27-75
-334
-335                <data android:scheme="http" />
-335-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:17-47
-335-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:23-44
-336                <data android:scheme="https" />
-336-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:17-47
-336-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:23-44
-337                <data android:host="bandcamp.com" />
-337-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:17-47
-337-->/Users/macpro/Desktop/BlayTube/app/src/debug/AndroidManifest.xml:142:23-49
-338                <data android:host="*.bandcamp.com" />
-338-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:17-47
-338-->/Users/macpro/Desktop/BlayTube/app/src/debug/AndroidManifest.xml:142:23-49
-339                <data android:pathPrefix="/" />
-339-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:140:17-47
-339-->/Users/macpro/Desktop/BlayTube/app/src/debug/AndroidManifest.xml:147:23-47
-340            </intent-filter>
-341        </activity>
-342
-343        <service
-343-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:339:9-341:40
-344            android:name="org.blayboy.newpipe.RouterActivity$FetcherService"
-344-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:340:13-58
-345            android:exported="false" />
-345-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:341:13-37
-346
-347        <!-- opting out of sending metrics to Google in Android System WebView -->
-348        <meta-data
-348-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:344:9-95
-349            android:name="android.webkit.WebView.MetricsOptOut"
-349-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:344:20-71
-350            android:value="true" />
-350-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:344:72-92
-351        <!-- see https://github.com/TeamNewPipe/NewPipe/issues/3947 -->
-352        <!-- Version < 3.0. DeX Mode and Screen Mirroring support -->
-353        <meta-data
-353-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:347:9-95
-354            android:name="com.samsung.android.keepalive.density"
-354-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:347:20-72
-355            android:value="true" />
-355-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:347:73-93
-356        <!-- Version >= 3.0. DeX Dual Mode support -->
-357        <meta-data
-357-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:349:9-109
-358            android:name="com.samsung.android.multidisplay.keep_process_alive"
-358-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:349:20-86
-359            android:value="true" />
-359-->/Users/macpro/Desktop/BlayTube/app/src/main/AndroidManifest.xml:349:87-107
-360
-361        <service
-361-->[androidx.room:room-runtime:2.3.0-alpha03] /Users/macpro/.gradle/caches/transforms-3/d523112e0d3e7a0341b7d9b7bde6f618/transformed/room-runtime-2.3.0-alpha03/AndroidManifest.xml:25:9-28:40
-362            android:name="androidx.room.MultiInstanceInvalidationService"
-362-->[androidx.room:room-runtime:2.3.0-alpha03] /Users/macpro/.gradle/caches/transforms-3/d523112e0d3e7a0341b7d9b7bde6f618/transformed/room-runtime-2.3.0-alpha03/AndroidManifest.xml:26:13-74
-363            android:directBootAware="true"
-363-->[androidx.room:room-runtime:2.3.0-alpha03] /Users/macpro/.gradle/caches/transforms-3/d523112e0d3e7a0341b7d9b7bde6f618/transformed/room-runtime-2.3.0-alpha03/AndroidManifest.xml:27:13-43
-364            android:exported="false" />
-364-->[androidx.room:room-runtime:2.3.0-alpha03] /Users/macpro/.gradle/caches/transforms-3/d523112e0d3e7a0341b7d9b7bde6f618/transformed/room-runtime-2.3.0-alpha03/AndroidManifest.xml:28:13-37
-365        <service
-365-->[ch.acra:acra-core:5.7.0] /Users/macpro/.gradle/caches/transforms-3/72eb56fce6add276700a55cee5378ca4/transformed/jetified-acra-core-5.7.0/AndroidManifest.xml:27:9-31:39
-366            android:name="org.acra.sender.LegacySenderService"
-366-->[ch.acra:acra-core:5.7.0] /Users/macpro/.gradle/caches/transforms-3/72eb56fce6add276700a55cee5378ca4/transformed/jetified-acra-core-5.7.0/AndroidManifest.xml:28:13-63
-367            android:enabled="@bool/acra_enable_legacy_service"
-367-->[ch.acra:acra-core:5.7.0] /Users/macpro/.gradle/caches/transforms-3/72eb56fce6add276700a55cee5378ca4/transformed/jetified-acra-core-5.7.0/AndroidManifest.xml:29:13-63
-368            android:exported="false"
-368-->[ch.acra:acra-core:5.7.0] /Users/macpro/.gradle/caches/transforms-3/72eb56fce6add276700a55cee5378ca4/transformed/jetified-acra-core-5.7.0/AndroidManifest.xml:30:13-37
-369            android:process=":acra" />
-369-->[ch.acra:acra-core:5.7.0] /Users/macpro/.gradle/caches/transforms-3/72eb56fce6add276700a55cee5378ca4/transformed/jetified-acra-core-5.7.0/AndroidManifest.xml:31:13-36
-370        <service
-370-->[ch.acra:acra-core:5.7.0] /Users/macpro/.gradle/caches/transforms-3/72eb56fce6add276700a55cee5378ca4/transformed/jetified-acra-core-5.7.0/AndroidManifest.xml:32:9-37:39
-371            android:name="org.acra.sender.JobSenderService"
-371-->[ch.acra:acra-core:5.7.0] /Users/macpro/.gradle/caches/transforms-3/72eb56fce6add276700a55cee5378ca4/transformed/jetified-acra-core-5.7.0/AndroidManifest.xml:33:13-60
-372            android:enabled="@bool/acra_enable_job_service"
-372-->[ch.acra:acra-core:5.7.0] /Users/macpro/.gradle/caches/transforms-3/72eb56fce6add276700a55cee5378ca4/transformed/jetified-acra-core-5.7.0/AndroidManifest.xml:34:13-60
-373            android:exported="false"
-373-->[ch.acra:acra-core:5.7.0] /Users/macpro/.gradle/caches/transforms-3/72eb56fce6add276700a55cee5378ca4/transformed/jetified-acra-core-5.7.0/AndroidManifest.xml:35:13-37
-374            android:permission="android.permission.BIND_JOB_SERVICE"
-374-->[ch.acra:acra-core:5.7.0] /Users/macpro/.gradle/caches/transforms-3/72eb56fce6add276700a55cee5378ca4/transformed/jetified-acra-core-5.7.0/AndroidManifest.xml:36:13-69
-375            android:process=":acra" />
-375-->[ch.acra:acra-core:5.7.0] /Users/macpro/.gradle/caches/transforms-3/72eb56fce6add276700a55cee5378ca4/transformed/jetified-acra-core-5.7.0/AndroidManifest.xml:37:13-36
-376
-377        <provider
-377-->[ch.acra:acra-core:5.7.0] /Users/macpro/.gradle/caches/transforms-3/72eb56fce6add276700a55cee5378ca4/transformed/jetified-acra-core-5.7.0/AndroidManifest.xml:39:9-45:51
-378            android:name="org.acra.attachment.AcraContentProvider"
-378-->[ch.acra:acra-core:5.7.0] /Users/macpro/.gradle/caches/transforms-3/72eb56fce6add276700a55cee5378ca4/transformed/jetified-acra-core-5.7.0/AndroidManifest.xml:40:13-67
-379            android:authorities="org.blayboy.newpipe.acra"
-379-->[ch.acra:acra-core:5.7.0] /Users/macpro/.gradle/caches/transforms-3/72eb56fce6add276700a55cee5378ca4/transformed/jetified-acra-core-5.7.0/AndroidManifest.xml:41:13-56
-380            android:exported="false"
-380-->[ch.acra:acra-core:5.7.0] /Users/macpro/.gradle/caches/transforms-3/72eb56fce6add276700a55cee5378ca4/transformed/jetified-acra-core-5.7.0/AndroidManifest.xml:42:13-37
-381            android:grantUriPermissions="true"
-381-->[ch.acra:acra-core:5.7.0] /Users/macpro/.gradle/caches/transforms-3/72eb56fce6add276700a55cee5378ca4/transformed/jetified-acra-core-5.7.0/AndroidManifest.xml:43:13-47
-382            android:process=":acra" />
-382-->[ch.acra:acra-core:5.7.0] /Users/macpro/.gradle/caches/transforms-3/72eb56fce6add276700a55cee5378ca4/transformed/jetified-acra-core-5.7.0/AndroidManifest.xml:44:13-36
-383    </application>
-384
-385</manifest>
+230        <provider
+230-->[ch.acra:acra-core:5.7.0] /Users/macpro/.gradle/caches/transforms-3/72eb56fce6add276700a55cee5378ca4/transformed/jetified-acra-core-5.7.0/AndroidManifest.xml:39:9-45:51
+231            android:name="org.acra.attachment.AcraContentProvider"
+231-->[ch.acra:acra-core:5.7.0] /Users/macpro/.gradle/caches/transforms-3/72eb56fce6add276700a55cee5378ca4/transformed/jetified-acra-core-5.7.0/AndroidManifest.xml:40:13-67
+232            android:authorities="org.blayboy.newpipe.debug.acra"
+232-->[ch.acra:acra-core:5.7.0] /Users/macpro/.gradle/caches/transforms-3/72eb56fce6add276700a55cee5378ca4/transformed/jetified-acra-core-5.7.0/AndroidManifest.xml:41:13-56
+233            android:exported="false"
+233-->[ch.acra:acra-core:5.7.0] /Users/macpro/.gradle/caches/transforms-3/72eb56fce6add276700a55cee5378ca4/transformed/jetified-acra-core-5.7.0/AndroidManifest.xml:42:13-37
+234            android:grantUriPermissions="true"
+234-->[ch.acra:acra-core:5.7.0] /Users/macpro/.gradle/caches/transforms-3/72eb56fce6add276700a55cee5378ca4/transformed/jetified-acra-core-5.7.0/AndroidManifest.xml:43:13-47
+235            android:process=":acra" />
+235-->[ch.acra:acra-core:5.7.0] /Users/macpro/.gradle/caches/transforms-3/72eb56fce6add276700a55cee5378ca4/transformed/jetified-acra-core-5.7.0/AndroidManifest.xml:44:13-36
+236    </application>
+237
+238</manifest>
