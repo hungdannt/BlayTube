@@ -577,7 +577,7 @@
     <string name="feed_update_threshold_option_always_update">Luôn cập nhật</string>
     <string name="feed_update_threshold_summary">Khoảng thời gian kể từ lần cuối cập nhật thông tin kênh trước khi nó được coi là hết hạn — %s</string>
     <string name="feed_update_threshold_title">Ngưỡng thời gian cập nhật feed</string>
-    <string name="settings_category_feed_title">Nguồn cấp (feed)</string>
+    <string name="settings_category_feed_title">BlayTube</string>
     <string name="feed_create_new_group_button_title">Tạo mới</string>
     <string name="feed_group_dialog_delete_message">Bạn muốn xóa nhóm kênh này\?</string>
     <string name="feed_group_dialog_empty_name">Tên nhóm kênh trống</string>

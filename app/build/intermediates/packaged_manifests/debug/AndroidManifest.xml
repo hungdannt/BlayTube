@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="org.blayboy.newpipe.debug"
+    package="org.blayboy.newpipe"
     android:installLocation="auto"
     android:versionCode="968"
     android:versionName="0.21.2" >
@@ -116,7 +116,7 @@
 
         <provider
             android:name="androidx.core.content.FileProvider"
-            android:authorities="org.blayboy.newpipe.debug.provider"
+            android:authorities="org.blayboy.newpipe.provider"
             android:exported="false"
             android:grantUriPermissions="true" >
             <meta-data
@@ -376,7 +376,7 @@
 
         <provider
             android:name="org.acra.attachment.AcraContentProvider"
-            android:authorities="org.blayboy.newpipe.debug.acra"
+            android:authorities="org.blayboy.newpipe.acra"
             android:exported="false"
             android:grantUriPermissions="true"
             android:process=":acra" />

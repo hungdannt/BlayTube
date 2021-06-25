@@ -1,6 +1,6 @@
 1<?xml version="1.0" encoding="utf-8"?>
 2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
-3    package="org.blayboy.newpipe.debug"
+3    package="org.blayboy.newpipe"
 4    android:installLocation="auto"
 5    android:versionCode="968"
 6    android:versionName="0.21.2" >
@@ -216,7 +216,7 @@
 117        <provider
 118            android:name="androidx.core.content.FileProvider"
 118-->/Users/macpro/Desktop/BlayTube/app/src/debug/AndroidManifest.xml:115:13-62
-119            android:authorities="org.blayboy.newpipe.debug.provider"
+119            android:authorities="org.blayboy.newpipe.provider"
 119-->/Users/macpro/Desktop/BlayTube/app/src/debug/AndroidManifest.xml:116:13-60
 120            android:exported="false"
 120-->/Users/macpro/Desktop/BlayTube/app/src/debug/AndroidManifest.xml:117:13-37
@@ -810,7 +810,7 @@
 377-->[ch.acra:acra-core:5.7.0] /Users/macpro/.gradle/caches/transforms-3/72eb56fce6add276700a55cee5378ca4/transformed/jetified-acra-core-5.7.0/AndroidManifest.xml:39:9-45:51
 378            android:name="org.acra.attachment.AcraContentProvider"
 378-->[ch.acra:acra-core:5.7.0] /Users/macpro/.gradle/caches/transforms-3/72eb56fce6add276700a55cee5378ca4/transformed/jetified-acra-core-5.7.0/AndroidManifest.xml:40:13-67
-379            android:authorities="org.blayboy.newpipe.debug.acra"
+379            android:authorities="org.blayboy.newpipe.acra"
 379-->[ch.acra:acra-core:5.7.0] /Users/macpro/.gradle/caches/transforms-3/72eb56fce6add276700a55cee5378ca4/transformed/jetified-acra-core-5.7.0/AndroidManifest.xml:41:13-56
 380            android:exported="false"
 380-->[ch.acra:acra-core:5.7.0] /Users/macpro/.gradle/caches/transforms-3/72eb56fce6add276700a55cee5378ca4/transformed/jetified-acra-core-5.7.0/AndroidManifest.xml:42:13-37

@@ -19,7 +19,6 @@ import com.nononsenseapps.filepicker.Utils;
 import org.blayboy.newpipe.util.FilePickerActivityHelper;
 import org.blayboy.newpipe.util.Localization;
 import org.blayboy.newpipe.R;
-import org.blayboy.newpipe.util.FilePickerActivityHelper;
 
 import java.io.File;
 import java.io.IOException;
@@ -30,7 +29,6 @@ import java.nio.charset.StandardCharsets;
 
 import us.shandian.giga.io.StoredDirectoryHelper;
 
-import static org.blayboy.newpipe.util.Localization.assureCorrectAppLanguage;
 
 public class DownloadSettingsFragment extends BasePreferenceFragment {
     public static final boolean IGNORE_RELEASE_ON_OLD_PATH = true;

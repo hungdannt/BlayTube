@@ -32,39 +32,26 @@ android {
         debug {
             debuggable true
 
-            // suffix the app id and the app name with git branch name
-//            def workingBranch = getGitWorkingBranch()
-//            def normalizedWorkingBranch = workingBranch.replaceFirst("^[^A-Za-z]+", "").replaceAll("[^0-9A-Za-z]+", "")
-//            if (normalizedWorkingBranch.isEmpty() || workingBranch == "master" || workingBranch == "dev") {
-                // default values when branch name could not be determined or is master or dev
-                applicationIdSuffix ".debug"
+//                applicationIdSuffix ".debug"
                 resValue "string", "app_name", "BlayTube"
-//            } else {
-//                applicationIdSuffix ".debug." + normalizedWorkingBranch
-//                resValue "string", "app_name", "BlayTube " + workingBranch
-//                archivesBaseName = 'BlayTube' + normalizedWorkingBranch
-//            }
+
         }
 
 
         release {
             minifyEnabled false
-            shrinkResources false // disabled to fix F-Droid's reproducible build
+            shrinkResources false
             archivesBaseName = 'app'
         }
     }
 
     lintOptions {
         checkReleaseBuilds false
-        // Or, if you prefer, you can continue to check for errors in release builds,
-        // but continue the build even when errors are found:
         abortOnError false
     }
 
     compileOptions {
-        // Flag to enable support for the new language APIs
         coreLibraryDesugaringEnabled true
-
         sourceCompatibility JavaVersion.VERSION_1_8
         targetCompatibility JavaVersion.VERSION_1_8
         encoding 'utf-8'
@@ -74,7 +61,6 @@ android {
         jvmTarget = JavaVersion.VERSION_1_8
     }
 
-    // Required and used only by groupie
     androidExtensions {
         experimental = true
     }
@@ -233,18 +219,3 @@ dependencies {
     }
 }
 
-static String getGitWorkingBranch() {
-    try {
-        def gitProcess = "git rev-parse --abbrev-ref HEAD".execute()
-        gitProcess.waitFor()
-        if (gitProcess.exitValue() == 0) {
-            return gitProcess.text.trim()
-        } else {
-            // not a git repository
-            return ""
-        }
-    } catch (IOException ignored) {
-        // git was not found
-        return ""
-    }
-}

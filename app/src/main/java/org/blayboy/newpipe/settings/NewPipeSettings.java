@@ -16,13 +16,10 @@ public final class NewPipeSettings {
     private NewPipeSettings() { }
 
     public static void initSettings(final Context context) {
-        // check if there are entries in the prefs to determine whether this is the first app run
         Boolean isFirstRun = null;
         final Set<String> prefsKeys = PreferenceManager.getDefaultSharedPreferences(context)
                 .getAll().keySet();
         for (final String key: prefsKeys) {
-            // ACRA stores some info in the prefs during app initialization
-            // which happens before this method is called. Therefore ignore ACRA-related keys.
             if (!key.toLowerCase().startsWith("acra")) {
                 isFirstRun = false;
                 break;
@@ -74,7 +71,7 @@ public final class NewPipeSettings {
     }
 
     private static String getNewPipeChildFolderPathForDir(final File dir) {
-        return new File(dir, "NewPipe").toURI().toString();
+        return new File(dir, "BlayTube").toURI().toString();
     }
 
     public static boolean useStorageAccessFramework(final Context context) {
